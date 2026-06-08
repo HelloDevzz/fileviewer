@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: PE
+Plan: Premium
+Next Billing: June 14, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: S/ 52.90
+Extra Member: Yes
+Profiles (5): JAIME, ENZO, YENI, BRAYAN, Adriana
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782066583	flwssn	f72735fb-afa9-4541-8842-a3aae40a041a
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	83a1f237-d339-43ba-963f-472d4783ac03
+.netflix.com	TRUE	/	FALSE	1782066583	nfvdid	BQFmAAEBEP64IyuSZUMO-ZgMDUTXJt9gPxFBqt15b3Hd9XVSKYP45y-yf2DWXXjD_1EOEfv4s-7ztv2qpxt6b2aPSS_Gq3-ygRCHH8Rz1BbcpM1m2Z1rJYYNid7V3uHydVqrNyBkSISwGojcyFzVGF96V5pZPnUq
+.netflix.com	TRUE	/	TRUE	1782066583	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AjtNBuCHfnvZDXFC_He7xhxL28Oe-zvFKb8yNm5gatDlaDjyslZRUeMvNYpJ_plYIJ5UVBZO-qt6SlWiVtfKFSwZKKdAmzg9sv7uH1WWfjGOtxYW_9FF_DvaA7iNV_mqM96E8_Z09XHv86jdGhde6uoTS_ghTGYbmp4vtWTp0nECfURjleAAz3czsgLtnkpmB7gext_9-BWdSGmPhYLWyZ9Ysxwv6ODhMdsPEfia7ABWptmLrcXiDJJpAazVitXya4AxOlx6ayXummPksfcm8nP66VHYuzxlsfpywiWYvCRJa15yun8jvBOjdXQ3w8hoVewrEYV68cwsXzxoUPeVEZPVV6UyvxjvfK1BBUfqWh4a4GKCajqxThFtzCITroYasE17IumgJxiTJlpRsvy_5d2CKMdWYBCkmaT2a6lTFXH-cidKSsDdsUF9g5Cu--U9CGYRm6J4Dv-EMrv5g2NjTK6Fk1HI9Z7NLWJykr4MwZTzGVQGjcEYBiIOCgxqq6M0ociIC8E_SWQ.%26ch%3DAQEAEAABABSrMcoFYWL9-jpXiPsDrzt0_YR31n4F8w0.
+.netflix.com	TRUE	/	FALSE	1782066583	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066583	netflix-sans-normal-3-loaded	true

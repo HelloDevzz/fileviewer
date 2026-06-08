@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: ZA
+Plan: Premium
+Next Billing: July 3, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R 229
+Profiles (5): Donovan, Mason, Mackenzie, Jay, Kirsten
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1805020422	nfvdid	BQFmAAEBEEBsu-J-51uFyPOgT8Mdh-tgYnJza3ee86A6aLSQZzk3USzm1Ygu86DX6gWi3qlUbj4_vW0sgpMt-8FZJpZR7HabHzNQMMlL7W2ayFdUWmiBW3d-mk6CX0oAxuWULA4QT7AqiREUEgIFcJY3bPV9QlPv
+.netflix.com	TRUE	/	TRUE	1805107818	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA9CYLwOPP3jaXi6yxhos-1OVIb2JaajtwpRmmU7GHTZAAc6rWwehyN4Wx-BRzxHgLi4DXBAH3ARkdAAal4KPdXyxmg3ipSX4hk5vPxx0Gx2HkgnRdkVAXq3f2BNdTzdOvFIbUlEp8Y_0ovqsjQnM1GyPyCUgPcl7idUiEFVhyEpnAwwWFSbdVSoTE7QC7AMc0xBCiE5q6Ya1rAPlItF63KNwr_p9YIx5f-cASObAonLMQoY5dYTAIlyJuY3lrfi11pogEgh4t43TiZ2c-OMs91gG3e7uoiWf_dGCLikm0aQCrHeHQrAgln8fDqFy1bD_m1I51HcsL6hPZdVVRUWzu8jvN8qy7SNfFFZ2ZwAuZDTVzBzZlsQXmyG3ktsSn7KeR2ZMmvII8SQYEudpJvs_nO3WaQEq9zRSSzAO9xZ7g6vru_mlTJGx6_ulnYByCe5CK8_-NmeTxhK2bOXg2EWgEm-EOf_QUz0m9v1aMCouPP4D1VMRe_OsHXj1zEz8Er4QfsVJtUG3wUGglHdVlvFBtcc733XpK6GvMcTWAhgGIg4KDH66qUdV1bdr5JSBzA..%26pg%3DMK6FTAFDRJBQHFDU5CZWTKXFJQ%26ch%3DAQEAEAABABRE8PgnKWLJ1pYOMQ6l1OBTj4WzhyY_wos.
+.netflix.com	TRUE	/	FALSE	1805107821	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+12%3A50%3A21+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=46c7276b-c29b-4ded-adf5-9a97d28e94a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782201599	gsid	fae38226-853d-41d9-9bd3-bf508ddf3634
+.netflix.com	TRUE	/	FALSE	1781347819	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781347819	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782201599	profilesNewSession	0

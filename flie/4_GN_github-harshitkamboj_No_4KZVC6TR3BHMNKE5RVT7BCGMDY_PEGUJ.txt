@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: GN
+Plan: Premium
+Next Billing: July 5, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 9,99 $US
+Profiles (5): ABDOULAYE BARRY, Smart, Bureau, Jomanigui, iPhone
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1801319068	nfvdid	BQFmAAEBELQcBKqHli10u7fLRfFPzM5g0pYMd58x5E63yDZQGv44AILzmqxcSrTUQWh2BPGOmg-MSKHSFqP3HoI2QjMHRaGl0qm9QsEceR42g5_CyIAvNpqZbOL6Y2inNyPzxVZJqQCfsXX5VmpQJYsebMdrX3Xy
+.netflix.com	TRUE	/	FALSE	1807889887	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+17%3A38%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3c935322-c091-4214-8dbc-eb47828d5d3f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769783068693&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808512438	NetflixId	ct%3DBgjHlOvcAxKJBK_dHBV9Xw0XbQerG4Pk75zV765dfmmVtzKc_oOXlaWt3fTCzinIxfpRAuAUQfN3Uet6LTgBmDhLLhy4MAW0rBbvTFU3y8MIShczZqLQ73T-Hvu9Q0RSq8ENy7n9NZiVG_PjVFeKAan-Mj3hAue31Wu4cw_B9S-RL9klEtkKQ66466cywmqqfmebTbsLZJKqVFPvaxQ4fDPwZogdCeS2fy60SYiu8AaBbXkwd40WvBy8RLjyd2jllK6AFFSpg-uH06Cn93OaQ6kLhb3GV5D8eND-fNnQZ7bYV0UUMhM_fii338mXAJKc6hid_LPQsH9rp4UxE-Ny4QGmyU_xAl0PGdDi6Tc1LLivLVOWqSPoEwpWd8HgOJgg4HoUa2HTCnGYl0yfVBsTW6Jkoinos8nmBO634rA1_7GkM0sFnUeTNfJpvxkrgxW-2hsBLAeHHt6mAnA2aXi8D5sTXgvOZxHbUjJyZKzmOw4fmZmakSBCghAUbaVN4_mr-4e7bmLHlUCUDXOFvqm-FkxOIPkZ9T0e_2l76ESjFe5QWlq7ggCY9mYQYLiBAuLORXV4nFkNLUUpGtQKkmsL8dk2HLUPE6TAKyF4yzQQdxocLZf5obRyHudQQ6Y_IJMN87rkfQ8A-km5COzCAktJT6FM6b6Vmy_jjUsNKoIx5-AQFrkkDU06DlZ0Iimrx22kWSaMGAYiDgoMQyYU4GC4EIjOuSfL%26ch%3DAQEAEAABABSfmZchkxUOMtf5AsVtPUbEg30XNOyTs9w.%26v%3D3%26pg%3D4KZVC6TR3BHMNKE5RVT7BCGMDY
+.netflix.com	TRUE	/	TRUE	1808512438	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSV438b49gEhRm6xPxM3KtcMwmgCaLZS70.%26dt%3D1776976438013
+.netflix.com	TRUE	/	TRUE	1782765517	gsid	472d7d71-0dfb-4bfd-acf8-c806c0591a13
+.netflix.com	TRUE	/	FALSE	1784752438	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784752438	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784752438	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

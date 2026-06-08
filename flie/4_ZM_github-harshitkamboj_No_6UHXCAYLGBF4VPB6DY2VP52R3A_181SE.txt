@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: ZM
+Plan: Premium
+Next Billing: July 2, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (5): Petros, Baby lucky, Łųçķý Ťhę Ğűý, Sibu, Zandi
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1804111297	nfvdid	BQFmAAEBEJ-bX2Zn37SR7SHLIM6_ZHFgkW8EbDYoUq9LUWQPqEUzk7P81SI-a-z1TpwrNLINlG2YedjqAk4mmBdUrfoLOzeNEx96ZTne_Yqw16p-2AcNtAhFVhFoXMu0Kk9xPlxUyfPFGh9tn9niHMiE0o74F4-3
+.netflix.com	TRUE	/	TRUE	1781798732	gsid	0c660e80-29e2-431b-b0cd-8362d4e99e85
+.netflix.com	TRUE	/	TRUE	1808447606	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKrA0RV-dxg9dkNc_VqRoRURAY6Syq0jcnY1rHqxXZymqCpN4y20W1QDJJwUd18msn-2-L43cx6YdUkeq1v57sIlVEPoT-dINAFyMKc4LZ7r2MMc45AKyyePMq-oRcyGgSHukE3ViTTwF6DOVTqnTzVeCdeUaaPTF6wDv3BEltUEYYZFTtss7LZF-YRtBNY5zkq1RHApjiw9oqDtaAGXAEy-fAwzexNBIysj-2YKgtBisuBezllSz9MkwmJnZqAuu0B-vQGwFbvASiOMDlobgtHmvMlKS9i4oH6GMA2ILwCqrTeYQT3KOUwQnR_yNxySZWT-QACRKfQ_f-HDdkBQxRrMQBMLZ9Nqls_aOGl7n_ZQb5lomMgM6xQYqIRemBtW8dDnfSvr-zRu-VnXABp0OIMPNoEPPgXv0Y0l7kY8AwwYfWpx-IPnr_LEcJAhZbF_MawFP3jhd7jg1n1PVxjbD5hw0USZZ0bOkM03d33OxmG-nDsrmJkxq7a3XWyFqTaXoqCv-ADeVLIJDaXPnV_bZcz8g3oy_PsMZ9bzufL3xqgw1agqz34NLnbIflsUW4YBiIOCgyaTlJnDfxmh5l3BvU.%26pg%3D6UHXCAYLGBF4VPB6DY2VP52R3A%26ch%3DAQEAEAABABThB8wzrfTBKbTaCbIgkOjuERYXR6SPZYM.
+.netflix.com	TRUE	/	TRUE	1808447606	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKRM0diEr5y0Acml9ec1DNkN1eWsKbz4M.%26dt%3D1776929611680
+.netflix.com	TRUE	/	FALSE	1784687607	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784687607	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808447637	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+09%3A33%3A57+GMT%2B0700+(Novosibirsk+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=43e1bd3e-61ed-4499-8980-aecb54afab83&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772577737973&AwaitingReconsent=false&prevHadToken=0

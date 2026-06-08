@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: July 2, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Débora, Guilherme QUEM LEU E DOIDO KKKKKKKKKKK, Guido, K, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1808082452	OptanonAlertBoxClosed	2026-04-18T21:07:32.388Z
+.netflix.com	TRUE	/	FALSE	1808848757	nfvdid	BQFmAAEBEBm1af78ScIta6BLIUaIILxg8oIGcSiHVW4xsBemI-kzJRoqFNlBE0d7PaXH3PLHHVW2cqQxkzPfk2BY-fSuyTUkZvdkTIL1ZE-sPClau6Mv42gyz8IZe_SXmE_DU4vFZ1o9Tq1OsK0XWQ0J-4pSkbyj
+.netflix.com	TRUE	/	TRUE	1809015602	NetflixId	ct%3DBgjHlOvcAxLuA-3VpfQoZzv3tRzg9cgi-wl4rxOpw1r-F0M4hxFYBkGHrl5sV1kZVNMu81HRp_-Ry-M0S4LwhKL0MZr71kwQbn7DrLhjUMmDqtdGEEU6gaTnV0-0qG-550IG-JG2GF7uxYaEQr_pJ0E_LntBdnzDNQ9dYsBBJBmClatE8N9UQYCjUyL2a-qVMWXcHv0x__FLqVkTueX4HWz9JG96MYl9VbqJwUyS851uTlvBtCTG4EAyV4_-5TEX2hgrIRvJk7RN_WDx3wG-ZxfoJZyHCrEUfh6rrWCvjM0vM0AtuSMOTpJELRDH62zyMahVS-8UamTdkYCh4Pjuegvtb5xDUnxQIbvSTPg9hLIgSUiGhhEk87XREEZQjLDHyirXa17KWkfzcD2MKc795EdB6ygbSQ5tNKgis_tnX8mKe16kozoJcPbdg_KvJE04eI6am4xd9uE0ee2lPhptjunxLWB2plyikeHSXdQs8yHY3Zi8G6DaDKIuJ1XJZQmVHQpeF6zy9rH4jKDQCr040LcxCHQHjCCpe91AE4cwwCalvcP_P1VvN7wT8Dzdp7FG22FtMBONXjPRjtjuYKukPqbvfRXDx8Pbbi2GK-vTrY98176EJBU6R0gSdV0eUc5zSYbDMNtFdQoWBAtXMnsN9y1lYtRHE5aJGAYiDgoM93-G0K4NBy_gaXzL%26ch%3DAQEAEAABABTlH2TiCCfJouJCAIhfG1KGbsGoj6BQwX0.%26v%3D3%26pg%3DVSZ6JBDS6FHJLFBUZMCEJ2FZYU
+.netflix.com	TRUE	/	FALSE	1809015603	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+13%3A20%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d0eec883-ed87-4ac8-876a-8db69880c717&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776546452844&geolocation=BR%3BSC&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809015602	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRk9XfBKQwuq__Lw-BreVs0xgVQlgQea6E.%26dt%3D1777479600381
+.netflix.com	TRUE	/	FALSE	1785255603	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785255603	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785255603	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

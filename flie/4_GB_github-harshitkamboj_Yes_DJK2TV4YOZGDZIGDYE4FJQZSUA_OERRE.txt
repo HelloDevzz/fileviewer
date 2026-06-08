@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: June 17, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: £18.99
+Extra Member: Yes
+Profiles (5): Danibanani, samuel onlyg, Debi, Daddy, mommy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1800790958	OptanonAlertBoxClosed	2026-01-24T11:42:38.464Z
+.netflix.com	TRUE	/	TRUE	1805034708	dsca	true
+.netflix.com	TRUE	/	FALSE	1802010708	nfvdid	BQFmAAEBEPTEIrBBOsRfcUVhWolzRfVgAogIntzBK_M023gChuiE6mE943EymDALwgZcqEeQbXSm-_ZEcdjHJa3axXtj-6uRNRsqBI8wEA1Y1xnTHD0xg71tg-UkTOscVRMDs6JPA4rzbc7-x-z9v2uEOSSrIaeO
+.netflix.com	TRUE	/	TRUE	1803390771	NetflixId	ct%3DBgjHlOvcAxLtA4aGPfoqW91Icy9ZsaVIgJ5Oe2b53eI57Jn7e2uZ54qn3bc0QKsZ_ylB1a3VoWzkP_Sj4VphzJZAJIuPOsN2ixXMIyAePTvGGsFBklGmJuFsbQyZDgUrGzvJoLNeoeMsFpebmCZMOtAoIJsT2P3HEWQfFsftr3n8QW7dDD_2jbQxSUNp1RAhlSESiaxtxKuEgmmPIPRa7MX9p8W1loY9SSUR0Ixht2cngDqR5gt8XifX77DN5dzUFrD_bamMPcGHkA0l6mBvv4HRP_x1z03CA0aFJkoFoptQ_dxA-o6lqYlUbIOwpI5XNM5PMJGESn--B829wxEVI_Xs1FG9TcWvark4W0TJu54GYFz6nefnEgPPMKshWbPK0Wmqeg5Y0JrlwiD0B3x74pZqnnkh7DWI-b7dvtIZtwWNxJF_sFUJYdmPsn23GYhq6b3KKxkKEKY_nwTJLF9AJItWt-gnUophBJtZdkkDPpiyIfu9sc1lXgNN0TKjijRcEHL8uuB_Ld6qS1pRFSIUM0CN94F7-ai8IZqG3CqCbs-HIQ5qmfUYXoOClTb0uA2QF3xjMhT2ComKo4x_v_2A_LTG6GC_eZlaD1FKfbz2Da0c8YIyDiGLrlZkHRafgu9J7lmY-YT__0aw2BsVaW6CITCvXCuvzGcYBiIOCgy4qtROPae3PMnFJUw.%26ch%3DAQEAEAABABTuedPqOs4GZxkypTV4VQplakgEE-nj0h4.%26v%3D3%26pg%3DDJK2TV4YOZGDZIGDYE4FJQZSUA
+.netflix.com	TRUE	/	FALSE	1803422052	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+22%3A34%3A12+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc05b278-6053-4c44-9db3-6e1c65fcd456&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1769254958932&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782676595	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782676595	netflix-sans-normal-3-loaded	true

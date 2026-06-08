@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Lay, Zaf, Acsa, Tânia, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1798245194	dsca	true
+.netflix.com	TRUE	/	FALSE	1801245579	OptanonAlertBoxClosed	2026-01-29T17:59:39.507Z
+.netflix.com	TRUE	/	TRUE	1801245759	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyAtz6VCFjw9O87M4GzulJfzwY7KNEm6h3fApIwXaxrXpbOc41cJ75jEsQnfHGt0ve6l-r6w7yWuGnc-P0aCdncjWni0bHAVCUCeT4w3nOp-SGhSN8lXBrAVLWaSQP9Nnx6xZJ6Tz4Mn7EKJerPHJUM8pi4ge_IJR3wzifw66DU7mJy3-qIXgtGbSt55cywYrLG3sVmszxy0NfIBR95Vb_avYVUp108MkFPvJenpdNiE_PzBUMUxixRV1a2CPb6IMiXKfNXLJU5QcaYJ4pfXIwkyPCv_kQr4lXQAP0Tnw3nsujrRQ0NH1hBO0tFcjMawXI_gR8dlTWrOzlMU3cFWaKKlsCaHRdybSDFvHyo6NG9Or-aEBgoliSpd33G7rVjzv0Jj7_RgwcI8JU4Ye3atFSHQV1Hd0Jeb85fgVJyQ69v3dnog118KxSTwbFyIjsh7I2a82UNoNdul3IihO97WPmTUCOKyp40fu1zsj7i0QJ1NEQgoMYBiIOCgzT1s-USVOKUjwEW3U.%26pg%3DUWXL7C476ZC4PJH6CREPQHEAVQ%26ch%3DAQEAEAABABRJbS3OVcfOgcNGiD4PsBpweMinarW4v2M.
+.netflix.com	TRUE	/	FALSE	1801245760	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+15%3A02%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=afc5bddf-56a5-4851-9eea-c66c64a9b687&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false&crTime=1769709579988
+.netflix.com	TRUE	/	TRUE	1801245759	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTO5i2svp1bEsmld_tT9Oq08e6Og_ofYqU.%26dt%3D1769709750548
+.netflix.com	TRUE	/	FALSE	1782201583	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782201583	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801245759	nfvdid	BQFmAAEBEFRTqO5qSVtjrbi7HIlTOlpg1S3Z4u2vzsQUKf_9ySZeVLMnu-i822BCmQaRtqGXOnrWSKRfZ9yXqn25M4OGtUtBxG8_dm_JoeMKrVnAiMRYy3JJz-OcgoBUMSuGh1c1aZYC-rflMVqh_2krGBJKbyle

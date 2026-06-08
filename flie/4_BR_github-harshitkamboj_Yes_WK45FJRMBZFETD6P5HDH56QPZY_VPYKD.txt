@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 30, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): ANDERSON, Victor, adryelzin, nany, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798825358	OptanonAlertBoxClosed	2026-01-01T17:42:38.780Z
+.netflix.com	TRUE	/	FALSE	1798825382	nfvdid	BQFmAAEBEKv0LXERomsyZolDD1EkGeZgs_e03eyfQdk2DV_Vx2E7GkXRfc4gmMV7fwTTUF1DASgCW0RTX8xlf8moxjzwJ-clp7eUi9EcZ02TkoDdFmcsvULxd-RfIxg_vktwCyH3wdubXNWWgylYADgxNfa9KDaE
+.netflix.com	TRUE	/	TRUE	1798825401	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9ArN3bSsfrk8hg2gskCiSfxM8E6EB43JtbjsCddGI53lTQNOX1xpUVxRL2o36M_t6GyqIEV9WHURekfiSDLiB4WxJeFXCtX7T18c-EIpMvgDzXMHZyEYvOMmk-fb30kByPQTvhnjS7sFnANY2V2ssvhWGw2bBSPHvSX5apCm3dpKLeB3EqjKXNt9-XBAUzpsE-SYT723N9-eJ-tAqW6m-11FUzMmxXWgpvPub7193yYdVwif07gFq8hVklBcuxXV8nUbuwAwgjv7C7eUU_zuunZEKPF0XWSrrbNxhtLSl_Sh6W3uW1pcElh4jyFfIaFbgnNT7hqaobtSN8YHZNGCi8PfjgjOUMtQ5YvKp8E3qyGkf0NrA_anttazmllv1iZohrxwqOUP6b62t-VANw-nL-80ZA8h07LUvjl7oP7rg_BbTHXCj8qtD6mEjF9Wvur2dJ4E7mrcLdam6u25NKQdZ1oZWN2xrFldM9r3Sdgg-NGnlWsOOIixJwQZ-zioo_RgGIg4KDL8wjkhAPPNHIZF3Fg..%26pg%3DWK45FJRMBZFETD6P5HDH56QPZY%26ch%3DAQEAEAABABRiWHbZ2YCO8MRvO07B3npuh6_L2TOp5MA.
+.netflix.com	TRUE	/	FALSE	1798825404	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+14%3A43%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=280c5848-debd-4ea8-8195-2a13aef1c9f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798825401	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDcL1MfFAAe6P-p0vW6ZgBCoRiDywfzR0.%26dt%3D1767559245147
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0

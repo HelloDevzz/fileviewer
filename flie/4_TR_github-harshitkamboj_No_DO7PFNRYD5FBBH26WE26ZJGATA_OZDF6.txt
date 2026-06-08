@@ -1,0 +1,18 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: June 10, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379.99 TL
+Profiles (5): Azah, Tuấn dz, CONFIG, huhuh, Maman
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1802290142	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AvGYE1BSmlWlajHqg89JO5ygy2VhU-E9i0guN1ilcQCrWNPoRlexDGPZ0n2abShmTiMBnYpOO_cK3AIdzmRAuU1_KEWqXeFiNk-eesUwfLBGYJQBnouafzZvxg9wyN3QGPnyNZD_Y0BA_HUXoGMyJ2G084H11uJi08ElwArP31U3iPDAXZ0fkQtbXC30OmkIvPupySqvlPpnYAUbXWNMoAyX4OZRV0rIwH9eRETAVowHwUi50MCYciC6SuSXkdz4owQwK-G67lfPw_PPLNxqI7NcfP2PbK5cKchBvoTgSqcPSimHj0oppe-WalAV5joH0fy400c3Um1pU4QsRC3g61XTWL0ukr1iMEWkXbuac4xPRTdR4ysm5ewtNwMM9rH5xuMwJb5phWOmsNko5t4Npcr6Xn9QByu8tR25-5FVmQ19hnpvyv-279rImNaOVgOSeiW78Bgz38orfmQQMfavxep-mDtbiMdMKCSIM_CfBw1bBRYtzfDTxsS62EpzGAYiDgoMcNQ3hpVBLS_NFpP7%26pg%3DDO7PFNRYD5FBBH26WE26ZJGATA%26ch%3DAQEAEAABABSeg3D4XOYZ0qzrZRqfhZ0J2lxF2OT9jE8.
+.netflix.com	TRUE	/	TRUE	1802290142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsdF3EGo29b_fevxGIkmw_xb4xN-F6K1c.%26dt%3D1770754140583

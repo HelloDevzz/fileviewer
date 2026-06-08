@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Premium
+Next Billing: June 15, 2026
+Payment: MOBILE_WALLET
+Quality: UHD
+Streams: 4
+Price: IDR 186,000
+Profiles (5): DIAN, Rafa, Vindha, Nanami Kento, Anak
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1782201589	gsid	aa53ba8a-759e-429a-86b2-b3f8e5863e59
+.netflix.com	TRUE	/	FALSE	1782521384	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782521384	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791013357	nfvdid	BQFmAAEBEK5euJglEXg9p0Tmf8L9yhBgsdxPe6e6W18tjI2phNISRB6WdlCeSKI1pAAtIS2xzAIhvnNxcxB7wgRYb08kx97NPPbIqgLQFMFBNEBNbrhx_FX-d3_lbPJaP9w4rrRwSdayaujcDxbfxaVw8gO6FbAF
+.netflix.com	TRUE	/	TRUE	1806281384	NetflixId	ct%3DBgjHlOvcAxKABN2X0ewCRGGRK-h6L3Qk0SWnGu_mSZwIJOosdts-2I3oUh5VWbA-YkH4nmlmsF8ockRP_FsmzmeUZjXN1Br-UuIi-XPnZJA5X6qTC673Wj42LFc3CzyUcat-85SVSTo95xZqcdXruiiOXbHnYNakZyrwyP9IuVT4T_QJIf_0FnKedbme2h95RA1edOFZJN-8r-wWMbx7_UuixxiW4VEZpL0dFGVJnv2Yr_1mCM_1jW_XhZcbWE84H0IMLkMSlQhac4Yn78xNVFVZVvyN4QXZzIfxN0y6ep22pcaVkLn5vwTeppi8fHr-gQn4XR4BZtB6c1TrnJOCTCpj4UVxeMcg9XwBb8WDo4RUxc21EDRUj16WyK40aC4KIxGeGbky_5oSyReeOvMjXfa3NH9rHVq_wgEM4G-SbzOiqDQjE2Bxb6BCXGG_j7PWQWmhAylPgSarxHiYhM5nJvaizqtUYz4ls6qxG6vNe9WqBcA9c2HsNWtyRe3ZSBul7EaTK2krLzVRY2dSbidlDuvAI3qrCfvMaeSd3gi8unCLYaGo093zEJOyu37wsE3SBkiUZzyJBzRtKCaXrCqVqtI0O7PQMPSyeh6gZkRRitOuSXit56NxqGpLmVqLhKwm4S93kZDv9ZlbxwZMV2ZGkLpMw6SSDtja2rXhnOKduCrQMXleTii_XLalGAYiDgoMWm7eBrMecxDTsU38%26ch%3DAQEAEAABABS1UomsVIu5VF5CDKAQudjx1WQTDPUdvak.%26v%3D3%26pg%3DYIOF4SMP6VC77D4Z5SOAX56AVE
+.netflix.com	TRUE	/	FALSE	1806281385	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+07%3A49%3A45+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68b6a784-244d-4dd3-9d12-7a99ada99123&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768304180758&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806281384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ28NaIfteKjJ8D6Cmeogbhhjp-w2yZWWg.%26dt%3D1774745385628

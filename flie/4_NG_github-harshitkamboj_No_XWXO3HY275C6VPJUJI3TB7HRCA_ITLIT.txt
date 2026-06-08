@@ -1,0 +1,26 @@
+NETFLIX HIT :👇
+
+Country: NG
+Plan: Premium
+Next Billing: June 24, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₦8,500
+Profiles (5): Omolade, Misi, Fikky, Phummie, Angel
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2026-03-22T13:17:02.273Z
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBEHIVHCwcjWXDQdRWsLld96RgPEWZWGMXKxFk0UblZvuL5ePjNdTVBkbA9v6zg5ewG6vrL3Yu8GQuPOt2HMTiKRdmdMq6xAuuMYzYXv77zjOfPYiVzy6TTIj_8rnWZGugiyE5aTS6on0zo4S7zhb-5A7S
+.netflix.com	TRUE	/	FALSE	1782066568	NetflixId	ct%3DBgjHlOvcAxKBBKOdqiD5FZNhHwOwXR99DYFthiUHxONNviC179_7beVLIWL0YOjZ9PCzo7x5Z1aqdku_ub1f5WSyNE-TLoZkErnOmcJInLPmrboyQhbJVQGSlzfkXfYZinvcKPFRTlZZhxbW4wi1khJh_Dss4Mnwhaq0pZX0CC1mjeWYBZZ3FNOeWgQwB_l0lDwVLZSYkBnphm8ySMa_1XEIx1hzks8MyWKYEVtDO_AkG3mTSBUFraalzBCrRygmTTqDYaBhwP2wzktldy6j87J-pT6zCh6dy777KDNM8mya0G5T7GsX7SPKn0qRG_9xBRDGNeBEY2YLNF_I1HbAbzfjFXlAjDKnneMLRzWcOw7XXqA-fr_ZPEIj7PUKqzHvYG19Wq7BSM8nao0rtV0vl3ZK-rDRavHvB-7-C4xs74D6WZPqZmdMdxJU-_MrEtjriVM2n_l4yg8AM9GK8z7LxPEMmPNsbQc4gmm1KFTR55FB7XmzrheWfQ6_L3zu43D2wRdIn6V6AjH7A4RBa1S0NJ8nj87JHKEv5TU3dEUdcRpFhcp6WjBqk2drto03clmRpJ9KvyFp_UK_9iTMo96g7WDZIdTcaWkEOlbc1PG-slzycLMwXX7FRv9c1e1JN8KnCMcRaQurKuZwmKpCPUpkXPcRQD8kicGbq3NJOBPDJ15o1w9LDnN5WtqnPxgGIg4KDHVXys3BL92qvbcUVw..%26ch%3DAQEAEAABABQEVDqcMKtA28aTLWoIB4JKeqXvirKnvT8.%26v%3D3%26pg%3DXWXO3HY275C6VPJUJI3TB7HRCA
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+15%3A49%3A43+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9c5ab0e-679c-4c42-a092-74f8cb6ed755&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774185422645&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782066568	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTosVLNfpH1m0Us4JNoBj7zn3wdiVSl-1U.%26dt%3D1775141381003
+.netflix.com	TRUE	/	FALSE	1782066568	gsid	cb0459af-54b6-4678-9da5-1a74cc9c80bc
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0

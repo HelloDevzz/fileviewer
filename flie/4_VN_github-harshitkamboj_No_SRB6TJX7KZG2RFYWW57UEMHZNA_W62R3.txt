@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: VN
+Plan: Premium
+Next Billing: July 1, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 273,000 ₫
+Profiles (5): cross, jemzz, Kani, Long gà, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1806056802	nfvdid	BQFmAAEBEMA3rziWMGrb_K0cpys-i05g_26VGu5zbnaINXufxYzVNfTx-bjMFeyUgJJ7RIlVvIOm5ElDDEg14UoiNeknWlcJ65jpW3i05M1a-oBBwKDmCBWJRFLEz0uevP88C7vwEyk8z1JrT4cV-GINYYENNW0y
+.netflix.com	TRUE	/	TRUE	1809147085	NetflixId	ct%3DBgjHlOvcAxL-AzycKCOZG-Lj1g1H97pNxgEcDKVNdeqcrd84Hd9Au8uIHSFZnGaAdvRXDpZxgnjTDe90vMmeiy9Q_AtOLvX4rf9ppoi-J8M-HoVpf0fP9NVn2Cpl7KXBspCy8epJg7dPmvmoPlqIKgtUksZoEKV2t1HbthUODbn_cQlIcOjOWP1nQVpFTmDDeyEkyIL8vbD-D_CDIPitBPCuX00BzwCgiaDgzmKI_tpXy85WmYIKbMO1peTj60W6ubbw6UzlZEqYl6H8P58ip-fFmAgYvNKrhDUdDZVcSiOuHauF0k8Ru7KSfAiB5x0-CDl_obMnauHy-dMNFKMazZrzqy0TRIjQUIap4aYZL5ZCbxJ4eRsGimPOfSRQRQePxZrXnAT53C2Q375_lB7bAI4uxiHcyy5XW64gs4qAYvZKQE11NpW3QRBKYMcurJoHtIAAwZKpJLMLTc7gv-5-bJC6sJO74EOKFarAKlBJIfFWOhYUNbL8ettFyOTmBzMfWnC95tCA9Uxcu7FQ43szx5c1ZoBexnTPc2iMpfeNJ0kCml3K-cPmZ8RfDuxZwBC412MG4K7ioIlc42WQ6uEPf-ChqXm3k7rCiNya88V4KKl7SKgQK-4VQHguvQ3LEB_N9nrqn5HiC0ewghgxZJwEyU7-xB1E3SLOWl3vVfbVIivaL4EWl--DxxgGIg4KDPhxf7coqKsUpl6cww..%26ch%3DAQEAEAABABSnqnwlqb7sNYXQa1C2t_UVgtdChOt2Ci0.%26v%3D3%26pg%3DSRB6TJX7KZG2RFYWW57UEMHZNA
+.netflix.com	TRUE	/	FALSE	1809147087	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+11%3A51%3A27+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9db9d095-1ab8-499f-af34-c6925fd19656&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774520802172&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809147085	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcwALg58SteYN65f6XAqTv_BAI1XUNVGk.%26dt%3D1777611087778
+.netflix.com	TRUE	/	TRUE	1782325129	gsid	ca4bd8ae-253b-4a57-acb9-a9ee1ad73ebb
+.netflix.com	TRUE	/	FALSE	1785387086	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785387086	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785387086	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1782325129	profilesNewSession	0

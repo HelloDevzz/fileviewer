@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: MX
+Plan: Premium
+Next Billing: June 19, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $369
+Extra Member: Yes
+Profiles (5): ??Wen??, 🌷Wen🌷, Lixie🍵, Phuc, G
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1788656924	OptanonAlertBoxClosed	2025-09-06T01:08:44.187Z
+.netflix.com	TRUE	/	FALSE	1788657175	nfvdid	BQFmAAEBEAF2_r0gg31JPBVgiOsUMOlgi0ty40czsa-w5lPMphpVZapRxcJ4uzQ0_Rhd2new7m3kjhgGu7moX7Cq4DLuM7sd765NvK35Y33g7ND6vs-6rlcL_jcSGGB0kAdto0IDy8KHMbGKy5lWFUcs1oOqGvvG
+.netflix.com	TRUE	/	TRUE	1793244353	NetflixId	ct%3DBgjHlOvcAxLOA8lKQHXF_CevsIJqIrCc8lR0NV4Q_h-SORYgbLXYRcWNz76LhsDWJTvQbMGFiuEbV80UjHqaZHAiyx6P-gL1F1YW9rA75DA5JafRDBT3u1d-FOUfFQTGClaIF1QO5X5Z_swinquPJkPJeZVdHO8xYABVFHR0mCdVkmkwylL25D1HG7gCiFT2kXI_9NDsmWFYWOyxveLS3V1EIsJpHT2Tui3ChlleQXKFz3FLG6Q0nP39EK9uqOEHF7OGi6xUJnqj0zIuhrr6JfczQo9gD-4Sk9N7_zV6lDWgzkSEjKIVVCStHw6Qsd6wt-UITfPvu6Cvjeq5vKBcym95pQRierfgCbsAP8lW9VZy9-KLi43fa8OlcOegaAnnpJKdz7EOwRXoGL6U2y9V081sakHuc4MHndMS6ckut6HDluxnQGN4geNCgIVBuoHo1EN5b1VKTcIPfT0drRz2CuaX-YrFh13KaIjk7kcifkY0kP8_jIug9G4NSxSJbzkA_SDWm38SVbmCmaag7ZhDhclMl_50Pf94LGQWhNbMRDp4-oQlld-UBZdkFTUkBdszSz-cL7bpGQ-BNA8iBmQuTDBXDgGm0zm8scOLXnYaihO97DJDk1kTuxgGIg4KDKKcwAiNRJHRl_FhnQ..%26ch%3DAQEAEAABABTor8WDjDEx7m41rzk6NMJ4lvMAXVb202U.%26v%3D3%26pg%3DUWL5BN26U5FIRM5IGGEE7LEORM
+.netflix.com	TRUE	/	TRUE	1793244353	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTG16hq-lP5mziC-uAsZr4A3ltWbZNA11A.%26dt%3D1761708355358
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	dba5a822-8a07-404e-a229-19330dcd6f19
+.netflix.com	TRUE	/	FALSE	1793247794	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+28+2025+22%3A23%3A14+GMT-0600+(hora+est%C3%A1ndar+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2103fb35-01f3-40ee-b121-8df9bccac950&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BMEX&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	cdb3ea5e-e606-4c21-8fa7-239c5c2ab54d
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0

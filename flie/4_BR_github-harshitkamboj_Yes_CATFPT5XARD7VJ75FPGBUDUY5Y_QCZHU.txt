@@ -1,0 +1,26 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): elida, 🐰Gabi🐰, julio neto, arthur, Elida
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798851344	OptanonAlertBoxClosed	2026-01-02T00:55:44.661Z
+.netflix.com	TRUE	/	TRUE	1798851343	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Amn9LebnIJ7lja1dbynR746_3xRS-zKuKZCiFWeWa6PgY1qcl4ExB1yqovYAko49Exovv_UOziUgIAENCr-DHOotwlRFOY_hvgK2OXhHhq9MnHIevSy2I1SpW6sxrCawJcY6liTNE4kUHpfkNpLZKLP_ykxY4j1qDz3MIGx_2lf7ZSq6x7s7PMypA5cP5eWf1gGUgEyTlmMm9CwwW9dqAZWoeXZCFgvHJ1ahuKZyjCpgX2ic7Me3TiZOK02LY0GmdO4JFLpXrrO3zgFm_FX0yMSg_2qBIhKuLj0qM41mnAzSujyxS0wWasgM5UVJ6kcF1iZ2YyDclB7n2y8K7A7jpGUB6P5LeENdU1kAECnMneHLYXOwGxPSWHbSFNtaPXxiIJ47fWwaZpLmWPAwM3-3lMmTk18v5GQ0NhdJjqJIwYco98qDYvFlffE-NIpAXTVHRk3kEexUQm9FObsFC5YVh7ncSRA5JtLd16AueSvn1kJ1OSXr4P-0txgGIg4KDKAD484xzi5l_iDMKA..%26pg%3DCATFPT5XARD7VJ75FPGBUDUY5Y%26ch%3DAQEAEAABABS_I7CUSBGmMt5PsWmX26E8Of5VVY8Gouw.
+.netflix.com	TRUE	/	TRUE	1798851343	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1yKIXrLvmbZJZ61rHURXj7mUxAZQKP6c.%26dt%3D1767315343712
+.netflix.com	TRUE	/	TRUE	1801875340	dsca	true
+.netflix.com	TRUE	/	TRUE	1782501920	gsid	c29df29d-3d72-45bc-956b-d352463e97ed
+.netflix.com	TRUE	/	FALSE	1782501920	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798851345	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+21%3A55%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=028111b4-777a-474a-b566-9d251eee354b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BTO
+.netflix.com	TRUE	/	FALSE	1782501920	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798851340	nfvdid	BQFmAAEBECdAZmFS4D69CBNuOF12DThgUBKp5tMXdwbCOnR8_ppiOZyb_mFl_eMNsV_ypVBnaSol4nVvOqrbDnq_w8ITxwxNzrLtOMQ5YDzBYIcNlQ8UYM1a9CFE2tOJRtlq79Mw3Urb9Odu-5N0gbYAwt-qZv1h

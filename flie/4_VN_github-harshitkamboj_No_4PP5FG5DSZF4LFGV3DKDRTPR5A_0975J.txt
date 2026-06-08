@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: VN
+Plan: Premium
+Next Billing: June 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 273.000 ₫
+Profiles (5): ¿, 2, Keo xinh dep, Phuong Linh, ??????
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798385076	nfvdid	BQFmAAEBEDH7sIQpCZq1qfpkFud_CW1gCrHlOfzliSEl6rF2mrDt8myw4SivP2FJ7akAfSyMv9eXnbE6F8lEiYw3k41eUYXH7Mk_2Xds9VfHanev-phYE88xiRh4h2RCEaLyaTQBk_r9PX6zFSU5tN_5fsGv2SDt
+.netflix.com	TRUE	/	FALSE	1804310450	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+12%3A20%3A50+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18dcee11-1228-4e3e-b178-675c4687e370&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780550448	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780550448	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1805622894	NetflixId	ct%3DBgjHlOvcAxKKBO2Qyt5-AYCNXBvoSRGoJFIRI25s4DgxJyCMbDGZBG72oo4kj4WrGYCsRj0LbNZ1TrhQwfg71kkaUyRKRjJQdyXgLOx-99Pm-WaPS7jhi5Jygg1ztkNC8nra7Yn6JqU-5YBjDFC2_CioNuCuOuDH7GMPILdL2pCmTAGYOr0-kWs9P-qhgF-dYPzOZ2PC3IY4eR0_QjbwU4Pq6jHOZkOt2OXHmeFgq9lOtcdlPW8w5zMSPbnIxVYyng4GsPV2BxswOHniUbcq7CV3kTiYuoZJxTiLVv23vFmhPKAYXx6_M7q_QS4H5nF_d1QFDC2tzXwfpLIY37hUVJ5Nhk9nALjzd-ZRCzqgdHN2ah5T7H7ruh7L_hR1haO1kjreudhTHTWsvALFwCmef2LzHujb33_r_6exCjg8BnWyMNC-friCt2ujP-QmSTbr35yjw_hEZWRXSqtBDfB88mICW8GqVoo4XdQBDm6IVWJ6q2g-U0t4DmYfG0zNBwMtgZoPG9wFxPa7wrao1Zzra6hNvW9CewDjYmc0BtFCGvpE1BnojXLUXDtADKcoYqvnyfUYwLg4IfUQxpYEn6oGw8vNON1FP0lDdg8xojGN0_jSxVtgSpVnQ3OS2RAeHEikuY19IX1mrOincqaNU-sv6fnRmDSJgyNV5HZwWPzIXGbYfqWXWIowJPEoFWCZjVUuaimD2RgGIg4KDN96UTjKWzkuQtAlng..%26ch%3DAQEAEAABABQsal-gdPe3V7QfWVPhTg9xMyzlqgTSA5w.%26v%3D3%26pg%3D4PP5FG5DSZF4LFGV3DKDRTPR5A
+.netflix.com	TRUE	/	TRUE	1805622894	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAUbps6od0zxTK-fXtN9tiL2WpJ3KsVWE.%26dt%3D1774086789770

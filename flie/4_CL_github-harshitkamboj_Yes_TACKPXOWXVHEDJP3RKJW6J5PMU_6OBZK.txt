@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: June 20, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Extra Member: Yes
+Profiles (5): Juan, Siuuu, Yarelita, Benn17ja, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEKokBdC2KxdFQMhBdRfZdLZgt6J4TT1SsVkhLbjDx_3A20ZkAqHqMByfQzFheuthIfGkKlvKjK2paunqB0aPhnpiWUd7s0IeBXDKzKfjIPlrrVX3aD9QjZJ-dQMuOPfySxY5htlLltYZ9YJESYVy4vuY
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA1C4Ef4ZK0aJ2ye4hExKr_P6RBtf8dUNBh913SfzuQ88OMiTafdKEVj5e-AgeT6cIOuf526-d2Xs_oyZe7yseY7K6RlfPf1RpykCL_1VRZRYPs2BBC33IaQVMU0Mc9oIEHWrn0DiPd7UAy069pY6CultI-v_E2tSXAFiK4gjqOZEAt60N3AR_a9LrOBC390zVCO0SAQNV1S9sXKTvJJi_kocKIcvbgPoRuM72VbLtF7f2f_iWfFDeoaeA0yvu8-z4UKANdiIku_SHjFlmiD7SeAAZVJs7-tp_03u1dfkbJDcTsCqeLPhsFHZ0uXM17eTs25I1tVgHGW7KPxGEnL8LjTP_8Y6eeCiFOOb-qbWbWK-M8mflvqqBI-wU4bwwxsqxnsHwg7hsS_y41nw1NK-L-GIC-JBWtAayZ5jJ5nL-3VtCEIMQLToqbS3zf11v-hTIlOuaJPMmgMhD1xcsP_fn6lhpSPrQtAm08UVRTdiUiyGtCAZ1e4GIHxTHQJa-0cjC37lm6WU9Fqzdqwxat3f9MPHWX9IhRHHGAYiDgoMO080j84ntXezTi6l%26pg%3DTACKPXOWXVHEDJP3RKJW6J5PMU%26ch%3DAQEAEAABABSYvBLgra8oi3fSt1k5_Zj986wguI2NejU.
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+20%3A36%3A18+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7647e3f5-0b7a-40ca-9567-f2acff2c5b8f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778286973119&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTpsukV6z9GOqgfbPp0vTo9zYHZ8KPPZ4.%26dt%3D1778286975629
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true

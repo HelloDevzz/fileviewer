@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: US
+Plan: Premium
+Next Billing: June 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 26,99 USD
+Extra Member: Yes
+Profiles (5): Dad, PY Dont Change, Mom, Nwerz, Krimos
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782282816	nfvdid	BQFmAAEBEE6AWLdYOj8f37HZYoOc7KFggtQMQnUE9UPO-sc_e6wToxfET14P3LKkoWS2ZduN1_RuBwOtskFiox_PDnSZBdpEooHWZTry9THk8YPIls6dsgMLE6vX94yATtfdbKUfX0oaYxD_SDSMsSqNkDbOgg1h
+.netflix.com	TRUE	/	TRUE	1808864975	NetflixId	ct%3DBgjHlOvcAxL8A2ay-WWWQbe6lEuXyD-l0S6CClS-yLexuLpJbnmSNxMqc_ip6RtslXDG0H2Z0auNbp4KYAhOk3cVe04COllCcnQnwY3GWAV7vH4ja1LSbK6WpsEzHrM4RRfdjB2NIQtEvHLrSwovLIzY3Q4UNiCno3sj1MYa4mIzqAOoj1AZePqfllwEeGlTUPplGu5MXx-DD2exi0Y_JX2IZEPtL6kpcZc_750doZwi580aMmOePmWezMq5j70d4kdtaxJRHxVUKm9zA1X731AHLtehyAf8DzNVhRp65tvxEk1T-Fyshnj4n8DpHFTzT5OMN6xgciDDMxIhq4dDxYyGNXCBdlF2OYvRnQlzpEPuAVPMlb9_6VSXFOk8_xlSBLwvTg-WDbWeZJip65OvyJUNQyuHOucs9voQK0XWG8rxgyVbs1CzUljG6b-Gllx2CnbrsyWVsaiBY2Hen2G1-iLAdZ4sHF6Y5cozMqe8uBGGxqAFMxJhp7M9gaiZSMCEiaOk9ug5e9tVb3uQWEBW3fwDkns7KiCXkMprKf4Oc1SA58fpxE947datrlNvamzGXEc7UO6rqRBRVEe5DSfqL3PBsXankWBkhE3dPbcHuiC5nWJHMMKl2s6TAtS9rPJJGsMoPfZg1n0xZS075jl_-DP9njkfQUypbCnTs2Y2lcIFSJ06hUcYBiIOCgwNaTF04wYxWL2dpBY.%26ch%3DAQEAEAABABQ0ZWvHVgZ0KBW9wljwWuUSvAkV_httNyw.%26v%3D3%26pg%3D73ZVHVA6DRAPXE523HPJ7S2ZPI
+.netflix.com	TRUE	/	FALSE	1808864975	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+18%3A29%3A35+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4d81af1-dd9a-499b-bba2-3b09292ec077&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808864975	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvqlAkV6icplUCS3uvGA4k8_QeG12bJeI.%26dt%3D1777328976109
+.netflix.com	TRUE	/	TRUE	1781445301	gsid	4e25734f-fb72-4c7d-b710-ce9ced021c7e
+.netflix.com	TRUE	/	FALSE	1785104975	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785104975	netflix-sans-normal-3-loaded	true

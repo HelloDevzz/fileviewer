@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: June 26, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$13.99
+Extra Member: Yes
+Profiles (5): KENNY, Yuleisy, Sori, Viry, Isaac
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	FALSE	/	FALSE	1833392069	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+15%3A34%3A29+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b855fb1c-12c4-4de5-a031-529187ead3c5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1801857871	profilesNewSession	0
+.netflix.com	FALSE	/	TRUE	1833386599	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA7YCTXOgfWLycrdt5XnM92oFO8beC07P2z5DKrQxVyonKjkJnPNzM25dSsU3XgMcJwysPqHhvvGmlqFi-FRFJd-FX3jvPYTrCAotGqPh3QnpmFB4GJpchDgncrOgtd3k2x365kP1yM-3O3r-KzdSCA_Fmnt8TNOMpA3zv5oYgwQdd521V8FeuD56CMmIRGVSl1MDReY5pa694-1-sUHGutscKe4Yjhh-HUjHPAvEN36gCceTsMIMA7ABC85M7tlFNzKXcPuRVshmxMn1KtpB06vkfC0MRt0xG22sCPnvwnKQ4LcH7rSa89LMnJswlpw7tXoWg42QhXW7RR9Wx1QZ-fjJnlwEuJ9AMWaDja4oyZFnqO5lwLHgFbJFkVdDmX2_F63Ib4K6ZJD7SZhwhHwvf0gvKYcQpQhnkH84cSx-nZKdlqx6mDiIaEsbvfFuuSOkQdKNwdFtaM6nAGG99utaDDKsLsFsvuJ3OCx8hjVrj-rlUu8VNLqgrlRbH9qlIVSgemsYBiIOCgy0-kySvSe6QxtVjnM.%26pg%3D6LTV5CGFJJB4LOGTHJ4OABYLWM%26ch%3DAQEAEAABABRvVipXyFJUwuXpBiMLr4MFCw_M7GWlsbo.
+.netflix.com	FALSE	/	FALSE	1801861390	flwssn	500e1b4c-9564-4000-8db5-d71e77d96aa8
+.netflix.com	FALSE	/	TRUE	1801921416	gsid	49a21584-6cd9-4779-a9ab-9a3e6c4c15c1
+.netflix.com	FALSE	/	FALSE	1809632068	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1809632068	netflix-sans-normal-3-loaded	true

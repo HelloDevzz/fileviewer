@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: UY
+Plan: Premium
+Next Billing: June 28, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$ 21,99
+Extra Member: Yes
+Profiles (5): Adriana, Camilo, Carlos, Meli y Emi, Santiago
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1787883186	nfvdid	BQFmAAEBEKHrRCIVHReK6QXFXiWVkn1g1bRkEQURKYdsdugFJ9UIfKSOTdSOGvVfvJ-o3G57x_9mk4ovBNBwWqExp2YuIG-fc9XBPxopMfE_goD7DWtLv--BYRjgTcBzcWQlvpF5F5guSnwlr38Q_Nen8gwwk-qA
+.netflix.com	TRUE	/	TRUE	1804540715	NetflixId	ct%3DBgjHlOvcAxKGBMnvDf1HzCxDJ8MiflcG2EjMA9Zbh7rtXF8y0psQ4J8LF9GsbbT8kIVvkFJirpUxmexpRSKSCpdFo8psMxe0Qh3URHMSXG7zXnMtcF9d5KJilGMBE9kBPLHtSfKjZxdbdH4Ujh9FV7P5axnW5CygCPpjd9jkXFJIu0QefYhVqIu7PfC_2KRBwzivbiIRYtlgsMmQA0_mAMU2y2RBhM9WIzcyURCdiv_yf07qqDXJOqi7e1_Ridvd6ZHObbfX3AeC2E902RzRVF9Bgdx4USQ63p0qRgLLKrzmqy5wZe0Lt4SehmS611p9qR4p_OdhRRpwEE7eaTav7aq8dIk9oawvxNHnaOG6763QXI0kG4bVKmu6T7uggWoUvP0tfb0NTJZmbNUzGzHX-p3kLaUFZ6QwghOHpQbXJ__Eg3TcVcsgINjohthJLcTBW4ZjqAhDXqo1l9-Ox4lWiNayxeTw2Lh1BPefhEjsUMsoVyCS5OdWE2JIm5AIXbHVWCiExFiNlsXz7UBxidhGb1D4e-44UyO3e5DO6Qtkll057eBbd4Ai94ybyTZSNUThBs5C7OqoQEK8jmToxXy84D_KJQ7hv82xjrS-jHjXHWBmGY8VVCzTH92M-TSBatrC2NwV7akglIUEhRuA6IF61kdpof42pNut31DMiNXu1bmb9-b3CRZK4FcTK6HF4OYqGAYiDgoMzFqx4RbJ9g7e9Y-r%26ch%3DAQEAEAABABSw7nW1WG5KKRM0Nsp6-JHZ6OGDDuKrm_o.%26v%3D3%26pg%3D6OGCEIT3N5FFRBOQHRMJD4AMZA
+.netflix.com	TRUE	/	FALSE	1804540717	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+18%3A18%3A37+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1fc941ed-a8f7-4387-981f-c1e81fc3c8bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804540715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZmhdSImAfHMyhBgRFJn5PnnpbW1f0C0Q.%26dt%3D1773004732279
+.netflix.com	TRUE	/	TRUE	1782501938	gsid	d81b3bf4-eb8d-4b81-a5c8-ffdcea49fc80
+.netflix.com	TRUE	/	FALSE	1780780715	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780780715	netflix-sans-normal-3-loaded	true

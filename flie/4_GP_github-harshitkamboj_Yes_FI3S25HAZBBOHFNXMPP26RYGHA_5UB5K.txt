@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: GP
+Plan: Premium
+Next Billing: July 4, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): Anne-marie, Jeunesse, Thư, loryane, Océane
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1793046171	nfvdid	BQFmAAEBEI5OdrbhwjnpnmcMXNBY15tgdh1_zfar9EfRNuKl6LmHJ3VAeGA8OwU0ObiPvfA5diNObcKVpXM4rNspjr7XyAh5KnpIODw4m8G1jp4-lKXD40OalPo3Hk0V93FwRv5QDaWhh0Ss_j890-0b2GrkghvW
+.netflix.com	TRUE	/	TRUE	1797527389	dsca	true
+.netflix.com	TRUE	/	TRUE	1795761121	NetflixId	ct%3DBgjHlOvcAxLtA88E9UWXIhpZqd3xpk9Fa9Vki6C6l6699JHXB3fK2_imMpXnF9a7LFjuAuU2qUodLqonMvUdHCK5UgRy93AoWTD7dsY6qTDFWJWScICmMxqflJssOkDhLPXXbjIAAaYb4Je0wUEMHwZ8nxhi6YWsa3hqBmgKP9XTypPdTa91gpPNxhC7FXZRT6sbDSPXE1U4BK6ErfCkff-I6O1gJXYoBmoZNfPJgfj5y5Vm25FJJQNT5sfOpLwI4wqtq6iWULGaWVNsCn2mvPdE_46lLRhl7SAFWMh9BlcTdfaqSj9S7bZ9xwmraNEmMmvPTQfF6VNxLg2SEGIQ7mlf18kAvUEpD1l8rwYXaB-8HH50DGU3BoVdniNCYsZCor5pYYk2DyrNIFVz9V9uSqQ7CQiXQbvABnb0uHhYsPkwqN9wDecM-FbvvcNTuNeqKyU0FfJarptTVpziL4d7JynzYbXWtJdZYm9ClkqNPH39E2NdSjmg1yy91Un0biSIxBHOVGWJSL6yI7Cn5f63GpCoXFCqOK3Re-8_Cz0Xwz7QDoT91mL7W81NnfR5HO21DiVke66S0TV8vSZjz7wjz8fbnzH8n9ZQr2_0Uwf-0cE4l2nmMVFoAcC0dJ4GQp-hfxcXPIWiH3hNYX0GGqQSFrrSt5tNJj4YBiIOCgylvMUlQIZYytLvmNY.%26ch%3DAQEAEAABABTBf7Qv3aYLL8F6Nl-nCP5pih2MOdWU9Ss.%26v%3D3%26pg%3DFI3S25HAZBBOHFNXMPP26RYGHA
+.netflix.com	TRUE	/	FALSE	1795761122	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+02%3A32%3A02+GMT-0400+(heure+de+Bolivie)&version=202508.1.0&isIABGlobal=false&hosts=&consentId=8acc4323-a964-4db1-b9de-06dcc6be91b4&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=GP%3B&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1795761121	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSeRTLXev2-zTnUulEv-fAqvUGmZGl9L4M.%26dt%3D1764225117491

@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: June 7, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): bhupendert96, Divansh, Man, rayan, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1805782838	NetflixId	ct%3DBgjHlOvcAxKFBB-wLrA6M07PZ7URB7AvZ3EUjQKPFjkSWMXi5voux0oJ83Wq2VebWebp-rJEKiJ9xdbFaWYzpeUgFIEx3k1Cimx0htzpPGpN8x28_ti3mvz1vMnC7oCqYBOhGWYZ_YIFoMEPflevUrdQFE2BfQuE4tpJbAVCk-WWSVYmHdJVA6_O2ty854nF-E313dJr7oKjeex_9y1SQN10K-h_Z0wTcmELMoPwOZyZwhL6NrssG3b-bOKlIs3qlO7gRAYiGpPbaJ40s4GUo8XgyETkuOWgvGUaV4h73ue4IN3J_ohn9OrcZvKKpucLDkKquAnQPd4nmAioXwPLujri-fhnk8cPE9YGEfmCjXUcLfgJZao9nvs6XBgp1CK3dw7MKdE4YiChwixnWL5C9uNB_jPGUsIO9CV06nNjEJTqxg7hAcdqtykrMh4B5HkHN1Du1lDaa8w2R7f9Xd0UwYlSxYgQadSzu55_86oICO4oOYG9CHmJV7TRI4o62lXSNgSEPLEY-3P4a1IzcSrkmL7oexZvG7yJ3x94-1YBEOYEqjm7dWaHrpufNQoS6D-yqXaKuLlib4VWDAMPGsFicG8BjqyEUht-IVq4zCVQN3d0TIqR8-KB_tgNKZjQVtDmJcdd8zixTFLygiUHYejCXJ2UmeQSMKGDWcwx8EVTOnGYKt2w3sQe0xESZJAYUT4YBiIOCgwaOcoyFJN0imqmZgY.%26ch%3DAQEAEAABABSwt0s3-oclA_ixZqoe3GZZ5lVjeEpvbmo.%26v%3D3%26pg%3DPEJB5S7MXJBQPLCCWONOQFUSAI
+.netflix.com	TRUE	/	FALSE	1805782837	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+11%3A50%3A37+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=00e64c5b-4bf0-4ffc-adb0-38a29d7a76f8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805782838	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR2k2KB5xRzlDzGGYYsUdhfd5v_2ZncPtM.%26dt%3D1774246837698
+.netflix.com	TRUE	/	FALSE	1782022834	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782022834	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805782833	nfvdid	BQFmAAEBEIyXjdD70xpGMVpfvB3VUDpgjehCF3y4bu6qXw0xZ_aFNU2Zxagy8AtXlfcBG7A_rC6c0SQ8O8knlHEhL0ETA5I-QC8Uv0lF5BvqF2a5f2fm7h9JQh3bvaVf3L3owDdPIq_9jeTqCv8wlmC4jIGAwwUy

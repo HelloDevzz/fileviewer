@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: July 5, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Profiles (5): LEANDRO, ERI, Paulo, Pedro, João Augusto
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1806167641	NetflixId	ct%3DBgjHlOvcAxKLBBfBBgFYSjAnxQ3nyEuRNqoovuGh8Lc5TLCq0vFsfspLY-b3iKAcZofLhkS1wDmFUjm0fh3mneTSOWMWm5clPh9BKv5mhtkg0FvtT5wQbEbjS2NPSFaxuZxsD-17D2yDbbcq63ifF_uAaUX3LfCHztnp0mhI9J-A2kH2nC5pnTejp5CKqg1NiSSRyfxHyYfIVRUbc4VhnVwCVPJfV-WkVfBle6QCE3oZhGS0GV2hOLbUhtJuoGygLkumEEh_Tr-sM47KVOF-U-A0hHCsAJMCQ5rRQhwLu8aroDObXA8AabTN4RXW2psewJ5kx7H9VKtXBrif96PUcPcp0jrkrfqUH1h8SzarCnriFMXl7OSMSzYWnbbU_N6wvbilwnJ01hLxroo6rpKWO8Lf5Sn0NVxvJ82LIoTmcVzxr-FbkSY0kkXPlK34v75U6dx0b_hpdL78sLY6xRyemmVsIJ0QaSl51tt575O4NFqKloP7rRDlrVN3-hfI-_PODlKy5xxLr-EfeBhakneDqfKQE8AUAYry8oWMzqpXAcfTMx0LgJTX70azKfQ_aoGnstj0TmHbPGHQfi2np-SFEOc1MqCWNQQSlU0KQ1SNgR05GDGxfo0sdn9bbExkaJOoU_wfcARHclR-dhMGI-_pdHCQE1geYdKR0vzQEauMeAjz1v5N7ufP_KUq0DCqn916mg23WNEYBiIOCgwm1k7Uw1BMhJ9T1fw.%26ch%3DAQEAEAABABTDHErjnaYPHcBFxfmlel-C0JyNrdnRLWQ.%26v%3D3%26pg%3DZEYUKU6IPVCXDOJIOX5AMMP6D4
+.netflix.com	TRUE	/	TRUE	1806167641	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQah5fuqSpTSWUVcAwQA5xaODk_HqFMct8.%26dt%3D1774631646846
+.netflix.com	TRUE	/	FALSE	1806167637	nfvdid	BQFmAAEBEDegetZHN-M0Azmew9wn_WRgOeaaPO8r_1yNbOxVcQlfK9FpUl_2yoD-s5rWDGSMFHmDYza5LVvhPlhAaLI2bf-DspwInTlds0sqkFNQmHtPD8aAHhfI_yq6JwjlJRqG7hhkfvz5iMwL-BFJ1ZFAVl4H
+.netflix.com	TRUE	/	FALSE	1806168566	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+14%3A29%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f85140f5-f34f-492d-975a-e8ef64648484&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774632566823

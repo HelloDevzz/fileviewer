@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$59.90
+Extra Member: Yes
+Profiles (5): Milton Lindão, Nay Princesa, Lelei Gatona, Milton Lindao, i kill you
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782765517	OptanonAlertBoxClosed	2025-04-07T23:20:40.721Z
+.netflix.com	TRUE	/	FALSE	1782765517	nfvdid	BQFmAAEBEDd5SiSrvQUz0vnK5m8Q8ZlgzDfnK6ymDK7C9ChkCWUHuyj41fcddqsuPxKg3Z3aon108Qhk8_rsoyknjZdqz3pUr_yNQhoi8ddSlTjvJXwlpPMwvRNKx65nVYvVxStHPZQ3kB3N9ObOpJIHC2IktkEt
+.netflix.com	TRUE	/	TRUE	1785632219	NetflixId	ct%3DBgjHlOvcAxKYA5ZW1vD1gVLJSkEr1q-EbJnTi4hqWc0IGCILIMCWV8p5_HMr82z601935O3PGyuR8wCIHBF6tRCHwV3shqgTslKCXsJ1c7tcfbRk7A0Ktusl7xDTQfpKD8xBxCJmUkG7Udde7J2YSqi4vzGDst_IxGS8TzGI5xHor1i75mSmf26Nr6ve7gF8rp7TB4hnGY6esJ3nQQy1tl7WcZFBZsuqCcZilsuBxlHNXSuVJZfIkjH4EDM2IubMnJYtzQ-0qCi5nTrP1w-KQi4aQyr8hdleo4BQRyYPdPgf5ah-ByAKb5-0NLFmCieBs_sgU1P8zBqWD8WGefxY2cNmEDe9cUKeh6aOoSTL1uq-csxO5UQESst7U-cd9N1LaG7jCcsJesFP64vZtfr6K4_y4kfLS2LLI-D03pTrscy_nmT-QQrDATBaN2XlgZOeDJ0-ZDS1aNUbTeceuhwvMbr2Zvkl3EIprDYZSJtiixpTK7XbuCKeI2babZPCn92a-pgIvphYw0a7TfM37IV0CWU3MRhQEzObYHePBqvVR1KRnhgGIg4KDCdWHKgWhYjjvO-ZUQ..%26ch%3DAQEAEAABABQ4Js20v9KFjj9q0K4EHQe7VNl48UlwY_0.%26v%3D3%26pg%3DWPXYFGRLWBG7NAKFQLVWR7FSUY
+.netflix.com	TRUE	/	FALSE	1785632234	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+01+2025+21%3A57%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e15e2c90-c7ac-4fae-a43e-9bd8664143a2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1785632219	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQV7dF_s75ac05Gkn8iqsBSoZcGCwhrPIM.%26dt%3D1754096220098

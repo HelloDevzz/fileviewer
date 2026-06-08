@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: July 5, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Extra Member: Yes
+Profiles (5): Magi, Samu, Dani, Gggg, E
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1792805105	nfvdid	BQFmAAEBECRZbg7DeDWrv6X60eFZ1g1gNUiwzvy0J7r6BBsxjjJ0xpm9JMlz0s1jySqs5PnUSldOUgv4Bj1mMG9pSayQKm30zG9tDDUeXRbj-AWN5MZU9gcAV_iXqMqYyNyjvpL_08S5MzXoGKcsGYUVoEIEOuMU
+.netflix.com	TRUE	/	TRUE	1810177314	NetflixId	ct%3DBgjHlOvcAxKABF6UPZOigvweY6o5tJhjXFOx7rM6tMbI3-s33dMgaBdm9M2xx_QnWxmy8zZfsFq51UkpPM-FpnKPIs4sCISjlrSwpSmzidaCgHTSquiRlYIajDoTzRYrVB7l_c3oj1tZAyiviQojIUhBwGOeUm00_MCqQIX0bJGA5zKxKK3OLg6ZWFkMm-oQH_IS2aLQDtdF692QfcGaZRX_gyEp1R-RlsAG4-17OvMUbj6VuD2DEetGpoFt60CKXnPRNyA4ScCebLr6D6Xhe9_qSrrEjDn9rnOfoHRpCXoGZn8qb341iHUTvQISPvNAcOyltBfTWCV0xXsh_Re7lpPWBSOOEi1WaVV9ZzAhqOmL6OUD_avhLs7cMzfmxwMNVXiiDoyBTHVKL6rlPtwBJ2SP2xUVaiUAsmZK3kutWVUeG82hfiwkj6-TvucjcnDiuRRH5B0_s9IyMIagdOznIy0j4QPv1AveRuroUfiTbLkBdfKquuHeRHD_ZzhF23K3_1Jb5hTnAHRWJmQggz-Y9uaqYHZwGwH0C88kRhqucAu8-CQALMhCdewBaC7M9fpTGnk73W3X95IrnroLT1I5D8RHXVrlA1wzFSW_AclOy_TBlJ8Vsxp45zZXpBSHOPMCgB4mKboOtDKZgQ2W0Ar6bgAvGm8zuYcbBOWhyNv9_0wcdvemTS25l-vgGAYiDgoMH5a01rklAqXfVxaY%26ch%3DAQEAEAABABSWe5SrkCO1wzM_c0zcWoFI5FrPHI7DK_M.%26v%3D3%26pg%3DWEDVXP42GJEVVH66MPODFD3HQQ
+.netflix.com	TRUE	/	TRUE	1810177314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJhhXdgAlAbY_ICkTiD-69O-DIuqkVVQg.%26dt%3D1778641285296
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	28db3889-da7a-4a20-a8e9-f007c547ea46
+.netflix.com	TRUE	/	FALSE	1810177405	OptanonConsent	isIABGlobal=false&datestamp=Tue+May+12+2026+23%3A03%3A25+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.1.0&consentId=cf38598e-df48-424b-a4a6-915057be8fec&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0

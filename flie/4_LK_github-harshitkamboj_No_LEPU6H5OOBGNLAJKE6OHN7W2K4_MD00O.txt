@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: LK
+Plan: Premium
+Next Billing: June 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: USD 9.99
+Profiles (5): Channa, Baddewela, rahim, Rusiru, Aguilar
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1801476877	nfvdid	BQFmAAEBEEUerfgyLKLtsldhg5vTk2JgB_hejdV5xca7mkPRlkRBVE_7ODh93BRCHxubvPJ-bIf6yZWguPmbgE9d8KG5L--EmmivZXL0FPVLMJk-DenpRI3e9-XUGF1oCWDqtc70vSYKcFpxN5-q6Ha69Rb4uVBi
+.netflix.com	TRUE	/	FALSE	1801477148	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+15%3A49%3A08+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e604257-0873-47b4-ab90-3c662079cd84&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1769940721612&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1802492393	NetflixId	ct%3DBgjHlOvcAxK7A31guuzZ17yk_xSAITAOa8hVdQ9_YV4kkOgbdPxfNNnr03U0g5m6Vg3bUR7fAsoksroYAI5xq6_Z28jtv3g8loewzZM7-52Ee1f6jRFPkxIeKcB0bNzT4WHRT-iN7Id0BMsS2GLEviBeVpp70E4AKYOEScZm99tfT9zdeGgyg8wU0SckO73C2KtXhBoVR14xbPbY-lC0HS2LLcnudrEN5T1u99EKtznKMtCpVoY7aLap_i1HSWFFfh8BsY2y79zUG6iZQkH1qA0Uitq_QH8JQSY8YKCo_K34nDUhZtLnEcgDTvRle08fRRtdQyfGR96-HOHFqau-cznOpYq-6gMe6XDju3L9-eEF6nYw2tjqO-UF3PdGmg0zOyPTC_ErloHeHjhRqFiygU1yOFkC9ToFJlSknvny95labkZhuk2SKOUUuzsB065Kfi37osttVPSz0Zrtssfdu88pD6woEqiahIX64_zXCdx5lgHOB7OjbhHJOnK1hHGLUTYjZ2ObmyxTlaXAQFRgwwwkG1vfO6oYVBRC3Y0Da6rQqTcTtvd8GkHu_KZTbh7ZEpNKqJ98OJcWf6qlTfIQtqOvN-GSGAYiDgoMESa6wd4jzMVTOOxA%26ch%3DAQEAEAABABS6WSSFVR6V65XeiZ4RqbQqoW49reGBNjE.%26v%3D3%26pg%3DLEPU6H5OOBGNLAJKE6OHN7W2K4
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	5d7d4579-7d66-4801-8a98-348fd790a868
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true

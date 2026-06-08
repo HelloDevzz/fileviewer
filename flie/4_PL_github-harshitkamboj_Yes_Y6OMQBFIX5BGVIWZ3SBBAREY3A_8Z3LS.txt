@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: PL
+Plan: Premium
+Next Billing: June 15, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 67 zł
+Extra Member: Yes
+Profiles (4): Justyna, Blanka, Paweł, Achilla
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1801162652	dsca	true
+.netflix.com	TRUE	/	TRUE	1799407800	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AohT71bxDEmIRvSSqYdDr8EzhbEmmi-uI6SMy4Hg5-wkNoUd7-ocbn_WTHgu2yBl1_4ZvuHBiIeXsQpD3sK0BN7dQ1ZjAKZ8mLlr1THGAlOatTwLvvCjvjAPtAbiH3eArBVZTHDK4khKpHlYzs4x5fyBaC8_PrhUaGrJ3Ixi-m1wqhZOoHE3hF1ogROmlA2OYYMX9YtC--s6P8QdyfKOcf4xtKY_f82cJSKCn7ARsgEb8C0GXU0A1nxtSUQlzbOVstowcOwJaPbjY1vZbfRH9QZ5Za72eF0z4DIXDvqPdS5ZNRk5KdjHpbCB5TRisw8-zR17YeAM8LcneU7seoI3o7fc1qjIQPCG1WU9AYuGrJWKRCZOWo5sU8aCYwEw3g1aGEvg5YJAX1RxQgwE42Nt6CqaTtVC5R6n8Ib723VofDsJnz0u_d2tgyJLdYVPHL0cNlum8QWweK_qYALWpARvs6dBDBE7nZRbT16iaDEStTUVq8N0zJGn94WxXeUFRTcYBiIOCgwlPok_QKu-VWko7W0.%26pg%3DY6OMQBFIX5BGVIWZ3SBBAREY3A%26ch%3DAQEAEAABABTTdwebzKQ2HjEGyOT9R0mShZmsbB0c9TE.
+.netflix.com	TRUE	/	FALSE	1799407801	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+08+2026+12%3A30%3A01+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bdb565cb-24e9-4a53-b4b5-67eb2ae5ec2c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B18
+.netflix.com	TRUE	/	TRUE	1799407800	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQl28BnDgqCq0_zI-QsZnAYkViA-5JFaqg.%26dt%3D1767871800202

@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: ET
+Plan: Premium
+Next Billing: June 14, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: USD 9.99
+Profiles (5): DEMLIE MEKONEN GUANGUL, Demlie, Kids, Robel, Athu
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1803898972	nfvdid	BQFmAAEBEH70Pfz8Lu6oTMYwNzKYfKtgIu4FVJqLcrmadRlokEauN_rBPWwuCFNDg1wMzAy5oOAF4ys2yYa98xFZtZ_vmiTjkg2YL02Ot58yGX8BqhS9tinpuokjnjxCGNcPOl2F2w7rbcKYAthhp1KrOyOiSPUL
+.netflix.com	TRUE	/	TRUE	1803899340	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Ajvf4_5-4JPpQvljulMGh50JvSIsVlwt-GUTxL0k_aqvVyTVhl96UqBigekRXiz0JNSFX8vP7R1SpElAKPh2sVgsljvfgSqu6z4gdqrzqc_fcYD-I-kfpqUAG6OcSLAOH7BIIInoIpD7nY6m5919EbtgqbF15Kw_Ux07gTzLtxWkoikoHitLVImhohpgczwU3VgmBDHdC8V-7ADefd4VzaRhxw94qH-CW47sd6W4_TCuU6wuLcamIabyWWdEGFEV4toBqoklE-F8v41-UPvO2uo74EaNk15QnCK8HcKfaK2NkZgj0KKyBJ0URdlpJpjoOLoifcxnst97hqc2r3dOf4I0uH-zujuX7nQOJesKu-llhj3OkXqe5cwg3ts4zgNYjwybFQgus6qH0EPfR81X15SJYz14laFleCxuQEQ5n2QKY3Nrd2G0VMlvIBemsSIotNEUKNbWe8xJTG_HYMgjq_pSWoydpJ985sSG0INeBuDVErVrp5CD-ruiFEjQL9xtGAYiDgoMsRu0vwEyCaLIJfOJ%26pg%3D76LQW6ZVSVB5BCCKGNZ5TJTZLM%26ch%3DAQEAEAABABSt4ozYopt31VzjAdLEGYSajMsciJoJe0M.
+.netflix.com	TRUE	/	FALSE	1803899341	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+14%3A09%3A01+GMT%2B0300+(East+Africa+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60c60f1b-5209-4b33-a1b6-b903510ccace&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772362956146&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803899340	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ04MZ1_0nWliY0jAw3sCp6OzEDJO2gihE.%26dt%3D1772363342375
+.netflix.com	TRUE	/	FALSE	1780139341	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780139341	netflix-sans-normal-3-loaded	true

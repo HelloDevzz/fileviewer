@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: KR
+Plan: Premium
+Next Billing: June 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 17,000원
+Extra Member: Yes
+Profiles (5): 임광식, 임윤서, 정다예, 조서연, helo
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1802363114	nfvdid	BQFmAAEBEOV96D3Kf0ErlItlsU_TtORg2fTpb2pZS8REAsVWffwSOp2tueKV0poZ2gVc4PlQyrN-0hBiuAqxBIoB30lnP1aGwqla9_flXuKIbCmwcx_XsLrfuQLjVSHrnADpa9lMXaXJrnP0xWO_WujcV9wydHgf
+.netflix.com	TRUE	/	FALSE	1802518530	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+20%3A35%3A30+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5645af71-396f-49a5-93fa-3d4ac126c989&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770827045056&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810198751	NetflixId	ct%3DBgjHlOvcAxKDBPTP7ERkJudcyXhh3En2NbFPJJx09AaUNu5adgXVz0-XtFhYHaQqwnMdSw_9z2sv8FCxrWJOilrhx9p8zq2kTp8SAJKR61anvEEv5bCRYzf_yLlQhWlMtjNgN32_r0zcvu3WaDgp96rWG8eBVtvfRp77m0n1_4O8aXTtIZp4r5g3UDMNUo-HHhj1cZGwuYCYrbXPtAtRocVqCOxGF_GfNAvGpSfxEUYght9WzcBYcOCyjpskFv-DaPFQLuudoUC9_QgFq3lb2oWmncf3hcpN8Y-5Lfq_es-pHFSXnr1VWGk8wxGfuIiUEFMCTM2PTmYQvR9XHuu1phi6VYCBBKKMZzLgkC8iwLxT15QvqJJecJjzUWakkxRitInJUXfKjemO1ROthj4PDwX26cT62q1ihcylgPSqJVF4ZJJwQGlKAiRZIEXZUjf1keBrfSG4ioiBAByEhBvT8wudkCrItArQodIxxLltJtX2hQ1qHpDF89mx9ZvNiCkNb5oaS_Tjwro2ie1Dh_Bd5E0aQgDh03Y6yhSw7VU6k0ZOGPSIphIS4s0F2mFas-0M0AyEhOvXgWIsAoJ864e9ICbHEzV24hxZH17dFviSPKwV5wfmdepOYTBAtZAgs8tOC_J1tbvg0nUgzQ_of92DP4HMmjEbDbQbccSRs_o533ZI6MSLu0Xn35fG7I2JGAYiDgoMvehu4_hJs1KROpWd%26ch%3DAQEAEAABABT2PFi-eEK--S4_f_UmnxUG8nVeFXh2jaw.%26v%3D3%26pg%3DPI6EOXMAWBAGVLSYCQJ7UJR5JI
+.netflix.com	TRUE	/	TRUE	1810198751	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmwjQQ2TKJPOHVntjp-GWSIuS9-Y-3mfk.%26dt%3D1778662751308
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	ad7d66dd-547a-4610-bea1-b457bf438e33
+.netflix.com	TRUE	/	FALSE	1786449263	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786449263	netflix-sans-normal-3-loaded	true

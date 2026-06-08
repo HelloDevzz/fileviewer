@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Stefany, Luiz, Gabriel, Lu, imrane
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1795827044	OptanonAlertBoxClosed	2025-11-28T00:50:44.402Z
+.netflix.com	TRUE	/	FALSE	1795827155	nfvdid	BQFmAAEBEPifSezjgMKVM_k1u_l3mTpgGRp5JFo0ZTgR5-EpceUfbjL-p2iajhkQT6zDVdZTat5j6am1oUgb4PbKl_o5z1wZ3lzQ88l_BCN0B5HkWwAlSPoGHClXdKjvVVbfkAiJA5_DikrCuKv2GLo4da05yFow
+.netflix.com	TRUE	/	TRUE	1795827162	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AltYo_DCB9IlY7vwvGF2nhpgzx0UoB906cARk1RVfh96x-dOy7NtbVJhJh4iPEjpJCWZCBnM_tzR-nPx2QItLAVfhEbl-HM6kYMHAEdQ6rVAZcyCPzrchQKi9WuO-e_gXDJL6HQNmM2a02dPdlSBB9DHp_L13DjtmHzIVbw9UEaobzA8CB1WGaHuyEbj5Epi5iZ51TNsiX_vFAiDq4Qc3Q_3OcJ4IQn5gbOur8uW_Yd0-g4f3hRyM3iqnsJRrk2mtktMDwj29QloSrBlry2C0ofcDpUbmWFVRmjKyOPDwENufMeifNcrIlH_HBj_B7J1VjOP5ekiBiz3D3_IZJx5DW2eHgNfZVip5b760_fcepANSkzm6_hoXs9R05M1f93kD5DGkCF770Ms0LNWPzyMiHxmnk5jERuz5KC4_-U2Tcmx8g_qhsk8xsffcodzdmussSgpDHU-yQlCbGATIzSRpEt3KN_myhiwAi5_zVg1pTih3S-ikUbGSh4xGAYiDgoMr-rUpLsfn-5T5Pob%26pg%3DLURML46FPREUHNY72NLXUAZLEI%26ch%3DAQEAEAABABT-UI1lUW8m-f0RQj8odeqyYYopf73QnZk.
+.netflix.com	TRUE	/	FALSE	1795827164	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+21%3A52%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c756ea5d-fac4-44a9-a2bd-e125741fe98c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=%3B&AwaitingReconsent=false

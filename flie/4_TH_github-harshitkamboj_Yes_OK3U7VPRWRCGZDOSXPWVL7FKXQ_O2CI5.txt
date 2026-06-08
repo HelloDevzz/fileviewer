@@ -1,0 +1,28 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Premium
+Next Billing: June 9, 2026
+Payment: MOBILE_WALLET
+Quality: UHD
+Streams: 4
+Price: 419 บาท
+Extra Member: Yes
+Profiles (5): Plai, SIRIPIK, APSR, Team W👑nG, Beer
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1803213724	nfvdid	BQFmAAEBELv2LFd_Yq_47FcwPQH7FIRgXazkXM_zwIWVcTt29e9vzQlljGYS48Z98HEpVilL-kkFsI8cBVDMjW7tU6kJvyYjk6OUTVsfyuCyPa6YCap0Adg0QR0dajdoCpw-Vrq718uVKFuiemWcEeqV9r7k6BmT
+.netflix.com	TRUE	/	TRUE	1809953817	NetflixId	ct%3DBgjHlOvcAxKGBN44Oguts5FkTC6E1gUhivkIz0ZmLJb9FCmq-RLCt_8AoYZ02km4h_5nbGz1WX-hNUC3Zm6vAGrcIHeNAQfJ1LDjEHpABcnXrqWqqc5qJjLsQY3YiNlprtq9CJKb80uV3o7Tm-5W6bGwUOyDqb4N853xbr_Qn4NXUkYJRL0cmpwDQZslrh8Ddax6eBJHT3YFIgzHE3srTNcB23-mO2aekVeKutnJOSg_f4nHNMvymWKvoN4MhvwPw5ohwzOgKOeqXcsTJy3YoiJ_dTc0psnHo2eWXNdPsn2e_c98q8peUkGgFGCA0dG2nRJlniD2lZiyRR76RdPklU9Jg2NCbn_5H8wcc_uw3MPO6slgrsrxW6Sqa41Tns_UNqv-X3B05Gw5J8n8fDo9_ucdg4LkNA6tQw7GOy6-dSACCdC5s7H-TygK0tgoNGaHq-HV8A8z8CSAicMjCxZbpJ1shuC1KKYKfjHpTDvsVzuoc6-i5dUZx3Hcm8ziXZyTCdeMHNbzUQD_BNuZN3BszMudk70mYGDfw6oG9tLzoN_s4KJeZ7zD-aJ-H3WYXtLVH3nNyM63RDoz6kQMMFAzqfSz1bA_a2J6DTM4l7GVtnyr2DTcOQvHyair1ykpNXVcwYX4m3pBbg5kb5aFrrGjTT-LWOvZXLfaaAb7JxcVU-D9yj7-VDVNvI6-25gQhAliGAYiDgoMxL40VPIlQAjMHJyw%26ch%3DAQEAEAABABTnLp_XBnnMXwEGAN_ZvCC2Y7IMQJ8cK1Q.%26v%3D3%26pg%3DOK3U7VPRWRCGZDOSXPWVL7FKXQ
+.netflix.com	TRUE	/	TRUE	1809953817	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTf82jxrHxVugSge7mHUApQ_PoAOcq34Ls.%26dt%3D1778417818818
+.netflix.com	TRUE	/	FALSE	1809972829	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+01%3A13%3A49+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=692b659d-51c8-416d-abea-b8baac11ca53&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771677724813&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786212825	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1786212825	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1b7f47d5-9eb8-4b60-be18-526d6071f1d6
+.netflix.com	TRUE	/	FALSE	1786212825	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786212825	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786212825	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0

@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: June 21, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): GAMING, 🖕😎🖕, 🖕🖕🖕😎🖕🖕🖕, 🖕🖕😎🖕🖕, 🖕😎
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1807157940	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK3Aw-osm9A2YTiWba0ACpQmnfWCgzEmVtAEjOK42569rbjtw6MPAvdFFctAvj0cEmCaA9YOZUfCVRy8mYfUFk3YC-JYtQkc5Jd3jzKsOOn7971op7cWIqOFXaxigIPtYbq5tr71mSrSDDGGuacFixnqrY0X-uinSU5mU3n4gkiMvNq8wFTSv9BjT1xhAMNWOhPZScamc-F-Fblro0Q8vGKobZnF3fLglp2Pak2ybTrCWaxYqtIjWrK5IPvamNTRGsNekcE_NXKCXm6m-v5j6ZseFcSljL_rGOlfxgT6W6Lg7Uzvt5DD1TIWCsupbGCQ_Rp-PfUru9-7fTAu2uPMbZ4RSaD1FwGNmex0fw87uHyYNbjq1EKDjzk2Ixp8_x7ble67lmKHC-GtGc86urHT-tcHy3qGjsho4hbHD1hhlMk2KR5L4hTjwFPY2Ey7ZVsNbSf7iOo3ycUWk1hoVL7UU14uArVh4d2sRa3jnZ01rCml_5-r3yF1BWY5Z7VP1PFU_TMg0VzDFsiaXREd1FTjMLOA_1ebHj0uhuipo6fx7JgU76RjmAGY355mksKojPYAZRynjZnrxeGHnYYBiIOCgx50ZwuZ1juXNrNI00.%26pg%3DYBDMA4CKGZFSDNKWTVAJXRJJDI%26ch%3DAQEAEAABABSx0Q7NZNF03AOFkDgaPXAtAu3ejculuGw.
+.netflix.com	TRUE	/	FALSE	1807158041	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+09%3A50%3A41+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4dbb708a-0198-4093-bf30-682f03d51ae1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775621909985&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1807157940	nfvdid	BQFmAAEBEJaljZUeuZxq-KKdSo_Vot9giqZnZlVeENVidWaIOKrslhl4jvFz7oMZntbxWD_HwNQArDPd84EqkmHvjhzZjbodpbjiJnE2tgdi4e8NI4Cf3RT3oE4-EDPL610LoIvPC4wf6s7Hj0V0sBujsFW_Qm__
+.netflix.com	TRUE	/	FALSE	1783398039	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783398039	netflix-sans-normal-3-loaded	true

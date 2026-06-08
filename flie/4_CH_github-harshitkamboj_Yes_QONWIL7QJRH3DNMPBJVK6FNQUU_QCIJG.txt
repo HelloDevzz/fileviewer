@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CH
+Plan: Premium
+Next Billing: June 9, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CHF 29.90
+Extra Member: Yes
+Profiles (5): Say, ISKO, Indian, X, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-03-28T08:49:09.529Z
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBECz7qW1CSWtXbFoy22MDh9xgMLFV-tEPQP9B-kUTJju_sW7JYPBw0pT68MaRIl_kcphyubMAec3PeQvuWuOjrI4IYkz5TsxxdQBDM3sNaB0KLAnIr01by8QLWgq1LV2Zs0uRVgGPx-wq-e63vgMAknzb
+.netflix.com	TRUE	/	FALSE	1785165352	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+27+2025+17%3A15%3A52+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9845c4f-de13-4703-96d1-19c7856e430f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CH%3BTG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1785804787	NetflixId	ct%3DBgjHlOvcAxKmA9spHcilu95uasE8yb81bWUnvEIyco50rF-3iYR7GUFcnzr6lVeIDMcWp7S_b0uIhWD2bp_sRfd2wSI7RrXe4ot97xxOXPheUw14E1rtJODTVQxo6Yd77e0DiNAdc664QCcYjnITipYE1Ywm4RZtlI2rh8amHAqxdCGnQL7D1KU-3BB40_X-BwQ6uvQ_SU9ztnM40jZXeC6KaIVgrrW5Id0bV1gfm_X6OFI_WjW1ZWrUqi4vc12a2F-PA1Qaarmrq87yH2w5VkmVwOt4AGUsPE3tmn_UPLbsyGImb-0RqwJXMiMKYPqKET5rrKBbHRdRN7_NOaMxxwT1ChLow5Hlb_VPKr3QG8p03vfZRq8sPnBxbQ4JGxr9h-cIsEDN_u1Zl-BzjJRomDPhAc6sBVk1bJZ-7hFgILlVTVIHDBWWzREjsaVt46wATvrSkuj_1TszmRCUDIvlcUQ-I_A-MOkwSrAa1FpoTh7bWkc2W0OuGbYw_tKF1sfygIYnQtdUJpIYUiWcpsp9wWzpUoc24E3tO_AiZuRlEvI2ej53I4kCgI_IkfnkASZuGAYiDgoMMtHnWADNeirsRTTM%26ch%3DAQEAEAABABQmFpvtzstHF6BfUwFdU602OxdBphozaac.%26v%3D3%26pg%3DQONWIL7QJRH3DNMPBJVK6FNQUU

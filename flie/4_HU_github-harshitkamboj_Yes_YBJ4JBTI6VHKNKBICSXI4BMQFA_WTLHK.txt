@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: HU
+Plan: Premium
+Next Billing: June 9, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 5 690 Ft
+Extra Member: Yes
+Profiles (5): sanyix, Kati, luna4k, Ggggg, Gyerekeknek
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782244436	OptanonAlertBoxClosed	2026-01-13T13:24:07.496Z
+.netflix.com	TRUE	/	FALSE	1782244436	nfvdid	BQFmAAEBEEJceUfN6SKq55eNTIqpXoRge4Mo5HBTjh9X_0fOnvKMnFsWq9PGJkN1RqfOlWXkt1AN-8IuUK7tBWOrJ-4qJE_CCZfAjiGh2WkIQvuIheOQgub3pFXILK6tmlsefk-_B_Vta-z3l3rKJyUrYQE37YP_
+.netflix.com	TRUE	/	FALSE	1782244436	NetflixId	ct%3DBgjHlOvcAxKTA5mrxODn90oC-B94lSoxsVAL376JmgtiYUxtsZDUKJa4CKdZ0Xc320X2ew5btjjF4gi4aT9t2FlWBas92rGnJgIdx00gISBwqBEqkP0lynoEE8nKwdVXYEKPjTvSLZF7XsuBJiKzhxkQcVkm3sHvXz-j0zwC626etRO4Y28-LUYtnhjRQEoLwIeUsz2usiJ42GN8sGZFWgYTL6IucNadvkI-PGIWvgSEu0lwgIXg49VHuTQSc9ASiWPQ1W1vbC4tZY1HOmKQ4_nQZSVTGGzilh8VXaFxf07Pnu3gonxV2hCo0LDSPhmUr_e2kXInKgLhM9MtyqpEjNAZJgHWX4LysyLqGn27fiZI2KUah29v18TcYGUARGNt8-TAmBjubliDuHw1Ks_sZJTms9sCeBMDGEXGdVhD2lPrGxSt2wesU4b3jbrlDoRTiQqTDVMj6F55xztpHyd-ZYAtMaQ0U28obMJZ1co-n08A_46lrxT-8t-Qb-OfuehkyczKs0dGhDs-GWYeYULMpbVWfCvFZ2YvT8bfNSMYBiIOCgykIQVFUCVEtMOe58k.%26ch%3DAQEAEAABABRYOWtGjaEEt-mA-IQNoP1mWHKmMYMew7g.%26v%3D3%26pg%3DYBJ4JBTI6VHKNKBICSXI4BMQFA
+.netflix.com	TRUE	/	FALSE	1782244436	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+12%3A59%3A08+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=873f5f63-d6da-44fb-8c2b-5d082fedd71f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768310647900&AwaitingReconsent=false&intType=1&geolocation=HU%3BCS
+.netflix.com	TRUE	/	FALSE	1782244436	gsid	9c875c9d-e9f5-4250-84e6-8398e1b4530c
+.netflix.com	TRUE	/	FALSE	1782244436	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782244436	netflix-sans-normal-3-loaded	true

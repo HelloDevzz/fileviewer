@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: GW
+Plan: Premium
+Next Billing: June 19, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: USD 9.99
+Profiles (4): Mariama, Madjens, ‎ ‎, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789590650	OptanonAlertBoxClosed	2025-09-16T20:30:50.687Z
+.netflix.com	TRUE	/	FALSE	1797726131	nfvdid	BQFmAAEBEIj_zFEj6cqkLWh5bpswDaNg7Ypiiueswnljo1fc4mjcIwJwuXxduZhpWkBLcTcqMpE41wVC76qTI-ful45u9xUdV52soYO1K9LzrGqHCjZ32VqSxpKOKK5KTHlnjMIF52nF_WF2TY7XgsLwQ8yYi8Oa
+.netflix.com	TRUE	/	FALSE	1808469797	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+08%3A43%3A17+GMT%2B0000+(Hor%C3%A1rio+do+Meridiano+de+Greenwich)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a5d80aa-d2f2-4e1a-9b02-2eb874c882ee&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784709797	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784709797	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782061484	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1808482474	NetflixId	ct%3DBgjHlOvcAxKxA129UdyJbo_SFrMyea9mvtpDB7JuO9tSYTLdFSfuvBM1G9gaoG625WHVnKBEJJqffLL13GRrc6nOZ2zaFkEeyICWi_wCep8HTVjiOJMjYBBqPoMh_ZtpwWc46bQTXiPQ4hlc0bOjrtw8J0SmFJaO2CJ2NvZAPBBZIomUDUQ0iSNnjsTHXmxJxKCh1DqCxDPsyja6rGikjUgEHEeyZNOQJUwiwdijGOqy9cvVCQRB_t_k0Ob8hNiBe8gQqMShCHE9-bNvBFi5m4kMMg_zJvHb9HD76RDs01xbN_BW7HHaFOT4EMlpWOftmjUPdk-rhHV0bJiRI3wQhMyXoPZnK2ys-3HE5sOW9AIGt9ANGq_N5XZclpSDaNcZ33k2xsQwgwQJv95Fad-xb6pLaU4Q108itFBNrg2dP0j-8bTAo5NN5adi7et-xs5GRZ8c4dJ73MHMK1GQmiRk1WZIn2eg7oVdpOA8ljjjplxQo5cNCd17siUTwqDBdExSybUI1PXpxmiEgEk1jycVufAiMVBAPZ9kMd1snCXyhjK51qMVGOmCR2gxNI-WnL6cUowj_MU_aEqhdScYBiIOCgwB4ZPxiWqFH96eQBg.%26ch%3DAQEAEAABABQNDHME0IlYEnLNVhb1nzKZsRpSyv_kKPw.%26v%3D3%26pg%3D5BFBEOBBPZBV7IVF4B2PI4JHDM

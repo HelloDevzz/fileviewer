@@ -1,0 +1,26 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: June 30, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (4): Aysun, NLEChoppa, Deniz, Gg
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-12-06T20:57:56.243Z
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	2b03cc8b-ad4f-4e99-8685-1e7d23646490
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	7934481f-7942-402f-8826-a2ac00170d58
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHCqDU2M1w5I9n1sFWqQzfNggj4sadXRFennQYdk6rQsKu1xIMXxzYR3ZUW69gr3sX3sFNnjxsobZdrcfEGyr0c5zs48XEYIQqkXFN8U3Rhg21dTQu2UdkrNlkqi0celdIQ1Q0D4d-vzJOfCDPAWjPvZ
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA9I-vXvw9mxqYXWjf1u3JrOIr3PX1qCD-QNrjAl1TwHNmDmZ-oro-d9D1aPTqxeMB4mGbGfji2YqZPp6QgrdvKHQTZX-hZjlopdazooOQcKNXG6sPL_I8H5EvawdGY2JFUmu_0AcHFaUpqREl2KUmsOHFoCTv2rr1wXC1kO8a82ed9VJYi__p_OxrTnIE5H9i3P3twACF7hhs0fkCrwUKQxkZ9Nxyfjv-1fTBH9lm1Iazh2QrUV_CsBTjQNlnBAL-w3U763SHH1CO8ReXD4PpIGqJV8eZOHdtGGkdHZCxrz-FFDGslASJFI2QqASWdjAzop6sQAUoV8aO42EHbn4BtooSaazZ6nqFYI73uvM-btyGFcrnHNemhg6ZEb8Lpd09Xics7_vPNZ3UPs49bn9hdNAKMxJ5tgLHceZ31jwFKeIsfVXZpeX3P6M06S9pPYfVwnupeQSA8L8BCLDowXRiHaVBuAkGXG73XfOAH26gL4t3rOCnibNn0XVr_b84ZsKdxgGIg4KDIlfN2eA1tiFwwGJ8g..%26pg%3DDBGVGQFQIRACZB2VVNOSETRZ2Q%26ch%3DAQEAEAABABRmVo4XCSNUS0VmapJw3DFp513ts9fiY9I.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+23%3A58%3A10+GMT%2B0300+(GMT%2B03%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a0222d5-5be8-47ce-9de3-dc4d98123378&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B35&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQosVI2Mprjfyuzk24UVtv-8mhEOSPlmf4.%26dt%3D1765054689135
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
