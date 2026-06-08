@@ -1,0 +1,226 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f1117;
+  color: #e2e8f0;
+  min-height: 100vh;
+}
+
+/* ───── Header ───── */
+header {
+  background: linear-gradient(135deg, #1a1d2e, #252840);
+  border-bottom: 1px solid #2d3150;
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+header h1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #a78bfa;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #22c55e;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.4; }
+}
+
+.status {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+/* ───── Main ───── */
+main {
+  padding: 32px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.file-count {
+  color: #64748b;
+  font-size: 0.85rem;
+  margin-bottom: 16px;
+}
+
+.files {
+  display: grid;
+  gap: 12px;
+}
+
+/* ───── File Card ───── */
+.file-card {
+  background: #1a1d2e;
+  border: 1px solid #2d3150;
+  border-radius: 12px;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: border-color 0.2s, transform 0.1s;
+  cursor: pointer;
+}
+
+.file-card:hover {
+  border-color: #7c3aed;
+  transform: translateY(-1px);
+}
+
+.file-icon {
+  font-size: 1.5rem;
+}
+
+.file-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.file-name {
+  font-weight: 600;
+  color: #e2e8f0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.file-meta {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-top: 4px;
+}
+
+/* ───── Buttons ───── */
+.btn-copy {
+  background: #7c3aed;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+
+.btn-copy:hover  { background: #6d28d9; }
+.btn-copy.copied { background: #16a34a; }
+
+/* ───── Empty State ───── */
+.empty {
+  text-align: center;
+  padding: 60px 0;
+  color: #475569;
+}
+
+.empty .icon {
+  font-size: 3rem;
+  margin-bottom: 12px;
+}
+
+/* ───── Preview Modal ───── */
+.preview-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.preview-modal.open {
+  display: flex;
+}
+
+.preview-box {
+  background: #1a1d2e;
+  border: 1px solid #2d3150;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 700px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.preview-header {
+  display: flex;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1px solid #2d3150;
+  gap: 12px;
+}
+
+.preview-title {
+  flex: 1;
+  font-weight: 600;
+  color: #a78bfa;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.btn-close {
+  background: none;
+  border: none;
+  color: #64748b;
+  font-size: 1.4rem;
+  cursor: pointer;
+  padding: 0 4px;
+  transition: color 0.2s;
+}
+
+.btn-close:hover { color: #e2e8f0; }
+
+.preview-content {
+  padding: 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #cbd5e1;
+}
+
+/* ───── Toast ───── */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: #16a34a;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  transform: translateY(80px);
+  opacity: 0;
+  transition: all 0.3s;
+  pointer-events: none;
+}
+
+.toast.show {
+  transform: translateY(0);
+  opacity: 1;
+}
