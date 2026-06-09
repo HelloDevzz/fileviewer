@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: TELEFONICA_SPAIN_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): max, anto, sofi, Gabrii, Marc
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1795740048	OptanonAlertBoxClosed	2025-11-27T00:40:48.719Z
+.netflix.com	TRUE	/	FALSE	1795740067	nfvdid	BQFmAAEBEAs6TEQ2OhiF7sP_eM_4HLtgl6_3iyEsMr8y19bWXozY4Zi0MBWr7kYJgT6GYs1oQyeTrt_EL9-QIgq0cpX4s-YaO9emd3AGtqJrvMZ9HfNFAG20evXAz3qX9OQf5sftopchhH7L8BSNmnUTcxFG-ktz
+.netflix.com	TRUE	/	FALSE	1798765288	dsca	customer
+.netflix.com	TRUE	/	TRUE	1798244999	NetflixId	ct%3DBgjHlOvcAxKsA2gFc-aaJK8QTVtNevymTD6OF4k7d5O-DqGk0XrMYlbdYkWGd1ujjXpQls9wOtm__7yaWjr074QXjkLTZqSWYc5CHzVz72suHylQ0VhGghnL5tb3h-WqNcavqkxOW6RJLl6b-QNKfUGEXluZlKFDWYCH87EtFjxsw4cdRyojn5o2wfUuCpaZCJ5Vx29Avgz138bf3fn9SoobN9e7xNKoCCfyo_76e-BlxDokXHqsQungfzeJ_a_gNQv31tqMg6IUbppnbInmspa7JPBjIY7SL4dkd7D1uXJd5Qf_KXCoQYXZIkFLSZPdpq27q74e8GsymAaKveg2LGbvHPOHvleCLJb7AboDNblvxQlsHXavWwwmbOCSideaBpFulbMoD1ZINUaazSrgoKMWfq19DojfefZsTT1HX2POjuqwiwUzqT1-dPj6L3fHndrtWuBZHdi03YoUJ7X05Lb3tG4GhT7dB_79iJC-0QvxAL6zVnDBJTxm2R6JrigXc2jecS1DyM7J93Kh1VGzUZNuaf-5NTq3uwVRAPfo2ovJshQ6LCUU0IfAnOjUA1vmxgVqpv3kGAYiDgoM980wR-AsSKxz5A1A%26ch%3DAQEAEAABABTwosynwPKB1i5sm5cG07aRIxgpIgTxC5w.%26v%3D3%26pg%3D25EC2ELS3FFOFDKRL6ZMZZ74VE
+.netflix.com	TRUE	/	TRUE	1798244999	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVzDMbVHwH061u-8zt93Mc_SqVfPQ5Hm0.%26dt%3D1766708999013
+.netflix.com	TRUE	/	FALSE	1798246967	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+26+2025+01%3A02%3A47+GMT%2B0000+(hora+del+meridiano+de+Greenwich)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a329d28-39e0-4959-be90-8e86d2fc850e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782676595	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782676595	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: UY
+Plan: Premium
+Next Billing: July 5, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 USD
+Extra Member: Yes
+Profiles (5): jAcQuE, Paulinho, Joa, Santino, Miguel Y Merce
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1785213836	nfvdid	BQFmAAEBEL1GHPOQeZKs4hqSRKtpmV5g7j-5qw7fSxsIh1wFcn9eHtEyl_g15OEVG6BEQ44MfXFxv6mD7V2wz6C9yE_yAMwc8aF6gdY4-98qbIHYXEvBX4DXG_7ItJ1Y_UVWc05zpV5XF4wtEHYMh6W_fy3i9quy
+.netflix.com	TRUE	/	TRUE	1806328567	NetflixId	ct%3DBgjHlOvcAxKFBJQn1RP2NPz0qxy5Rvwt-4qMjpbhhSOWg--mW8aAn8Z2fXVz0WecGWt7XcmM9ymdUDM3EG674hW7DLz4hX_pQLl-tDbGdShvpE1O_QYLmHf8g8G7PNWLWMqdy29Z1qxLVbAMq6gpuGS02W0WSPSMxM2hcJtf42vex08vzA70UDdaou6pd2htfEVnh1X9uNHS_f0blVzk7BnWk---HZe_97AFgDgu3hufVTRrn0xi3M_XJEr2wKvomkCbxq_AfwdCJ1WhgLHN4-BSGUeOE61KsojVuw4Le_o3N6q3RZuMFfgZC0GXNWrQPR4MpLSv_mA-y-grTk0W_DdpBsnt4IMG9mVUXwXu4TsO0fJ41C61zrJd5zdBpOr6A_-TjIdKl_oL2N1HAJUMR6HyB3oUz87ES08LHNY48y0VyXAUkjlcbAIa_VlaDjd-IOwDktCa-tD6jeiEpF4UJRJRQjJ4pQJT9LMI8BA76wYfrNdVxUujxNf7xR_dQ0u_Otse1g42cZeA043h05JeZBPzCXK02yDVHiJqNEjsiM30eLKs0aEOik4TdzB2E_n-3CkMb5-3pxjsUyUycfxTaZ3zJU-xCOsnKlkb_0cLWth-ymX_6W0Y5PXm1CFcw6g7rOxpIbQPpTf2wtoxdfvRXlUDA3pdpJUSYNiyrnuiKJQXeJsctPyWD1ELD2crPPsYBiIOCgyZjbbsZ9Fk1qR-6mM.%26ch%3DAQEAEAABABTixgPmYGkpCyJOHgFZoj2Jhsmjs6gInKo.%26v%3D3%26pg%3DE2WFGRWGXJEB7ICKEIBXQEB33E
+.netflix.com	TRUE	/	FALSE	1806328568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+10%3A56%3A08+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1df0e0ee-2269-4e79-b307-14050404f405&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1782587846	gsid	b01ffb12-b552-49ed-80a1-49b82abcf3d4
+.netflix.com	TRUE	/	FALSE	1782568567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782568567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782568567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: MY
+Plan: Premium
+Next Billing: June 20, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: MYR 62.90
+Extra Member: Yes
+Profiles (5): Guest, MrMoon, X, maz, Cami
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1805687746	nfvdid	BQFmAAEBEEIHYPfXIZG7atxmmfhzJl9glhF4TWgXGEk86H2ZREMAPYow6Mtr5whZ16Ysi9pB9bOjqmrFkzjA87WuJw_vVA6UzMXn2D9ndGQYfTgO9zUNY3ZhQhcq1DMEIfj442H1_BaYMsXzhhVoo9wF7_ihgQgs
+.netflix.com	TRUE	/	TRUE	1806822779	NetflixId	ct%3DBgjHlOvcAxK7AyUjmFTR7CavjeaEABcqcdu51bW7226piYcZaF7jpquVxFK8jepRYLnPEWISaIBNzH_qj9RziwRbkQ4U8tmWcGRWIxOHbBG25MoQ8D4mBd6P0R8-NDK6BsCwjZTwTpgrOi0wOKAryKGc1_dEwkSvN2yimPLFuY7q_7FPZygSGqoHZxnq2tHHEuTfLdl1g6lIFohksjLRtvYE1Q89vdRICyyf4Wpc8nWIowA2XYFjrySb3-zgsNR01UNLEicBt_BFMnWrU21MHI_EdCEDkI9qmeduFX1mUHbZNXiPID9Al8hdhRYU7tDUOXNFSj_zIa6jdZupWjb1d3NRdVmnUJBJz0wLvV0GogtgwTjeV9XnkXexLMV2zj6MfvdSxXaqLg4hJxMCBk67FU5_f5Sk7ah1IT_DSjqxDsmdpJdB0zq6qFwDlIpvRJtH5EqveDtlRc83wIefqm8GbakhM9Nk00PLG3P8XZLdYA8tNjCX_yr9_MFL3QFiR78RccdMxgcil6_2uQEyOZc5LNKFMzGMtt9WVYVJjcVmiZ7w2N1irDrKIyIdrC3xiuxoloUEszNGXTkUObMJ5pPVmcro4j-2GAYiDgoM85y94bqjKhrAcNEP%26ch%3DAQEAEAABABQ2T0n-WevGVgfl1SkzsOkHNUqYoBHcXFQ.%26v%3D3%26pg%3DBT26S4AT6VEMDMDLFWVGMYXWVM
+.netflix.com	TRUE	/	TRUE	1780832223	gsid	2af0ab97-3c9b-4268-8061-685464785591
+.netflix.com	TRUE	/	FALSE	1806843798	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+21%3A03%3A18+GMT%2B0800+(Malaysia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c68c6c5-c43e-4491-849c-4e24bd2d14ea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772199714790&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783083798	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783083798	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780832223	profilesNewSession	0

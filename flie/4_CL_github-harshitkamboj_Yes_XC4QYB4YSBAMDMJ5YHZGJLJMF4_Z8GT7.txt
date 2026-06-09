@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: June 30, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Extra Member: Yes
+Profiles (5): Nelson Goitia, Ana Zerón, Pantalla 3, Lina and louay, Pantalla 4لينا ولؤي
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-09-10T20:44:17.456Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEDjQrMEEQrvSsToOFmPKOxRgDTFiY1fbcD8a-cXGHcrLVrlWcPSe1upqNpUiZAdvlr7X1lC8P3JJ_fVQbGLK8Y_mkNCs3Es9pkdaxZ10L86521OPH1HS1UEc7WRhnT4CDCNZzheogEb5tgyq-JSatzzm
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLuA3BzT2u84hQlfZuNw1MvTf5JJwZxnPfioZP8gPviOl6yhr89cimSXaGBDNFb4sle_k-ZdUHouk6bOmXHoe7_78tVi5Kf3uPV4owZdGmLDVBjSSLv0AilWi0rl0rk-MA2sxG9_D9jeJFidJWD-a6-qnU3v1g6fotGzy_TyoGWQgWP5E_Jw_UDbqqgt0PjDAkPlU7vnhUtc60J71jYlJymm9tzy30Oa5OTNGGPZxszfYVE5vywgJ2Y-OYUWH1WGAjHb3MNCD6SAdUT0KzsPJmO7uT9gI-HNVQS1nFyynx-bGhT1DgtlAFodb4ML23fEcFyN28AKeX7bZN1GiWIIJHO5vTonzdgii5Te6ecHhK3LZS823UwusbVCY4gb-72yjb1qiFXm56QHOEA3VmL3MyNSpy1WK80lLvQNsPjtW4oN_wTZpbjlufyqdJ7Xo-CBic_4VTd63K-4Ej1zkxbB7dFr4iZFLZl8LfFr6jo9l1o2UKOEFW8XHKp_AIF8XVPYVU89oQBfdFh8Yph5-UAq8VsUzwgTx5px-JqUapWq29vumYdaLDtUnhu3BJhpCwqo7zEDx3wdGrsYg74tw2MMi_6iavlLFAU-WdxMg075DOdA97XDRyFdCT-DaDuNDCHrqr77LBwspu6tDOtMKr6nQ6JGAYiDgoMjCVhs3xy6hqw_ZyJ%26ch%3DAQEAEAABABRLstWMv7soOSf2Od2UracU3zSCijVJ5r8.%26v%3D3%26pg%3DXC4QYB4YSBAMDMJ5YHZGJLJMF4
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+21+2025+13%3A53%3A23+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e7ca571-0bb4-4700-ba00-8450ad431cf1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BVC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2xfIRzsFjamf5zuGbhXl_oBgjhH6ds5c.%26dt%3D1761047608775
