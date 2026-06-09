@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -5,85 +7,110 @@
 }
 
 body {
-  font-family: 'Segoe UI', sans-serif;
-  background: #0f1117;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background: #080b14;
   color: #e2e8f0;
   min-height: 100vh;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(124, 58, 237, 0.15), transparent),
+    radial-gradient(ellipse 60% 40% at 80% 80%, rgba(59, 130, 246, 0.08), transparent);
 }
 
 /* ───── Header ───── */
 header {
-  background: linear-gradient(135deg, #1a1d2e, #252840);
-  border-bottom: 1px solid #2d3150;
-  padding: 20px 32px;
+  background: rgba(15, 17, 28, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(124, 58, 237, 0.2);
+  padding: 18px 32px;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
 }
 
 header h1 {
-  font-size: 1.4rem;
-  font-weight: 600;
-  color: #a78bfa;
+  font-size: 1.35rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #a78bfa, #818cf8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -0.02em;
 }
 
 .dot {
-  width: 10px;
-  height: 10px;
+  width: 9px;
+  height: 9px;
   border-radius: 50%;
   background: #22c55e;
+  box-shadow: 0 0 8px #22c55e88;
   animation: pulse 2s infinite;
+  flex-shrink: 0;
 }
 
 @keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50%       { opacity: 0.4; }
+  0%, 100% { opacity: 1; box-shadow: 0 0 8px #22c55e88; }
+  50%       { opacity: 0.5; box-shadow: 0 0 3px #22c55e44; }
 }
 
 .status {
   margin-left: auto;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   color: #64748b;
+  font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
 /* ───── Main ───── */
 main {
-  padding: 32px;
-  max-width: 900px;
+  padding: 36px 32px;
+  max-width: 860px;
   margin: 0 auto;
 }
 
 .file-count {
-  color: #64748b;
-  font-size: 0.85rem;
-  margin-bottom: 16px;
+  color: #475569;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 .files {
   display: grid;
-  gap: 12px;
+  gap: 10px;
 }
 
 /* ───── File Card ───── */
 .file-card {
-  background: #1a1d2e;
-  border: 1px solid #2d3150;
-  border-radius: 12px;
+  background: rgba(26, 29, 46, 0.7);
+  border: 1px solid rgba(45, 49, 80, 0.8);
+  border-radius: 14px;
   padding: 16px 20px;
   display: flex;
   align-items: center;
   gap: 16px;
-  transition: border-color 0.2s, transform 0.1s;
+  transition: border-color 0.25s, transform 0.15s, background 0.25s, box-shadow 0.25s;
   cursor: pointer;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .file-card:hover {
-  border-color: #7c3aed;
-  transform: translateY(-1px);
+  border-color: rgba(124, 58, 237, 0.6);
+  background: rgba(124, 58, 237, 0.06);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(124, 58, 237, 0.12);
 }
 
 .file-icon {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.4));
 }
 
 .file-info {
@@ -93,44 +120,66 @@ main {
 
 .file-name {
   font-weight: 600;
+  font-size: 0.95rem;
   color: #e2e8f0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  letter-spacing: -0.01em;
 }
 
 .file-meta {
-  font-size: 0.75rem;
-  color: #64748b;
+  font-size: 0.73rem;
+  color: #475569;
   margin-top: 4px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
 /* ───── Buttons ───── */
 .btn-copy {
-  background: #7c3aed;
+  background: linear-gradient(135deg, #7c3aed, #6d28d9);
   color: #fff;
   border: none;
   border-radius: 8px;
   padding: 8px 16px;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
   cursor: pointer;
   white-space: nowrap;
-  transition: background 0.2s;
+  transition: all 0.2s;
+  letter-spacing: 0.02em;
+  box-shadow: 0 2px 8px rgba(124, 58, 237, 0.3);
 }
 
-.btn-copy:hover  { background: #6d28d9; }
-.btn-copy.copied { background: #16a34a; }
+.btn-copy:hover {
+  background: linear-gradient(135deg, #8b5cf6, #7c3aed);
+  box-shadow: 0 4px 14px rgba(124, 58, 237, 0.45);
+  transform: translateY(-1px);
+}
+
+.btn-copy:active {
+  transform: translateY(0);
+}
+
+.btn-copy.copied {
+  background: linear-gradient(135deg, #16a34a, #15803d);
+  box-shadow: 0 2px 8px rgba(22, 163, 74, 0.35);
+}
 
 /* ───── Empty State ───── */
 .empty {
   text-align: center;
-  padding: 60px 0;
-  color: #475569;
+  padding: 80px 0;
+  color: #334155;
 }
 
 .empty .icon {
-  font-size: 3rem;
-  margin-bottom: 12px;
+  font-size: 3.5rem;
+  margin-bottom: 14px;
+  display: block;
+  filter: grayscale(0.3);
 }
 
 /* ───── Preview Modal ───── */
@@ -138,7 +187,9 @@ main {
   display: none;
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   z-index: 100;
   align-items: center;
   justify-content: center;
@@ -150,58 +201,84 @@ main {
 }
 
 .preview-box {
-  background: #1a1d2e;
-  border: 1px solid #2d3150;
-  border-radius: 16px;
+  background: rgba(18, 21, 36, 0.98);
+  border: 1px solid rgba(124, 58, 237, 0.25);
+  border-radius: 20px;
   width: 100%;
-  max-width: 700px;
-  max-height: 80vh;
+  max-width: 720px;
+  max-height: 82vh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(124, 58, 237, 0.1);
 }
 
 .preview-header {
   display: flex;
   align-items: center;
   padding: 16px 20px;
-  border-bottom: 1px solid #2d3150;
+  border-bottom: 1px solid rgba(45, 49, 80, 0.8);
   gap: 12px;
+  background: rgba(124, 58, 237, 0.04);
 }
 
 .preview-title {
   flex: 1;
   font-weight: 600;
+  font-size: 0.92rem;
   color: #a78bfa;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  letter-spacing: -0.01em;
 }
 
 .btn-close {
-  background: none;
-  border: none;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
   color: #64748b;
-  font-size: 1.4rem;
+  font-size: 1rem;
   cursor: pointer;
-  padding: 0 4px;
-  transition: color 0.2s;
+  padding: 5px 9px;
+  transition: all 0.2s;
+  line-height: 1;
 }
 
-.btn-close:hover { color: #e2e8f0; }
+.btn-close:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #e2e8f0;
+  border-color: rgba(255, 255, 255, 0.15);
+}
 
 .preview-content {
-  padding: 20px;
+  padding: 20px 24px;
   overflow-y: auto;
   flex: 1;
+  scrollbar-width: thin;
+  scrollbar-color: #2d3150 transparent;
+}
+
+.preview-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.preview-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.preview-content::-webkit-scrollbar-thumb {
+  background: #2d3150;
+  border-radius: 3px;
 }
 
 pre {
   white-space: pre-wrap;
   word-break: break-word;
-  font-size: 0.85rem;
-  line-height: 1.7;
-  color: #cbd5e1;
+  font-family: 'JetBrains Mono', 'Consolas', monospace;
+  font-size: 0.82rem;
+  line-height: 1.75;
+  color: #94a3b8;
 }
 
 /* ───── Toast ───── */
@@ -209,18 +286,269 @@ pre {
   position: fixed;
   bottom: 24px;
   right: 24px;
-  background: #16a34a;
+  background: linear-gradient(135deg, #16a34a, #15803d);
   color: #fff;
   padding: 10px 20px;
-  border-radius: 8px;
-  font-size: 0.85rem;
+  border-radius: 10px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
   transform: translateY(80px);
   opacity: 0;
-  transition: all 0.3s;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   pointer-events: none;
+  box-shadow: 0 8px 24px rgba(22, 163, 74, 0.35);
 }
 
 .toast.show {
   transform: translateY(0);
   opacity: 1;
+}
+
+/* ═══════════════════════════════════════
+   RESPONSIVE — ทุกขนาดหน้าจอ ยกเว้น TV
+   ─────────────────────────────────────
+   xs  : < 375px   (มือถือจอเล็กมาก)
+   sm  : 375–600px (มือถือทั่วไป)
+   md  : 601–900px (แท็บเล็ต)
+   lg  : 901–1280px (แล็ปท็อป)
+   xl  : 1281–1920px (desktop ใหญ่)
+   cap : > 1920px  → จำกัดความกว้าง (TV)
+   ═══════════════════════════════════════ */
+
+/* ── xs: มือถือจอเล็กมาก (< 375px) ── */
+@media (max-width: 374px) {
+  header {
+    padding: 12px 12px;
+    gap: 8px;
+  }
+
+  header h1 {
+    font-size: 0.95rem;
+  }
+
+  .status {
+    display: none;
+  }
+
+  main {
+    padding: 14px 12px;
+  }
+
+  .file-card {
+    padding: 11px 12px;
+    gap: 10px;
+    border-radius: 10px;
+  }
+
+  .file-icon {
+    font-size: 1.2rem;
+  }
+
+  .file-name {
+    font-size: 0.82rem;
+  }
+
+  .file-meta {
+    font-size: 0.68rem;
+  }
+
+  .btn-copy {
+    padding: 6px 10px;
+    font-size: 0.72rem;
+  }
+
+  .preview-modal {
+    padding: 0;
+    align-items: flex-end;
+  }
+
+  .preview-box {
+    max-height: 95vh;
+    border-radius: 16px 16px 0 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+  }
+
+  pre {
+    font-size: 0.72rem;
+  }
+
+  .toast {
+    bottom: 12px;
+    right: 12px;
+    left: 12px;
+    text-align: center;
+    font-size: 0.75rem;
+  }
+}
+
+/* ── sm: มือถือทั่วไป (375–600px) ── */
+@media (min-width: 375px) and (max-width: 600px) {
+  header {
+    padding: 14px 16px;
+    gap: 10px;
+  }
+
+  header h1 {
+    font-size: 1.1rem;
+  }
+
+  .status {
+    font-size: 0.7rem;
+  }
+
+  main {
+    padding: 20px 16px;
+  }
+
+  .file-card {
+    padding: 13px 14px;
+    gap: 12px;
+    border-radius: 12px;
+  }
+
+  .file-icon {
+    font-size: 1.35rem;
+  }
+
+  .file-name {
+    font-size: 0.88rem;
+  }
+
+  .btn-copy {
+    padding: 7px 12px;
+    font-size: 0.75rem;
+  }
+
+  .preview-modal {
+    padding: 0;
+    align-items: flex-end;
+    backdrop-filter: blur(4px);
+  }
+
+  .preview-box {
+    max-height: 92vh;
+    border-radius: 20px 20px 0 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+  }
+
+  .preview-header {
+    padding: 14px 16px;
+  }
+
+  .preview-content {
+    padding: 14px 16px;
+  }
+
+  pre {
+    font-size: 0.76rem;
+  }
+
+  .toast {
+    bottom: 16px;
+    right: 16px;
+    left: 16px;
+    text-align: center;
+  }
+}
+
+/* ── md: แท็บเล็ต (601–900px) ── */
+@media (min-width: 601px) and (max-width: 900px) {
+  header {
+    padding: 16px 24px;
+  }
+
+  header h1 {
+    font-size: 1.2rem;
+  }
+
+  main {
+    padding: 28px 24px;
+    max-width: 100%;
+  }
+
+  .files {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .file-card {
+    padding: 15px 18px;
+  }
+
+  .preview-box {
+    max-width: 90vw;
+    max-height: 85vh;
+  }
+}
+
+/* ── lg: แล็ปท็อป (901–1280px) ── */
+@media (min-width: 901px) and (max-width: 1280px) {
+  main {
+    max-width: 820px;
+    padding: 32px 28px;
+  }
+
+  .preview-box {
+    max-width: 680px;
+  }
+}
+
+/* ── xl: Desktop ใหญ่ (1281–1920px) ── */
+@media (min-width: 1281px) and (max-width: 1920px) {
+  header {
+    padding: 20px 48px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  main {
+    max-width: 1000px;
+    padding: 40px 48px;
+  }
+
+  .file-card {
+    padding: 18px 24px;
+    border-radius: 16px;
+  }
+
+  .file-icon {
+    font-size: 1.75rem;
+  }
+
+  .file-name {
+    font-size: 1rem;
+  }
+
+  .file-meta {
+    font-size: 0.8rem;
+  }
+
+  .btn-copy {
+    padding: 9px 20px;
+    font-size: 0.85rem;
+  }
+
+  .preview-box {
+    max-width: 820px;
+    max-height: 80vh;
+  }
+
+  pre {
+    font-size: 0.88rem;
+  }
+}
+
+/* ── TV cap: > 1920px → จำกัดขนาดไม่ให้ยืดเต็มจอ TV ── */
+@media (min-width: 1921px) {
+  body {
+    max-width: 1920px;
+    margin-inline: auto;
+  }
 }
