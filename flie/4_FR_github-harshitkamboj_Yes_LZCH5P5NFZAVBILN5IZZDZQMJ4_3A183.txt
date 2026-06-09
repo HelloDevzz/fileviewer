@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: July 9, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 EUR
+Extra Member: Yes
+Profiles (4): Eric, Famille, eric2, GwenaellaEvanNolanTyllian
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1793985621	OptanonAlertBoxClosed	2025-11-06T17:20:21.243Z
+.netflix.com	TRUE	/	FALSE	1793985643	nfvdid	BQFmAAEBEGSBpksUWeF_n0P_K0k7yYJgW0f2CRxbcYK8czp4vGPiGy6ayXcxO-XpeEONed6h0u2DvCnYt99UoYBYrcohPmxcK26FmCAh3yRZY-HcrJOJ3aowrjP1dHK9iT3Tc5NTJTr1-NhCK8zz3UmNzBY4rc26
+.netflix.com	TRUE	/	FALSE	1809577705	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+06%3A28%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfd64e24-e7ef-4313-a6b2-3b9f06dad449&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	39b62792-9372-4f86-8f23-8fe6f8814cdb
+.netflix.com	TRUE	/	FALSE	1785817705	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785817705	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809579507	NetflixId	ct%3DBgjHlOvcAxKFBAc2DigSDvjGeVk07dEVXIrYrAJYqglvlLH6ukpXVyavLnbKGOBH2TijdCttSLgZ7-AGeDmXHNRciQd7s_3f5S0naV4DXJrkZD_ql_ce3p1IDj1qK3uCV4spmiWZeJJYow4LDcMp0A7JiaaZ5szM4szmCUJXrIogZyybEANw3F0JT1uWasKSl-YKsMQ6ZukEskN9w_cOYG9TrSLEStv2heV65NYPwc-kVVdjOyqFSpgfqXkPAtuBVqwYjBeEBzgk9vt3VlwriL04_-cryC00Big4qH3DvPrXiCLgl4onB83UYFFHXaQp6wvOs5e2-k3Kox79Abg3814lYu2yVXrXmcBvcCPvqPeMYnNLcfaOFQizFLQnOmcqdiFjSltrAkjvxFji_OA5BPzUYGMs_RywTKz2nE5AFx1V66hrelzOOX-X4cyeQ8esTMB2bEUfT-05xDck7UcJdi7KH0Eet3QklvIeK3Gry2L6YN6nDs3HCc4-yjr4uer-Z2dco4yU8oxwUmZoa8SaCWt07x93ezmoBUKI96eNSYUFzrfmKg2cPYohGTQwc885Pz5p9r4iC3b1hFl2cAafa3ReQAn9LS32kzN_c4csRrB9RQR8krFi9lMvuGjSdWyqQdEvJAOs3_7pptOux3ncstc1GlLc2_oeryx3RjXdZfOUBzy65leqRi3Em-sxnrYYBiIOCgwIOk4fbZQmzlWt43M.%26ch%3DAQEAEAABABS307F5OBHzLe4Nd1RrJYolfG4EdDniAlE.%26v%3D3%26pg%3DLZCH5P5NFZAVBILN5IZZDZQMJ4
+.netflix.com	TRUE	/	TRUE	1809579507	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBTNabVlDbAPWUQ6W3CJJg9jft8TviT8I.%26dt%3D1778043508427

@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: June 26, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (6): Khush??, Khush🔥, Kshitija🦋, Sharu, Kalyani, Utkarsh
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782201591	nfvdid	BQFmAAEBEMU0qswCafxl0aFb11rs-6FgYICYfOOSjIR5l3u7Qy9YM_cSo5uY9dtytddKUklc5zw7Yvs6Tvt55m8644yABmDQfB9wgPw68nL87BLLi4IUIHJcwdB_kv4e8e-P9SDsRb4zQxBfmeNhCnkB_TvnOp0E
+.netflix.com	TRUE	/	TRUE	1805958960	NetflixId	ct%3DBgjHlOvcAxKIBEs3XZZgveiTOtuej6e5uKBVMBCbPWyY4y9kHq7fqRWkPtwn6XaRa3YPUA_UHtCf9DgAfr4VU2OFlo-2-G0GIlQ1vyNJJTEC67oy1aSWd40cvSn4pJNKjR9N2pjqUxy3urqIk935JFALlmKdMeCCZnmPlxEDntQ8tNtvOrTXa9CXdEmY6aJmYPqqOyBiPxhSAg6TG3pug-wb2v-oPuFQmq42NRbHiLlf7F9dgU5EjO-h4LQso1gXUHRyKwk_RFq3U9y1mSy4E6tC0bd_0sgSP5StUA9s0Tt4k4VpriMt7YQT1h-9pMJAp2Uwu5BqbaDjWg-DtvlmM7ovoaa3EP3a3pzmKndHtdMfc3EOz2q8ArqVCoQi7HG8WrzGc7F93bcZx-onKRY0LkguiZqqN9KsAcIQZcPpMED4gZ6S9Ly4KZs-VtY3hJWQUshQP7oxC3-EbZcK_d-ryUKPModXpTMQdS_Uz6Y9XJe-CRgYum06EXOWSygrJ1IcBEB8Qq20Y4bUabafdiJ6LW8ewCXfRAb7EVms7wU-FTH1-vGRAjLnpPzx9rzsh4Fw520K9PtQA_MfLy52bkJFEpPbPGpT9hCpu7uQGatb55mKCR95d4HwE7gXaG83a-ukfajqWgtSd8wbh6642xZRu9LUEW78lNiw4_Wn74qKe_9pUcJm1KoKQw78rDQbhdloIvMYBiIOCgz_IxEvmOse9clSiec.%26ch%3DAQEAEAABABTbbvg8-gTQ7vX2VpALMWGoelhssYJQtOE.%26v%3D3%26pg%3D3DG27SN3GVECPJGWYQ5ZKRFP4E
+.netflix.com	TRUE	/	TRUE	1805958960	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTmMNuPY7JT40PWumD-1eQsCzB6smGGroo.%26dt%3D1774422961836
+.netflix.com	TRUE	/	TRUE	1782201591	gsid	20a82e8d-f87b-4281-ae29-ae7826847b6c
+.netflix.com	TRUE	/	FALSE	1805960259	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+13%3A07%3A39+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f66975cc-bee5-41fe-9e68-0b0ff69ff64e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782200255	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782200255	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782201591	profilesNewSession	0

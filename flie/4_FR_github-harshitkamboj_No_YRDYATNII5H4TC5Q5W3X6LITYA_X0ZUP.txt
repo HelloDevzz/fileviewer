@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: FREE_ILIAD_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): Papa, alia, Chinois-138, lenny, Nael la tarte
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1793631229	OptanonAlertBoxClosed	2025-11-02T14:53:49.088Z
+.netflix.com	TRUE	/	FALSE	1793631421	nfvdid	BQFmAAEBEBE3NF2nvp87di9SdhZBof5g4Umi3QQQo-JMQFZiQPyn_5bDZHInCw3WfDv9l2nAhCU_dk1jRDuDNO7loD91BIcCNQdEtBwK_2pK3flJYjRf4J4mt45OCsUIRAC6KqjnuBRUreUtRKdBqJyh433ePStH
+.netflix.com	TRUE	/	FALSE	1797884462	dsca	customer
+.netflix.com	TRUE	/	TRUE	1798902951	NetflixId	ct%3DBgjHlOvcAxKyAwjh03sxsnlTHHS_5LCwxH0FG4ymhx_-LmNV3BAcdZse6gHzhNrN_sJEnQsAm53UDKlqtWaf7ADKGMIHIesjJOpnUzn3A0hEt9hcNHDMWi-asFnE_qSSJtFGLK2aqe4wmlJrvxVYEO6qbyJAAMehPK9EKOOPPM07w7w4Ux1xuuDfh1e02-sjCsaC6W9EKGpM0W6K6mfU04PHIhYODmtxeeu7ZaT0LOR2OOT6Wq69auKlsYDXF8gkTgFw7DEQdKKV0YWUV0BzWHqfypUAZO6NyED-Xd0gC37ynMJxqmZzeqGL6F-Ju7prR2OiM19OCUrr4QyoX8ZIGwE9RFIlEXYuB0U5Y3UOuL99EGi9_XqcTpttWRWwEXtfrGkn0yeRnhKVbfCeRshxpLpVGl-QLOlLf2V8FBRkZKOFu_JR_BdSF5rSSz-5Hv01fG0hOUBYlnHy3otSuIM5h7hXEcgjfdxuTT2AmeDdVeyx5fw-3fZmJgPjTg87sGoRHmm9Sxqm5TrxS4FAqVOXcGCh5ZNps4RwFVcBZJDcqS31xbXtc6r1C_OJQDmd4WMNW-CqW9vh04JrsOwCGAYiDgoMv42z-i8Wo37B-TLW%26ch%3DAQEAEAABABQhPKDnLIFr22g5-5ilwAwvBheiCuTAOiE.%26v%3D3%26pg%3DYRDYATNII5H4TC5Q5W3X6LITYA
+.netflix.com	TRUE	/	FALSE	1798902952	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+16%3A15%3A52+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=345e9334-5fb8-4966-b21e-73c45bda944d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BPAC
+.netflix.com	TRUE	/	TRUE	1798902951	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShUgiiM89pUNlnhbOnLLSXnFwSCmKiEIY.%26dt%3D1767366951342
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true

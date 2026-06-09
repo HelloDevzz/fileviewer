@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: CA
+Plan: Premium
+Next Billing: June 15, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CA$23.99
+Extra Member: Yes
+Profiles (5): Unc, Sandra, Pebblez, AAAAAAA, Shawma
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1793498382	nfvdid	BQFmAAEBEDnA90y29ORXxj1Bf4XHXaZgoLR79JszVimKO8OAOdVwFNOfWfCR8g8lX4B1z0wcsAFekYI_JIT1nPS2aTpM78cKzVtaeWDHwEQgfAGWcY8AU_V506RVVFfR6_d1TCc5Pe7R2Ic5SkHnhKmp4RDhVOZ_
+.netflix.com	TRUE	/	FALSE	1793542275	OptanonAlertBoxClosed	2025-11-01T14:11:15.556Z
+.netflix.com	TRUE	/	TRUE	1800229027	dsca	true
+.netflix.com	TRUE	/	TRUE	1780920679	gsid	fee93763-9bbd-4cbe-a7e5-acfe403fd1d1
+.netflix.com	TRUE	/	TRUE	1807087754	NetflixId	ct%3DBgjHlOvcAxKIBGpOOSlfnjai-ya0qEGx32HHuFox7msSJS2jwtkAp5lMLUdwi3XBx6mchjRuzgnWLyNnHi-ntOTClwwUZYDDr5xPLqyw0q0Rjubz88YH4K5W44H4vgz1KVAhzXKROrODmcRNgA_m0I125kweIBcT4VhO8l5V-2S6SeG9uOiLvN2n_iCGfPAiQ3nymaLb07TMDaRDVH--8DBHK-Wz3J6OHmNz0yPC6kPoZufugjJPENFK3fpfHkzf0QJlYSN6LmNf1IZoA5V4wqWxquYOwyO6ahW7JDg912BOiBZQmVYxcC_FPvcGjXWNnlSthmPnEJITHoSNaPP3Lr-F9e-GGbFA_K6D_Q33mNdtXFGWLe6pH6ObXr6RQxVf5QG24cXRuPYOzK2I6r7UOjqWg4eeczNNIIpek3Z1GZlAteP1XdjdSlWcPfFW-jsAR7S-3Geaa8gshh5ec27PeM9Rwyg2-13qrVCKrDgnmWNQ6AwCN7czcpGhYmbTiIFtONx-qzzc6S3xiBuLqgvjFhwTdjnTIQuhyLNDpfxRCumbGhUS3PBStPVQ_J2gBStqZ_7GNci0MeQs3eZ4xoSm_AmjRTrg10LZ-JNOpqF9Ach7aAlBXxwfy0TOsrhdwrcJM74Y8lPLQ-lZNPoozXxIKXi4Xxbfgg3QKsqVFWmnJiByiP5IwaxApFILTXHJT54wKqQYBiIOCgyU08ci3meHfowPSSQ.%26ch%3DAQEAEAABABTrHpcJcRS645MFBkpZ4SfV5NcfU_HeddA.%26v%3D3%26pg%3DAGINBSYLPJERXJ2JXTCZHBYJIE
+.netflix.com	TRUE	/	FALSE	1807087754	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+01%3A49%3A14+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8917dfb5-9a69-47d2-a80e-9da0ec8faa7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BMB&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807087754	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIduq3nU5pM97vMJENaXVMG-FNv-scS3Y.%26dt%3D1775551753813
+.netflix.com	TRUE	/	FALSE	1783327755	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783327755	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783327755	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

@@ -1,0 +1,28 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Premium
+Next Billing: June 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: THB 419
+Extra Member: Yes
+Profiles (5): PP, nongfah, Noel, popryo, DT
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1792255219	nfvdid	BQFmAAEBEEIz7irJv8_x0jeg3EGbKYxgDUuSuIPxbi1ksAgrbi_x_cMnnwR8wqBEhmrqcxVg_samwliZUOSG0Lb5-PlRA3wCox8JELxByqMM2jyrGgJ0TrkAA8kwEtl6IXcI6OEe12hmmIb_qiCkQblvWeo8CvM7
+.netflix.com	TRUE	/	TRUE	1810053527	NetflixId	ct%3DBgjHlOvcAxKABFC70lGvXAwjMjgxBrRBCfjfv2Sv56WHxvfaPcc27CJlfhyYPQMMO0OzxFVJM3lw5fbPpI_duN5sU_2ABJ6JpUvB7td3p2VOZdsDVf9nPGcUkW5-bsGLvGAlXmdZBjLx2g0Jp7-BW47xxsAPT-X0-NuVx5la0zr5adQjqtr3JT9p5qDK0UwGmd0E6u6BQeLRkMG-wbuTwbH593cfTrdYDtf5_uZHcfuFQ_RUbthpIBOMZzJsClcz9MW2WnniJ-f0IFlcSrBTQQI_Q2b5Q8u-jic1_d_Bxb2rqvGyb3I5zvynIZTQdTIOQka2YFl_oF_dV5MFJoY_fuB7h6Q89rzS1fE56PIC8l0yOsex_RKBI_ZUNYwXIOX8jE1sTQNTxJyr4otjQ6F3nKya_Pw1ymPaYwfU8zi_xwFQx62txjdJPiHx_17gxxxHRHx9VoOgBXXyO4Z3-PvwfE-QvPGv1aMMb0v-PaGuh0svk5PYDwe9pQMl0FU4m-PwlVm7wxBJyEwuKbDsGrGVReTI60AbIdDx_C_dwVel0s286ka8tCGEPp5lNCxtDvGwjOUwNnekGirlqvKeTrXw8wSkVNkY9av3AZPQL6oV2HfEMwSJheSJhwMRjZ_Mthv_MFb1uNdaZn_0ehugadxb3FWmNuHisGzAEqabNzNXfJWMqod0v9smUDJnGAYiDgoMH0G4BCUFGNzxUCyK%26ch%3DAQEAEAABABRwLKr88X07DDW-4AB20vJjL94P_u6lKws.%26v%3D3%26pg%3DSM2TUOAR45FOXJ6LSCHBKBXMNE
+.netflix.com	TRUE	/	FALSE	1810053528	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+23%3A38%3A48+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0797cda4-aa9e-46ed-8449-04f8b5bb2a6d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810053527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_963V5x507pgU_YBXamnSx9y-5eimlWU.%26dt%3D1778517526197
+.netflix.com	TRUE	/	FALSE	1786293528	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1786293528	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	fa48e8e2-d5d4-40e9-b86d-03d0668b658c
+.netflix.com	TRUE	/	FALSE	1786293528	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786293528	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786293528	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0

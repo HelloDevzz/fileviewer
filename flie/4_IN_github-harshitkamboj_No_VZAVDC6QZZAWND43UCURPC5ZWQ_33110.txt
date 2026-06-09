@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: AIRTEL_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): Rahul Kumar, Rohit, Ashish, Rishav, Thirdy01
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1800200443	nfvdid	BQFmAAEBENXumlBACHk0M7Rdzd2skPZgIlZ-lDUroke9CCLDvmUB9vvwPhm5FGoZm1GpbG5VFiokt7aK3X3RhKcMjRSoswKC3maJS05F60EGGxmvVKBKHimFaukY94py-F6VhSIdXn7w8s0Ixef07prZj6XcbVN_
+.netflix.com	TRUE	/	TRUE	1806832495	NetflixId	ct%3DBgjHlOvcAxKDBBpj7EbyVmhydhG5MnJw-1HVTaB8TgtUsy3ccc743L_0fePreYj3rjo1XxDk8o5eoxegyUtyihfPK6bwKnHHNLeDNEJG3nqsDHVUQ-yxN-CeRF0sy8YE8hV-CGJOSil4v3BFMaT-hE4KXt6ZKwYCOy1cMvT1o9ColaDBy1ja1HWs3CqlFLz1GPio--T7HyaTK2a7CGV-YrYZPPuFgzgjl3Lqrg58z0SVy-PWw-DEjTUP_ttb-UmvTcP776W9GcH8kqH9ONGrrPEsiVsf5u2EMnJbm21C3TnVK8UXQ4Uuv13ceNTE_01WdKoRSTGvjNzLvUcXk84yADa1tDd7weulpxe4C2-HrB6qA4tJfSZlnfIskQBTYFx5sMRFrYmHVbCmToivvQ03mHLsxu3O4pdmwfz_ipu4iDmqHW3VGaXzorZddmHzFknAukEiuS4FsC6_JVYIdVAhqbu5Zz0Y2Yf7KMqV4-ckSczFEcEc4BkGWJMVUkBf2jdDGj6iawBceWUTiocNg1vjypdU2CxPw9DkKXyWF0eoCREmoVoblU451FFSXEqVg2ul0ZiEsxSPElvALWTmPZsuOGMzWfjYnzNJHGATgYVNlq48SA9VXYrqK9XfvXAX_pVpISkZLvor8eABth7J6i8FoRF9dLlvub01_DBJYXjThH19HAmakr3g281-FPXkGAYiDgoMnYQRdDXv3__N_Eeh%26ch%3DAQEAEAABABRWf5_uP3ZmzSHcvoJhwDmnONpG4WpI6j0.%26v%3D3%26pg%3DVZAVDC6QZZAWND43UCURPC5ZWQ
+.netflix.com	TRUE	/	FALSE	1806832496	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+15%3A24%3A56+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3e393ad3-1135-4b27-9483-84ba9023af4c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1782325129	gsid	3d04df5c-3f51-4b5c-b743-ccdabee64386
+.netflix.com	TRUE	/	FALSE	1783072496	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806832495	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUYGodjPjWYthSuBXCgFGMWbbgjVcV-m8.%26dt%3D1775296495722
+.netflix.com	TRUE	/	FALSE	1783072496	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782325129	profilesNewSession	0
