@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: July 10, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$59.90
+Extra Member: Yes
+Profiles (4): O King, G, N, Javed
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1782325129	gsid	cf6b6e2f-d035-4742-9acf-35a0aa9a21be
+.netflix.com	TRUE	/	FALSE	1808311758	nfvdid	BQFmAAEBEOH-mtVvucOEEUOo6H3ASeZgJYA3kEQsIvf4jAkHH7EEl1xdY75VKsWaxoSphDMqtf0HzRvn__CRbAaWb3cm7H-LgLGgRaaiPFLvKRgrLI_JHpUQ-gzfHA6vXusFQMls_iGeU2ERa3FqKc_d0NL30c40
+.netflix.com	TRUE	/	TRUE	1808372837	NetflixId	ct%3DBgjHlOvcAxKnA3x2djHL9-SjeSGN6d1ddkmquc2aLW2MrtGQ7osIDS1_O7M371HorO_zq8_10M3kyFl3vFeqaTbjGNDr_4vkdsCwwK2INxATn1N3gd-7qN6StmVpFuTEpAtil5os80EEQKRVA3i8sf4r6t-kqFW0jd0guyMOdBYO6RO0jhTavfvHcqyZhq9VkIqP9QCR1P6hNCQLQUj976GQevUHLTcEwOmlITk3rNuOimc5YCRxFdYjmKMDP4ac-CNxwvsTkA2Yd7-tx-udnB8-qpwXe6dtmee6Ck9uZgzU9MOpi8Xw9dryq2YRFm_uqhZsh3bKspqeI5J91EGGt4aR8J7VGtM_aeoEyH_S_MYG1RjHl50Tp1s3RlCQBEcFQKKol4QEoCEiOx-lYXCI7Oh6jQWLIisdaFBm7_FsETOVjnf1dqbITTKmq3zC-ZrymVhckNEgx1rLALB-yMD7sk4f3UhSvN1Y9KqcScAZacxxu7PEfm4gtoTdd6RUFlCdXc6N-bivgcwRheXfit6YU10MY6CCocuKvgqwIj8ZCVwPjlsa5NkDiB4QxbpVG5XinBgGIg4KDLwZMRisqxrvq_FE6g..%26ch%3DAQEAEAABABS8W6m8HiXEGiDLilB5_4nvH8je9U0Xi90.%26v%3D3%26pg%3DGQQIINQAIVDGFLWV4KQPWWMGXA
+.netflix.com	TRUE	/	TRUE	1808372837	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTyDhIocW4boBbs7wXtNUWJtvLx-7YGldU.%26dt%3D1776836689028
+.netflix.com	TRUE	/	FALSE	1782325129	flwssn	1cdbf1e6-3150-40e5-afc6-e9ff01db74bf
+.netflix.com	TRUE	/	FALSE	1808373014	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+12%3A50%3A14+GMT%2B0700+(Waktu+Indonesia+Barat)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=671d834b-ea2e-47e3-a5cd-657e4a2f1fd0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1776785445052
+.netflix.com	TRUE	/	FALSE	1784613014	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784613014	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784613014	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782325129	profilesNewSession	0

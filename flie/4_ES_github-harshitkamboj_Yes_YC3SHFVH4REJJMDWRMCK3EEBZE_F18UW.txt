@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: July 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): enriqueolivergarcia, Anime, Marta, Mie, Cookie
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1785358852	OptanonAlertBoxClosed	2025-07-29T21:00:52.784Z
+.netflix.com	TRUE	/	FALSE	1785358843	nfvdid	BQFmAAEBEK4Aap6f_buN_NFCCSXgLvFgOvw2Qq_p9IwstgWbem85XVhmZmg88VMkwj_fNHe-9g7Jya4FeFdyrF-PE1wLTmmxcwiEcK_eSuJkmyJ3h2x-eVhyfVDPJ_PnCcP-eYZjfAFQhJOlpY40RVw7i_m6f8st
+.netflix.com	TRUE	/	FALSE	1806264164	dsca	customer
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	51b81373-ec56-492a-939c-6384b539f736
+.netflix.com	TRUE	/	TRUE	1809005890	NetflixId	ct%3DBgjHlOvcAxKDBHb_9VGR0pUmruMdWOLYfXiFgfg3f961_-Ja5PI3EbGChKY5x3Sw0i7lhcB1UQtoC3AWgyFltQsxx-lMRiqHT1Y75bXDsbKswE4ZePYE1sTiLi4ogfWPj4kirO5A4mQCkb13DS7hLqh29A6dHkuSWUKwpIfhWoYIOpcoSxKjCS1LHClZqcjVhJUYAdg2RG66ROBcVDwnCry4_njXrpo45Fh9xXC8ezo8V-8rXw1dsXW_ts8uCqPVXYOXktldO_AUQsIh9Xciju_jxGQWrpjGC_usfGsHcGQTMUrcPMQ0y4kz5vI3AVBNvLauMRHxDa_BpfjiWXpP6pPojz-3UnE2DXmMyql9CKMEYJzaT3cWp9D38hHFMB_jyDeFAPsNKl3MN5Fd_MrJzp8q8yXZdi5sYWG2sOJVX_FnZeR5m6wle5C7g5oB2TLUJex6HJlk47OB0nUTk7ziUyZeRd4xT9isPZjg3MhHjuK5QOW95DLkYawbW_TLqXccuVip1Ta0fMiQtBb7G7rSVDXVcwBa5-0rloK_jy0LUqTqnev-vxSiNCAiI9UZjSCMmslJ5ZE97cTz_i5CDCBZPwc8zXeXui6u2BOq9zFuGgkKH2HuhL1YwLqTyIsmExBVA1llTc7ixJkauXCM0_xL4ifBRc1Js3yH73DP3iSNmVADNF7kKhlmhnJ2GdXCGAYiDgoMeajknZ0K5Ittohpm%26ch%3DAQEAEAABABRZ_opiMg8JvKZu81I5OuiHHmz2RqDORss.%26v%3D3%26pg%3DYC3SHFVH4REJJMDWRMCK3EEBZE
+.netflix.com	TRUE	/	FALSE	1809005891	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+15%3A38%3A11+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=550cee69-7da5-4c05-a992-2a89190b7584&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809005890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIs92Bgue37jfeek288PDV2RUTSyfdNQs.%26dt%3D1777469891510
+.netflix.com	TRUE	/	FALSE	1785245891	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785245891	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0

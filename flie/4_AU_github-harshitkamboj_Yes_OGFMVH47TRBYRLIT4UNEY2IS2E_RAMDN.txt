@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: AU
+Plan: Premium
+Next Billing: July 4, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: AUD 28,99
+Extra Member: Yes
+Profiles (4): STACEY, CHACE, CHARLII, ThatGuy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1782325129	nfvdid	BQFmAAEBECRjhySQApIikDq2LZdPJ71gLNDJtG36BWaqFC7RwqBrQgzt8pRjoO6llG_4S44K0ueTqfMDyxA9JBzcsTYDZ_HkR85-EulQHdtA52AgPKOiyUjqc-ldvN1-dETDgnzcUDNejgBuUFACHbq2ZCJ-cGzS
+.netflix.com	TRUE	/	FALSE	1782325129	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AtBK-l-8dT2TaAQDsOLgLN7lctMKvPFdh2Th5wyIZUu2veESRjuFVe8PV6qBL8aN-TKLv5nAbi61KGZunvTr_zbW9LfLZw-ubwDTvaRqKUCtkP3ZQHuTTaYTeCTk8UaqcqXh8VaPlpXmR3oPiHoMjSibGVwu-LLvVyoTI2lIGbLX1tNZULBdWq2nlv2mpJvJ_kEanc5wAwBd2T5fo-IS5Hnmg0NzF-D6l1bde-dWDTJvbNha349sF4Lya9dXCw7DXyfJ_1Tr7IWiCzFUyzd2knYhLbs_M7vN4xYkTrNgDpOJaRcpOAr72qaCK8cerdegh_7djgbEinF2c8v4fhF6fk8gfGexS0vmoCDNct8eWMuXM5pvlhuJneNF7dHCNu9DQUj4jj85e1sEZxWKI1sCxIa5WrNUiq2tSoDwcFbMf2ZbD4AWP3Ivi9Mw3IwIuiwLw6biS0o50ADAKgCCvHE9G-310BRLlqKQYLIp9PGeo-N7PMza3zFb8RNnCOgtGAYiDgoMEDI4SxMwQ5z4iqD-%26pg%3DOGFMVH47TRBYRLIT4UNEY2IS2E%26ch%3DAQEAEAABABS6-jMDUcYXRF1EWmMd4ZDmfdqmxIe6kYM.
+.netflix.com	TRUE	/	FALSE	1782325129	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+20%3A26%3A54+GMT%2B0800+(Australian+Western+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c476d66-7aa3-4e82-8a1c-65d384d86451&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782325129	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgvE4ZpnrIiprboZavu0RmUwW79gzXSAg.%26dt%3D1764851199441
+.netflix.com	TRUE	/	FALSE	1782325129	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782325129	netflix-sans-normal-3-loaded	true
