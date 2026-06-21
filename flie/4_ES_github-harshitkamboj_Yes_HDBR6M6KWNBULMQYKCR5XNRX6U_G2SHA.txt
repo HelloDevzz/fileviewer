@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: June 27, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: EUR 21.99
+Extra Member: Yes
+Profiles (5): Hogar, Pichulinda, Juanma, Ph, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1803247958	OptanonAlertBoxClosed	2026-02-21T22:12:38.779Z
+.netflix.com	TRUE	/	FALSE	1803247997	nfvdid	BQFmAAEBEHlORnG_Ca6F8j4y56Tfmllg1mZKXDDaUztKh7sT0LDYoYzS9G2ZmBvMfcgz8beDE4LRDKuqwPVd8sUFCFc-ZZncV40kp9O4G-_vuz_uaw2QR00ISXQqs4AT81AOfpkNjZgu1WJPqFajWuFReyvOeT2T
+.netflix.com	TRUE	/	TRUE	1805999185	NetflixId	ct%3DBgjHlOvcAxL6Ax2xBpaGy0QhzcmE2tdH8o8TOnaxorf-R8-yhC7Ie1de-YNMcmFazwl9ZjpepUa-FSksF43pcJKvVqHVhMTBeCDIVuDNxOHAlQ2GhQItIfwjBgCZC28UAuk9JlUmLhx8_MLauH_fedw5D0JsGqI0B5kGrlXpaaOGFhZsQEBOXdkXaqwSCozO9Q90ZyqZG9JKDdfuY49Mrf2PXINjkmwtsiz5kSzMBaV3xvu2W6MRpbAjQP6EZFobDG2VP3ZNaTtdBene5IVcmcyKnL4S7RmIjTdRzNzX0dlMWVzIgjv1Dgmmr8FBpehf-uml4NwpP9rBZ2SnsqI-q3_igZbaoG__PdNxQfZJLMVxlM-nrlimNZ923oy1n1jU1L2FPzGpAeniK9OnDQVgaBpmkdM-9C_-kpC0a_nfI3kPwzZIm6hKaKPAAqgtY2qK3MJCbC9NgQKicn2JOGpnVXXwLrLUD0Vah5Wk1NTDkT0a6BrV_EIsaEyOnfAZfmBauwSLhYBxrDotWY-ZjxvVU_eoAvvtzmaDUA0Q-8ZoC84jzxCSzoog4qriUx7pVb_Mv30CgnKbdT2uViT9BLeGIE6icNnMJhtI80lO-G1-0JKyUkU9CgNt5fCbtO2y-29c08iVwjENGsj7uXTEhXICyZFZWugoCnz0k6U7P7l2rzCqupIpGAYiDgoMXctTlatQd4GTrTqd%26ch%3DAQEAEAABABRenFDivTD3OzAPQJz0t7yix4Ibaz5XFSk.%26v%3D3%26pg%3DHDBR6M6KWNBULMQYKCR5XNRX6U
+.netflix.com	TRUE	/	FALSE	1805999185	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+19%3A26%3A25+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2cde95b2-c931-4ed2-a0dd-6a31f1453df6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1771711959097&AwaitingReconsent=false&intType=3&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1805999185	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAZYKQkpHGaC0ksKz327xRJUj8Y8Ed6Os.%26dt%3D1774463185562
+.netflix.com	TRUE	/	TRUE	1809023184	dsca	true
+.netflix.com	TRUE	/	FALSE	1782201585	flwssn	ab661c72-0546-4f7c-8aa8-0b6d0f6a78dd
+.netflix.com	TRUE	/	FALSE	1782239184	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782239184	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782201585	profilesNewSession	0
