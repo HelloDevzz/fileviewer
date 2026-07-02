@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: PT
+Plan: Premium
+Next Billing: July 9, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: €17.99
+Extra Member: Yes
+Profiles (5): Família, Anita, Family, Available, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1800744870	nfvdid	BQFmAAEBEFHvl7kRa4Xojx-8wqngCxZg4JjBQcMPaL0mgVzLoUNkr60OgYdBGRNfzbtaNTnvGjRiV6ZHLDjnTX3ljVfX5qdwBTw-b4Ldre-lhIGZqAU7VMz8eYe1VVjlxmVfclYKxEgpV6qwjWn9SdXSDoon-Nta
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1798574553	dsca	true
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-03-05T17:50:52.298Z
+.netflix.com	TRUE	/	TRUE	1800744870	NetflixId	ct%3DBgjHlOvcAxLLA19b3C9fuhuHc5QRpPpO9oIJlif2dGwrAiCo6_vDCQuNOk3HjNLXu3OWguBiX0BdQY5KJe9E66l0jxvfoSXPj1BvAMke-TZXz-bXLAlLPW2Ee6Gy7DYVkNJOzN-1IDiis62ie_RrD6jjpAkI7OvcLeqieyBl9ZVvaoECDJPssWrHcchzzBe4wSTLyIEI-1Xa2n-cIi3GLplnPdsdPJ5msM-HhwqjXsPv2LjzhFGnIbhOOMNCK5MaQwMKVQ2cq_hwnSIapUxYKW3oNlHHt6tk4M-2hZVG7xzbELYdDS-mEKjyV4TgNC9Fe-07Hvh4BCADu4S6rj5FpQzRFcsFO4mPXhp4ICdP1xnzK5-AIriU-HEt9UjChvRjD7s4pVtLtcaG9ycv-nGy3xBeJl8HShGaAj6Lh5TdtSZM0u0nza4AJLcPK9FoYUZuMC47VoAwO7ndzGfHd7GLcaeWdWNM0iasWaX1kfzLsGmuIKajmn6rsmct0I38jttKxjhPUNVOhBLDGlhFl7ZNmeV1TK-X_aix2u_1wf9gCGBaAOVwdFXG5zbfkQzqIiaNGF9TtBkIQ-kI_j9Q0pLxU1pcoE_u2NTBv_MrYUCVPXMGaW4-4RgGIg4KDInZWAivVujiuND1Kg..%26ch%3DAQEAEAABABQdGCqIvGTVFZGj1ADWM7kbGYy68OhVIr4.%26v%3D3%26pg%3D6VI6CTNCAJBJ5LDQMKRS5AGV3I
+.netflix.com	TRUE	/	FALSE	1800744871	OptanonConsent	isIABGlobal=false&datestamp=Fri+Jan+23+2026+22%3A54%3A31+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202512.1.0&consentId=6243d479-4a7c-4a98-bb3f-fa313a0c1515&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=PT%3B13&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1800744870	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTA0QjGBIOKNUgBmqitcNIbNSEJFdLGZ0o.%26dt%3D1769208870207
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	3c523a23-44d7-4ce6-809e-2f939ad48621
