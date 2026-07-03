@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: GB
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Extra Member: Yes
+– Profiles: mr AJ Barrah
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809894127	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA75jv-FSfXx5CEP0RhFRVQSC-t8rUadRHxB6SvAKcRGMIGnZXamPT7nLCdo94R5JyN_c4rmwNqFVWvHi6-6E2BavI77iikmlxv-4UFuV6anXOnWbR95T-_3S-Q-kRvh3XPPZyUsVO1nZ-t9zX9egfC0H7RdsCPnudqo3Oe4ekOpxMStuyjCUc54h4LZ_pcWphboJu0RXbwZPiqTtdZ4RUtAx3wgR98bu_rSWE3Ct-sx9BYZNfwb-wYOLRZ-Wtsvs1sDFV-RPv3F6D-o582AEni8-W6MTT8lT6sByoBEXXZZFwxCVnYZczUVor-qxVrwGe_dhAJ98gvsGzduvjTVJFLamGm3ZdcEY2_pebWl-2gSTS2tmrMBuW4JQ09l6yShgeE36pdyLPNjvIraFn86mvCd0E19t_tFZZF4zkKF03b7nABk19asXyPfIXAYMIlv2wIBC280KhJlG2uT_59t8iMykbKcfNiQ39J7hgotkocbbzM4LQvqQw9jhHnhLArUOAsl-OgpadkmvDzThER7CuKV2C2GqzmbngLYfCoGBQ8TdLxgGIg4KDOqlNJER-2xxUAIgEQ..%26pg%3DXVC4JUMYCVB4JJEGNW5ZZHIVSI%26ch%3DAQEAEAABABQQtsbX1hlta-XEoitEWFb5qsethvjByzk.
+.netflix.com	TRUE	/	FALSE	1809894129	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+21%3A22%3A09+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=87e73b31-b7c5-4448-a278-2fafdd78afc3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1778357584174&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809894127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgc4gLBLXb9GhstCY2RflcWoI0hmwzMw0.%26dt%3D1778358127185
+.netflix.com	TRUE	/	FALSE	1809894124	nfvdid	BQFmAAEBEMMvaKSqO4ZYDmdfW_3NpvhgqW_iGHLqgtmVGAmGqnw0UuTF1QZQfSNWxzNsxQce03NnXAq5bUfPQ7-dpURpBlXny7GtRZ01lurACaJkVclofFcNuOn_C5a36yce-hDqzA3-NdTUpX0H_kf8YU5_S4Lr

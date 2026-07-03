@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Extra Member: No
+– Profiles: Shamali
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808462990	nfvdid	BQFmAAEBEAK1XFZzUgB3dbnbnWappBBgrnf-AHPkbs4BdFSl5V6sX3THrX8oxR5ftdBPUqEzAsG5naGItvbL7smB1Jvb7uOmTBNcG57xZs3T3pFDvg_5b0qxgmd9zOZOePM6OX1qvX1yZKSevwf7026oprYVtEjv
+.netflix.com	TRUE	/	TRUE	1809765196	NetflixId	ct%3DBgjHlOvcAxKNBJBqmdy_TVlpPn2AJPNPwa3ycnewQ-rR0k8E9mxVNM9pf-S-I96Pk4DYKTvuHEnTF8KwruMFYZEkvPzQNPQuJtEktgRc-DdHdveMTD87t2-8p_2xIbTWXq-14qS1wH1TnI2KWlmqhU9lGqY5xr9WSSlMWmH70vsINyvI_lRne1YfyLtsz4y75eaofUSDmkPJ9q9SUhB8F4SXPNouDtRAuJJySgFw0QhwByee_Pe788SRAATFJx7BywNeDyH3Xf1xupDqQbghcoIcOBzk9dxFX_uejQmPrnR42TK9T-alcL14OXPL0SCI5hUUsQ4eZjJTQC9Neg2cgMqGmOYfOzs_vbtifwoDkqemQkUAxUzAm24ky9b_bU5LW_Sqpjn7U8dpHuJ9tWh6wFCMqSZJAg2VQclzbObSJj4-T9pgZkIdZ9W0flwu-4v02CFFJE9QTl4jRgNJ5sC6ULxgWaygQ11mOZN5FxkhnHtbwV6-DvPQjT6zEf3j0kO5IWzgJcTdYeZeg28zpJJnlaRse_XySs-TOAM3BXLnVRpPfZvO6_jZnKOmX05OJu8CPpq_oqa0mIeXBLrQRjht8dt4HUh8qv4Ej8KX2QZVowrU27aDo0guZeHMNiVKfWsoJHfZk9ejWWM3PhGmPXuFIsKrOBF7wBOFEnh6MxO9jdYK3Ll5yMc6pZx17bvGAmNJjDrQmWp-wBgGIg4KDMySZALzyX8OoODqaQ..%26ch%3DAQEAEAABABQZIfKkNZ1GjnYmPTZUFKnJCWfM2YdAWp8.%26v%3D3%26pg%3DE6U7ZLQZRNA3XH7NO7DFWS23KE
+.netflix.com	TRUE	/	FALSE	1809765199	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+14%3A03%3A19+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd42b6bc-855d-4b92-b2b7-20395f14df64&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776926018490&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809765196	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABST4ovJCuR50k6KRhR58LMuB35VsYlbwGs.%26dt%3D1778229194792

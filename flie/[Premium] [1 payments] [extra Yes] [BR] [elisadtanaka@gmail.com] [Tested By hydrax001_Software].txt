@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: DIRECT_DEBIT
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Extra Member: Yes
+– Profiles: Tanaka
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804178673	nfvdid	BQFmAAEBED5yCO1M8g8QmvV2pSY1lfRgRayHUigTnHDZOeLfjDzBR8bieVMhHYQSJr21l59i9vFBR-04NdksA7uNXjgEfqS5SE52FPkttuEbNeqNnEzTPwW6w0LpmiKWRM7_BToOov9iQ_CpR0aOdRjtXBJFXFJH
+.netflix.com	TRUE	/	TRUE	1804384419	NetflixId	ct%3DBgjHlOvcAxLHA1QbU-WxgX0ZarLOC_m6S0De-n7-YDM3-z1zGF02uuY9aR5eZK5hp7Ukgmoggo_gf9UFQbck8WGRtalt74rSEqTIRbGDIkyPo3zkR8HLqBlBOJrkDeo2fKPvP1JpG0bPz6arioGf6bZhYyqdRJLJoq9Ys7TVCebg5TzDfUSve-iDfpeWtvxiNylsKaP9SyxJhexhEvOHppZCzlmVbD8CNctxPpd4fVBlD3jPPFuQ-soJE5LVQeiTfVyxymZxQ-TdcbZ5OK5anq9h44OQ3fI4H7LGWGoqVEbwW8LkpGpFBjnsgCAf0K2rI5Yd8Rk4PV5ppeJLS6pn_4WyXuZvrihi-e_EudZzWlilX03wmOmpZZ0EwKaB8pl452bTYd204u2HgNnGGuaABDsYvEOJgrTsH1iU9PuTWV-4jbXg8CA3MJD1aw9ynrakIgzWhkpij7BiGphyOMFFjnHSawIgyhBVFZaPLYFratFRRBjF2AX_A7hwsGxFtCVt3R5vUmZr1eu-kHiHg_z0PFXQ0vmVB66qQKWFnzeMB92kIa-YqpXaNJGtuzYKtkXGH_BaT3spqkB0Xk2tcp1LzoM4zvvspiqJzYjL-_619oMIGAYiDgoMJ-f1wgCsO6j_006T%26ch%3DAQEAEAABABT0-_pVUptlE8gk_8FMiLPnnfEiFHgTkAU.%26v%3D3%26pg%3DISUAWXEXQJHZJDMFQWPDR7ESGY
+.netflix.com	TRUE	/	FALSE	1804384421	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+22%3A53%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c8d29d8c-5620-4efe-8b0a-adf81013aee6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772642658095&geolocation=BR%3BPR&AwaitingReconsent=false

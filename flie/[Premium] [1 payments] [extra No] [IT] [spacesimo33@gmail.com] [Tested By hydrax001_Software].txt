@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IT
+– Plan: Premium
+– Payment: SKY_ITALY_PI_BILLED
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Extra Member: No
+– Profiles: Luhna
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798402054	nfvdid	BQFmAAEBEI8d4wDI6v0LLJTTC0MXS1dgi1r9n21QlxT9b3H7LAUTnG2TstyMAL2fFpVIs1FtiMfO2PQLCLttZBrfm1l6FOTz8E_GiUN-H4Tyy97svwSOKPSw0oAPLAWBaahYcFKsAPUwUmn0sATEAOdmGGNAG1T-
+.netflix.com	TRUE	/	TRUE	1800273525	NetflixId	ct%3DBgjHlOvcAxLZA2L9tWXXD0JgkjDiFTZdqa9IyG6ukDA7LGMOViNycnmctk3jP2Vc1P0eggJFHm650doFoXnMTwoF3rWb7cNiP-eIkLW0-QG3T8wuYbsNHyZAZrErfp3d9qOL795q2YCPBs04vjZfK3z6w41IGVVtgFmdUcjxK_XvI8d3vdCmjglTRV8R1TJ_IcCKCoLgBswps0g-DbBILOikx2WfTcVEx2585q_0PJtcJ7vLasU0f3I_n-hU2J_3NTzoW0XJ8s06e77QLohLU7Eox0jEKCMDPau-d8tFR9BcU6yeutWPnpNl6TxtQPo5mMyH7xuAv4LtCrx5TuU27_emIW23C7sKJWRoWAVQrMB4CLX7PpXoGPPJa9muBCNR_Mg0jsoc0YVCwQ3LzLUJHV17BIwN2g-IYyafiZKYP9r9ynJ10DfPvGTfIDGdPOeK3HBRpYGxMaAbJfgWkJ6y8DTR00dDd9SS5HraFacGcPpxrdTszz5tF6q_mKvvK8UeX_CtK6cRMioqTPfWIqUNYnpnNCHb9Bxah4CNaXadDGFl6kP9Upd59Fchep9FCmWAwq4IoNJAYSMe94ZCC8r8dw7dME5BzC41lLItgKLOdTwndgHxh5FwixoQydo2obRJlI8hGAYiDgoM1EPEEzLUBudYQfTj%26ch%3DAQEAEAABABT5l7rLZx6G4Vy6hRDminxqiVh1E40GUL8.%26v%3D3%26pg%3DV5T4GBITS5BA5NTHUCKG7QCSHE
+.netflix.com	TRUE	/	FALSE	1800273550	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+12%3A59%3A10+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42b3360f-b348-4dee-9cde-1c6e3901a00a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B25
+.netflix.com	TRUE	/	TRUE	1800273525	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMJfr0rJoDlf8aoAhFnJpKfqmyhzE9_Jg.%26dt%3D1768737526368

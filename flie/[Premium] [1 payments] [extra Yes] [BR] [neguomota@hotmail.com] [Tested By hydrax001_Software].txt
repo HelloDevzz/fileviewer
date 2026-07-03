@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: DC
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Extra Member: Yes
+– Profiles: you gay? cute, let's be friends
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804387308	nfvdid	BQFmAAEBEPfuVRPo-Jit0HEMG2_tj3hgVviUM_LG6tnG75Ecbty2j0KmbdktHXPKtpOYSoVn_M--fln5NZEp_uJFru8LTibBspkb2nplI28nB8xw1TpuRMu5LuIL3M38ux5jFW0L0UISwsERaKl6vJfemVrMCUi9
+.netflix.com	TRUE	/	TRUE	1813348187	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQt3YBQfS5HpfhgzJ2litPVJzUjiJEUqRA.%26dt%3D1781812187426
+.netflix.com	TRUE	/	TRUE	1813348187	NetflixId	ct%3DBgjHlOvcAxK2AwP_j-qiY377TJdkEl8Ge5zQRz-eX33RLpc1vhzcJRgHIOH4vD05qJtaWKjApzjOUsFy982QG5tvhkWI5OSX_lgvrP8qx1bsYKcrWPava8FsZK6tfAaHOej6P4U3anM0e8w6-iQ1ylVU587aYxk2qkGIXjkcFGXl8Fiu7KtsC7fqnucrOBr8zXyPaCTv_9v2TZNjQgprxhljZExjDR-hfh4EY0-MUycSdfzENrk3K8uPaBoCrYaQisy3vTpA3Vw7__4LuxR7UF2TXZhqHkpZGbMfJGH3_H11SwL2ulSZUeIjujfqMJtGdt-gWX_6Pf5mTuAy8gv2E8qil2I5R7jlqN31DtYzgmAyquuZNODik0KJJFglYtKzigWZSWowK5BJrZKBjLhai5vRwCJfCt8P_EVcp1hUKz2zWOKXF8KwAGxHiOpxgfVOpETp4W_P-oL1yptk3jH3U5fM49vhnbwWoYQHx6NldkoV2CVaaoFvyz7Fbgggvxq58KdJe0cF7ErosRAcHRUSmi7gbhYOqgC--TafkD4Y1PqVok74ICzJICeF-ZK7UnH7In5CVmOz4r1g6-OJo_OOKBgGIg4KDBlowsAM_h83YHIbdQ..%26ch%3DAQEAEAABABQ4Nt-0TxYNCSAS02svidHXUA_pki9eLb0.%26v%3D3%26pg%3DM7CFIOZNI5GZFE3MMBZQWX4GIE
+.netflix.com	TRUE	/	FALSE	1813348213	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+18+2026+16%3A50%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=288f66f5-57ef-4a2c-98cf-e8bd3cd6923f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1772851197209&geolocation=BR%3BMG&isDntEnabled=0&prevHadToken=0

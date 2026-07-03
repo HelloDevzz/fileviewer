@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: ZA
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Extra Member: No
+– Profiles: Sinako
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807105999	nfvdid	BQFmAAEBEI5eOVyMhdeHzzDYlR2Kkd5gKHz4lyayrPk5sz1Vg6lidn84AVQ5exy_yBkxZIIt1RE_K4D2ajmDdhiVTxjhdk514iVeLgv4t9FOhjuiAmLgxS2pW1JsTrs1FIllpeYyOiXm-GqSACVft_wXOxAh5C0J
+.netflix.com	TRUE	/	TRUE	1807112183	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Ak3E5lP3wivxsGY9Dtgxezf-WWFLV9pMUa3w79h1kok0bTZ5UXAZn9nHWcxypVd8-fuYx0SKafu4btECE25_FW_t6b30UXgtziNFeneBVraHjrctr-e67JmZNjYzeDH9MHmQcwKgInmyU5kd80GpLk6n0zDpu485ormUEThdLKKmBjpUH4SVHR-fr_WyyPeiZPCQy1klUm1NrWmdZZ5No-_DWpDA8K97mP0F32f3OfLsPyZ3622LiQ0_xRfee6yfk-lp0MdbCJC0qYqjaW5gMg8v7vfW2hY4KrVFCiY5V8GE1FiNPvJBMGZwXcUgwwG_hLN4vST9PvKTskZLrtbFghtzEBsOxhpU8e67MzDnOGFm8uwmVXnsMBBw4vGMk4p5xavQHqxMsPqs3WFlOQxRkgaFXHwsUYh9_DuUq9A4Z8yPYvk-WWSkxrIbQUbM3YtXTw21tVInn8C7Yx5HCOFxcdfmpTCNDoJ4XVIEZSZ41rRQ33zFX7WlxOeLfXlSGAYiDgoMJZeWKl1LKavSrfxP%26pg%3DAIGSXOK2ARHVBDL3RBBG2IE2VM%26ch%3DAQEAEAABABQrlMOCeA1F79mRvmteRJuf34Pc_k0J4V4.
+.netflix.com	TRUE	/	TRUE	1807112183	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_-natTFj41_IYeeZmO-IRVT4pyMzfu-s.%26dt%3D1775576181816
+.netflix.com	TRUE	/	FALSE	1807114653	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+18%3A17%3A33+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=74cdc886-93ea-4ff4-813c-f03b52968e44&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775568418043

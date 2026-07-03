@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Payment: AIRTEL_BILLED
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Extra Member: No
+– Profiles: 3bood
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785169098	nfvdid	BQFmAAEBEAx591Ne63TBjq6ohtaxy2hgmiSTUwfKzp8fzC_tAGn0sVz_EuX_Vc0AzofivjhfBttXq4Crf_rprd5106FDnZyUjcqen72NQxuOzXe0w6Yk1xi8eg59lJ_0Qam9xKrt_JEYs2tE0Nm0tNSmHWX7oZhp
+.netflix.com	TRUE	/	FALSE	1801509806	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+00%3A53%3A26+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c51e455-5091-4b08-85e5-c50de84f9d25&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1806169100	NetflixId	ct%3DBgjHlOvcAxLpA-VSdp5i3pc2snR3h2LTKSWd-dd-yl2nGQD0sFG0tFu_kyfgka-CdT4pgPe2grSJLuJz2ivc6PAfs5tdGLUzNe7mNGtuRMMQoOr4LQMH-uO04JLjiDDscOyuKvCQuVtIyiB6yGZ0PxfE0EZBWIIbnut8FGLZtFoxHAKUeBGt5_YlI5un1j-t_ekuRfyCSpn9Y4KUco7IDc6ZZd0J3jA5BW6QmgWexZ4G3s12Qw73q7igzYwuoGCkrWULI56qKfxXisB3gn7hLL23a1mNR3rt3j0wvcutKf_N_u793FUI0yYcp7DKQy27D8XDOcoQ7GzZUiicNzgIgI-NaBSXlO7n3r9kxXQqQb27v99cJdSEkpyWO_ze6xuLmp8EiAIu7eqx0kKghLKp-3wjsIlhDApW6uooTZSMzw2tu82JYR0l_9w13qVSRY048NAGu9fdzBtvGy95nJ-cE9yyMBTeZcEpepMP278Da-yuV0dro31wGHJsiXiGO2Bxyn6-ZlM1AtxOKwCvv33E3Nb9pEXEkf6mOSW3JaqVcWAIF7eV1xWT6p720rLUqUer2gAgfWdJ6LfoHZaMirYuj2iE5xFZX_bsb_ZD5RT-Yv0pwRHRo943TGl8cQU6OgNaETKvr9vpIAnUjRFao3AL8OTknRgGIg4KDKBrnlGFP7ttADixng..%26ch%3DAQEAEAABABQGEDBhWkeFkOnr6VnvKrqtC9xccnO6ZrU.%26v%3D3%26pg%3DSKLU54JMWRD2TAYFYGUH7RDGVI
+.netflix.com	TRUE	/	TRUE	1806169100	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAhj8G2qbrS_spdAkMIVrGbDVFDMh6E8o.%26dt%3D1774633100253

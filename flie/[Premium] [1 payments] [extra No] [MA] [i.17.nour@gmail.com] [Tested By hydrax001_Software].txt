@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: MA
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: 95 MAD
+– Extra Member: No
+– Profiles: 1 dalta
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794521061	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRNfS8iLsQjMM7sZmqnVBQ0_fVm_qT7xo.%26dt%3D1762985057470
+.netflix.com	TRUE	/	TRUE	1794521061	NetflixId	ct%3DBgjHlOvcAxKWAx8l_2taQw7pBHMLcXzU02g_03y7IvmTM876jY4Lqw82_F8u2y38xZXvIDdBDnOE5lFPWRpe3w2cLQnPR6OQvoZch93GkKrRkgsim0yqR268OYHEBriMCppKrMVFdYYC8cN77EskmLz6bwqQpezzlS69fmNHboFAuPzC06zqQS29qlqN0jcjJP2c2T3wrL_TTZe2GAZadJGMSIqk3-bNEfmSX6w2jzfOxCr6_FU35JQmRAjgbbwZvE2ZI1tmRsthmtsiLC-tpSWsvx5nFOMquuaUGrxFxu5cxkDhp5dY0q3p-13SMs8pkF86BvJofUHoEdGF6LQEdU_9lfruFKPzwWRvMi2CDseBALgZSRo9cBioLwSmxVRCP1aaXRzI5KsrLEhoifXuDsXQPPZeTISOwkCo4HLVlF0lDMXVXI40MvQK0F3Uk9kUizbtmN1mtoeo-hClT6N0id-Xjzew-fVrj1B7ccLAm5KRkcIfHrllQqbNd4OHEHZMOAYhZZlC-vB7M-tw4iNLeFNrdKkAEJ4qe56OeC8FQwMYBiIOCgwvvCnB2lIn6P3LB5k.%26ch%3DAQEAEAABABRuO356wAMPVNkSnseXdKa2YV-XQAa2JwA.%26v%3D3%26pg%3D62ZWUZBUQNG2TO5BWBPLHX363U
+.netflix.com	TRUE	/	FALSE	1794521238	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+12+2025+23%3A07%3A18+GMT%2B0100+(UTC%2B01%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7def7cc5-2428-4bbe-9639-e79f98f9507a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

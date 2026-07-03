@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: JP
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: JPY 2,290
+– Extra Member: No
+– Profiles: Porras
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812452044	nfvdid	BQFmAAEBENT6cLIWFSK-TbhCemaqwN5gPYeuoTqMflwbi1cCKRFzWM6KOvZq5LRokNli1ePNPtrmVcuj6bjqkZ5lxFtM5Slyf9y26R1RqZsUW_pk-KARCH-HuRDEjB12_0pnxPOJUCUvH6IXOLkdjOIv2VRb25x-
+.netflix.com	TRUE	/	TRUE	1812795594	NetflixId	ct%3DBgjHlOvcAxL8A3iyfzycTGb_l17JOF8acR1tEIzzSfe0pc-8VFmLrrSwMkAB_s5X8scJdO7_KxwnXkDFFpWLyfz6uwlhaCh_0S7Iglzmn9k-Fxu9uB_qbNbGfIvG0o98E4Zi8UTcxio0r9j42LkyE-xWSLgsvtNqKZu-j7mqT3HEosJuuY1ujGCayjDPFrk8YRFLFrkL-jECFIfCgOR2GmMgrndsK9f7vr8axRtIbkDvVdhxJpsyvnNisxWrknm0L0NC53gzLmRucf8Nxa1G0EUQg404adeSUQjg4F5gNnCmdBhnMXJ25l9RBUHeeCeQvV4tEfiY0AVCjGjpt50wm3kLf8eRyIRYmT1hNNRPauzKXo4cOeVopFToVw0OthzgI7VOJr_hdEQCfVGZU7V9if79wbbdvCjspxXYyorzW25bRRe561t8Z7dE-T_JKDhuo6lwSSrOAiMMm74Bllm5_BbOEG7Gc-p29t-xG5sX-_NJCJDuFBhDsl75rgCi3TbKRp1L4nlYYh2o0upZi2pctCP1ikjORFJwa93RO7xZfLWu2yoXqPsixc09H5IomW_oYMdU2MxHuQ1qxEA8BAI0J9XAUcNxVNed__V-BEIjNdpAE6bLETzFRKOFLu-PgkCxxajo5eMnSLQhQ0UBwGE3ZHc77Ra3oQxCGkmCtM9NAZN_bnPPgEQYBiIOCgyiMi9-1jyUxPSCUnQ.%26ch%3DAQEAEAABABTvjtlUyrlsRfMcwAMi33MY_K9jKv_JcJA.%26v%3D3%26pg%3DOQJHBS6S4BHQBFWWGZURBDQYII
+.netflix.com	TRUE	/	TRUE	1812795594	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZpZBjQtHS6_jwAFwKY0XeXOuHqLmAvhE.%26dt%3D1781259593686
+.netflix.com	TRUE	/	FALSE	1812801571	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+20%3A59%3A31+GMT%2B0900+(Eastern+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8f43f1ab-e077-46e9-a96a-d199fdbdc2a8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780915970778&AwaitingReconsent=false

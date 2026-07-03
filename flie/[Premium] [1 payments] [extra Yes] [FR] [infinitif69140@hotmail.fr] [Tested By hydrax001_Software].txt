@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: FR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Extra Member: Yes
+– Profiles: Maman d'amour
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807801942	nfvdid	BQFmAAEBEBWWdvzXWQUgBe9lo80bMoNgNE8XvX4S4Wdjh2gd1_vckxhVoJ24R7wUQFOckInbpc4JC-AFif1bmR4M4tmKKHAGGAnrwjJdMWUPQBxIIVxUWQf0ftr4G3ZaEMqSiOGo1fkNHOYKCr27rh-h5V6gGa3P
+.netflix.com	TRUE	/	TRUE	1810515819	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLyBZxPSyytpFaHYZBYUSYrd5rYM9WqqI.%26dt%3D1778979819977
+.netflix.com	TRUE	/	FALSE	1810515824	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+02%3A03%3A44+GMT%2B0100+(UTC%2B01%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=689accd1-dd1c-4b47-8967-cf29ed2b9a85&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810515819	NetflixId	ct%3DBgjHlOvcAxLxA8AftvL9tBFdymmGuzVkUWfFVvMJLcGtI4527vJCTeU-jl9kVIfe1BqYyJXLhsL6AEsQiK0iAb-Ac_-BJ1vgTHvTU_Gp4VTpmQc8anHOYFwJqIuq7MTEZmK6EsVcW3t3SRA7p1J4dR6BgwGuuPvJ7AV3zeY0dM-_E9khbcIThYz_RHca_IlZ9GUTuLpblg87rxx3QUKizXV-okMFy5hSp6Bms0KIHg9G3PkfWwspu6aOVonKVqbsMSQCymP1AsvWiOKVqNdf488JVbkO7emM1l4f5bVt5SdBXQxiCU7WvX7LKawhXKGhxG4qHVPQFtMkutbyW5Xduce_LM6uR7-aVqqKkyNKMO6Qx7tt2KVtRixP3ZUiwzP961HCmfhIj3v5DZKNjMKKAUV_YBkDVr0ZXqV2OvD87_R3sNun2ucsmpgScyL6vr0X00_nTZl58-2iF9XGsnx7pE4_TbWvGahWUGWTmgvaDB05modFCtP5WkQauBhys4tDtOcvNIRiaXn_qorVj6bQc_L67MBHm13vS9j76puLVXVBoOIcskbenWW9RqV8SUudk4MI9N2ap7fM_DMculeUb9JqIT21rlJWpurt_OTn5oCxM-dl-caFhgiAaGjN55L1BkpNGX38iIxMDv1__zaQdpxCNwD7CxuR-MP3GAYiDgoMwUIelgDS5qablrpA%26ch%3DAQEAEAABABTx-3zwq1u_NcwuqVvkdGO1L3MTeHtXrMM.%26v%3D3%26pg%3D3OXPV3Y2OBB5TLYLBNABCLFL3I

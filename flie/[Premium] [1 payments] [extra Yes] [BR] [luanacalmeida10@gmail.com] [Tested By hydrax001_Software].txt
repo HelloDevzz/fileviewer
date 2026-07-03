@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: DC
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Extra Member: Yes
+– Profiles: Brenner
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806280474	nfvdid	BQFmAAEBEF1mbLBmLmEl1AmNC_IWjp1guPGzAnIpYNV_uKUKHuqNzM_13pFwaQJXAF_SOjDQtpOQF6fTMJpbPOoNvZ6TB_nWSsP5FgCKKexi_ciEIUDVMRRHglz9PuQ75KmasMV3UIPv2GUMNwoVjmIe2W5dS4U0
+.netflix.com	TRUE	/	TRUE	1812768480	NetflixId	ct%3DBgjHlOvcAxLuAy530g7KpxvgPhhxzh7RroU-ch7EvNWXi_r28qOCeVWHXwi2j8ZSC0b6Sat5m81vkcUZRjzLuBCJJXZT-l-BIvSe8BrKBuD5XnmYHJfmguhDR_CfovwFDngNgy-3Mw7XPtn-xj4qqE4_mw9RYEhaKJT9-pw5iB-U0DqOElJSXQNBHLn49wA9UJQWZ_Iq21cyE9n2w2hD57iuXYnmlbEI6KBRJ65dOFYOxFANFvvLtV9QZh4IedwNK6Q-cfi2ifWXeO_8hr0EqCe892imQnBSTS3ouqwI7-US7kH08C2gZvCbhrkYfnJS-2O3XJtJ2xOCw2Ejb36u4Lf1KRozerl7_pj1V9NRTI2X6Zxiwuhz68n6SxguWXcs9TY7T1P9tO1SGYyJKShPliY80DggOxhVvsS7r-ffNLdJCDlrF8Kt-eUaz90AYu_J9RTpXZFtns4QTi1w2Bit7JQB5l-l9iWUM3EOHGkSJNyDowK-KxgPRaCFEWSmxUDhMucA1n5GlNQX4dzV_b-8bUfIOrfsY9W8KZsWHZNSEjYD5uzAppFWYiJ4-YgxzTKqtAYV68DgjOTKY-uTqBJ87tp0eXpnp0EiCO0Rxo2vRWSVCAMpJR8kfcWxzpkmMPUUlZ1w80POXez6uFb_UGf2F-kbgedhX66SGAYiDgoMMHkQeYLOuoajgg4J%26ch%3DAQEAEAABABTEzotAhsyoD_bdhsQ_cOO1fUxqL6Q8KKw.%26v%3D3%26pg%3D6YZZHAT4JZAOVNHWDGBCXQ2MM4
+.netflix.com	TRUE	/	FALSE	1812789438	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+05%3A37%3A18+GMT-0300+(Brasilia+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b52343b1-3c49-45f6-900d-acce7ce93782&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774744502408&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&isDntEnabled=0

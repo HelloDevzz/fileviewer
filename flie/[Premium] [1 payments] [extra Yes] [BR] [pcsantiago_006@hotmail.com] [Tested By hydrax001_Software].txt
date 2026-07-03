@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: R$59.90
+– Extra Member: Yes
+– Profiles: Pedro
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806027600	nfvdid	BQFmAAEBEHGl2Pms_VDpAT-pnsR-7OxgL4chbzytadek8Wf5f0GmaXVRCHbRO9jHTYmQcN_1NcNaNJU77R5-k4p1w0WRw2lHxF4eUhMrtxGckI96eC4QG5fI9JmlFCI5dTkjU7AvBe-Di07kCQP7pZJL3qk25i8f
+.netflix.com	TRUE	/	TRUE	1812661359	NetflixId	ct%3DBgjHlOvcAxKDBAP2dTd03D1zGDJhrhdIhLSygBFi9hUY5C4SEULkbCio37KNKzyM-_lgWorPRkG-uoIBe_qNmH7VEbcOuJuHh-6169Ad6XaCxfdrhhNzfk7L07FOcD96psO7csYIBbIOn45fQv1RsQnLcKgPWUN6V8TiRUR4odB0o2OBnDK-RPXr9R5kkd2dFctEzKJkC8yUO3A6OQjOpXKOlcIJyihdhl_bdEqRehpOpj4LMrfOC4BRXIRJX5xvEJkLWaaYDLCEnyzjVhoTpEp2MSohxcrbHPrrYfle87pDmPftZvYfUwHvQ6JSqiWYZfROYKTFLvia2wQ0Mniq3bThLEDZSnlIf9gAym2WkaQgSgdlIeXnY_a2afWRAE39TrFJUut17UeQusgnhKyXPDhMrGSP7HAOi78Ju-axPA-0INkbki3Q9kQFJ-n6bLGKN3aLBwxCUwNkqPkqRUhWsFwJQYzMF3VwDUMvwuubir44tkFHB2hA9ro4x6YVixeKu-V6iuFD2SFqBgWmIzaguJk-qWl3ddbEz9r5yTtN7vJFovpxVqoZztraD-jJRL9RC3FIYUfhwutqcMnCCU8mxu3s-PzI5Ut_sGCXW-_6d8UQLwCEHw2tGPJqkutDXSDhvUe7XQZ-5mQ5cdcVGt2MlZeKm7TOP0YZXZT2T9tuhfBF5_zzyGcb8FVZzKMaGAYiDgoM5LoM6I6UUDjLR5Li%26ch%3DAQEAEAABABQKiWsV_aOFE4OodNim1bOn3gyPe-qiAMM.%26v%3D3%26pg%3DTZBDVZLSERHMVEQ2LZUKD4R6DQ
+.netflix.com	TRUE	/	FALSE	1812661359	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+10+2026+18%3A02%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c3764e33-a032-4b61-8faa-c76d823f09bf&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774491565064&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812661359	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQk7aPWd6wDhV5Lq9Xm8VRDUWSZkSYtnRY.%26dt%3D1781125359114

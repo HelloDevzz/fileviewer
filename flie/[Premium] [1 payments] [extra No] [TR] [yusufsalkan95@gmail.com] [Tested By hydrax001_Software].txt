@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: TR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Extra Member: No
+– Profiles: 1daniel
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803142033	nfvdid	BQFmAAEBEMiRjLO_G-iRxr9pxmX9IGZg-1z3W5nERngUbDH4erbQWvnFyPpXoo88B2AkR7BRcSkMjgEY-E9Swik3PyyXf4vu7VoUqMt9UWt333PLxU3JW3ACTZJYZ7WYUNZ4aw9afzv6_zwovtXHjImc9kAxUvTo
+.netflix.com	TRUE	/	FALSE	1803934925	NetflixId	ct%3DBgjHlOvcAxKfA9mSILFd-0lhfEOewzwznGVa1iYwRtdioy_Mqrg8aMCbm5EkBkP79Fj4nYlSgmWSo4SCCoTLNOdY0SPIVsmdDEqCYUPoxAVb9yby6mD3gOXeY8dqUx8Y18YxBTMPvD4MOpU2VPodchowZFgWl36Ndtrheuq7Id3Yi2p-bEQk63sjdpUmGBdnNKxQpedoLq5c9YZdvXJ8i1bBT-Yc4kSp2D1NOSVhprGm7TmHRm1KBqeX3BiYb5AnodmXdh1tcX_fuPZ2Izg394lp_VPVN38rBVAat4Z3KBJ7xZAxGQLe1JmbX6oL8ww-3eIX9Nt1b6-T2yq5w_d3hYGEBGr6ueKaZsCdr1Xbmw2BSEDymxJY5FRbhnBsRRdaM1BXM788BfJU5uIDMfdZphYNQnNOgN9VvXu2AQmRRVl9TFBve8QBw9_u2t3FGnFhTE77p2w3L57WWhgeqynBYqS4xICOcrOdMFLxBWmz0n82ZZP2f9msM_kEcLoU-smqQ-_r2Nw5Ic5u1s00iNVD4XXMfem9kwxE0DglFwatwp13cat-4pF_k2oYBiIOCgwXkneQ0dx7BSoMWAY.%26ch%3DAQEAEAABABScV-esRyb5x1QPc4uvITiPO4XgFXysKD4.%26v%3D3%26pg%3DEBZUBL6TZFAM3AUXABP5CIIQO4
+.netflix.com	TRUE	/	FALSE	1803934926	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+00%3A02%3A06+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f5289bb-310c-40e8-a3ac-1a63d79f6bb4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1771518649840&geolocation=TR%3B59

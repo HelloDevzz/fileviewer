@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: PS
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Extra Member: No
+– Profiles: Motasem
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784853257	nfvdid	BQFmAAEBECc_FzYyIbW0A8p1s5F1LoxgszM_0a57TLX3qwkYad-XWpxId3JVVIN_67wPlmigp-UlzoH855tw9GQxxBrqqORXeADJSOH1EFnT-la8J-eysy7GTYgntthg_RRPiUaeh52690QumHTuSsBPuGXontCi
+.netflix.com	TRUE	/	TRUE	1802484511	NetflixId	ct%3DBgjHlOvcAxLoA-Am7BZyldFKckeP7YZhnU0EQucYfxt_XDJU1Kgcsik_0bBYXK1K1J61RvHfux0bZqFBYoJlm73Ru3tFAtc1KxC_GXvtSWxlwTFrdZGLkLvBUAS-dWM5dzxN2dWYgqdkhpfHv-OvCjAi7NPXbE3htAApJLOItEan81QD2CPYtWLztu395SX3D4q_vyxOmrVfFHq1vYUywDL4iiw7KVYFZMg9IwJV5BiTNytuxnptiO6pZ-GKFAr8PlElr6iUOxyVDZxgDx0FSlB4b7LsaM_povvDbm8Lb1m9dYcRZ0UJuF6yunTj87XgbRuxIg15WeTk-b-nJ3WKuEL75Njm5lmIaUHJfRB0k22rW2qWYgJPKiouP3pnsFjUVpUqx3peJfJDVy0VzpXZT0TyUlDE3cXSETNzV1lA5DmdWXJngHhig8o03HfvND1k3u0F98kGv6qeRx52hz65uD7WgKn6kwWGE1u4-ghKFRG70tv0ngCyJQcBo0sinvNnn5te6xr6TACHSsXeqnGYtszfMQXHNC5a0H3ZedHHDQPA4ksszM9fbGg5-2JDCg8Ks2u1F5o_A8MwGcMuBZSM0nxlUUgCCsO09bgEBHQGODKbooDpRdWEa1skuTTV20Z2dVtcfx62KKwhS6UmxoTxTOhEGAYiDgoMcpfUd2cnhTbRilbG%26ch%3DAQEAEAABABQPFrEdcHGKnh44aUoVRopo4ZkyyMpnOGk.%26v%3D3%26pg%3DIGQ5TF3VRJFPBN33PXU4HLPNFM
+.netflix.com	TRUE	/	FALSE	1802484513	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+04%3A08%3A33+GMT%2B0200+(Israel+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7d3606f1-725c-40f2-bed7-360df4b88958&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: MY
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: MYR 62.90
+– Extra Member: No
+– Profiles: Joker v2
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785399441	nfvdid	BQFmAAEBEEQCkhnzvAdgo0thm0IKQw5gM1GxBvjyGIZYq9Ae5AlAlyMpc4VEytBwQhS04A7wv6aQs4hfqrBv0n2HlyEJNCgrMb44umXHfNPOhnutl9vy2iTLFlDdgppYbkhmC-FIBNwFnvK1QV8RYabeXnFFsQUN
+.netflix.com	TRUE	/	FALSE	1785399441	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+01+2024+15%3A39%3A23+GMT%2B0800+(Malaysia+Time)&version=202401.2.0&isIABGlobal=false&hosts=&consentId=deb2a27f-be76-4fe7-ba3a-d676425e88d9&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0
+.netflix.com	TRUE	/	TRUE	1785399441	NetflixId	ct%3DBQAOAAEBEKVDITWtZmTkQ3rpokV03zGCELtFEd0MwchiRmD0Xt5nnZ-kwkXyBvdOJ4YD5fCFmrLdhgyhb7pOqTCqEw15MhwARBviiD91M4poIIAdxLDxCQlSB4H5nVlQW8_Erix5gOVleoQ89SzPJpFqGwC9c5jbfAnfFGfbHinfSaqAQBQr5I1-Bswe90K5O4KAOEsOgQlgn6YJTL1Jsmfv_llS9Ckk3DgRcD34MAcU4QtLc4QuuAT8AxuSE-ymrSbnR8M73gL3M-5DHUj_QtAYcGl3_rBWu-RTYWxtvDk2-8GA4gDSL8MNiPSfl_CgCeA5o8dP2dzn1q0hBuNSVrQ8vZpbsYJAZk07v8_BW_CEIu6aY6oWuWkrchXqGc3z-FrM5rKcEgspVqgeEPqbjFA7TfNrB0_L2S9p9fcD504ihM3KRRlaEbCSc0TAgVrL6OW1xv8X-R-IdhY2f_K4AbLB7sl41o7D1x0G-dSwB3S3sU-HAGDYYpOlCu5-AsHCkF4xg2TA1Q3-XkNXMs5QfeIy2_2-gQW-29x-QCJjDBDJnAiLHzlAI5TOKrwkWcmm8xO3AVtwhN4_RvMiKaFf3YSM6TmZ5tQadfqHlQoAVSlHFq6TgOGw88PNvFNTq-CcHNh-uIHGOzcAtq05EwREB1_TR6bR4Mt7SxibF5vOgX3jDLT7PNUuaeCfHlQIC6fKPxBE7YD9rTIbFTUwvnI9tHC-E_PIcXfAYQ..%26bt%3Ddbl%26ch%3DAQEAEAABABRJiascVOup_iPmx8gGpD-VGeZkvuYvznE.%26v%3D2%26mac%3DAQEAEAABABTrjJLTg3-7WYwF1sF390cWy4u07LIySks.
+.netflix.com	TRUE	/	TRUE	1785399441	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSZsFA0vLgCto_R0YqJ9CSYucv0zVRIgAU.%26dt%3D1720244316128

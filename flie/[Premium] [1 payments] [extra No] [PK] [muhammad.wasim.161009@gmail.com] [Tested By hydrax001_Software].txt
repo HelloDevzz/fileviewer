@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: PK
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Extra Member: No
+– Profiles: muhammad.wasim.161009
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798389217	nfvdid	BQFmAAEBEEztEcEBqJwvsxRuAzfd4QRg6CISs8gwGCEOZLTsQAzVnCXAa8IVLzKs3cCBTfJcEJ4qsy09zOI_On4MMVnCDSbmRxrRcExTXlRx9UhNH0pgl69oi3ad3DOk0HZUqUdKkniiHyQXV3OOecf4kZ06VFO4
+.netflix.com	TRUE	/	TRUE	1801469396	NetflixId	ct%3DBgjHlOvcAxLhA1SfdhP9xeAWVL7iMhl6HyUkPNM12QZHnZSLSGcOMdMVgw68irgGKdPmxQuv7wEzXp0VPYRWKoYR-1RNHKBRxTCXDUDlWqNPbX2JrYJyYXquYX-LQAMjYYNEfcsmm5y3RV6V2jQZMbADiZayFxpAJrLlZaRABpMi-W9Woi-V9pJXNlX4te6F8GNcgFWLggb5PAA4c6_hiGCqpQj96N-km2FW58muCPcVgL_6tw9bwyPjDqwg3-gOKGE-FRSepch1g--3tldR3Jr-zJwSZcd_vrytjMY6QOXOSK_iCVitF_x0FcdtRBhQZBil3IUHpJUFOAuwl3vWW5ILMKGuTD2BuewZez-mvJQB2cKLpdhGyjDOseCCHQdJGsHli7po1J-_kka4fBpjWBKjlODvsM7ZDZFXHEA_alCZrJi5p2QmnVICBlFzZseCUKDjH2Bqz8sp3M7jBHumF2s3hfzPjgKdlDdUlkgQKryTRQHlj0keIDCebWJxu5hI1t3hgWz0R1l4L70N3ydKq3GKxTtdxrqA4JHQlN62m-VU-zLU2YTlecrCVEBncFS9dNHrAGCgPmBSjV0bLV6o1JAaNZHreYe8MN0UAi3hWmTlH2frg8fcmdMlnId3_ni9EiDAZMD3XycttPoYBiIOCgxmg_yhJ08IAEchfGU.%26ch%3DAQEAEAABABQzOGlwmPB-Pk83eTgnev0prpE5lbKi1R8.%26v%3D3%26pg%3DAGS4IPO7VNAKFMOX5B77NHPJGA
+.netflix.com	TRUE	/	FALSE	1801469399	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+00%3A09%3A59+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad8d1916-418a-4398-a167-d1e04a8c5045&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801469396	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1w0Vbb8WZCVLLz2uHK2pZYKgCfaGFjkI.%26dt%3D1769933395556

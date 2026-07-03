@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: SK
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Extra Member: No
+– Profiles: Kristínka
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785399441	nfvdid	BQFmAAEBEOFPuXv55alFo8AqHqoDWiVg1VVVyQu-_8vPNccy2c7PIRXLfXMsSbaAZHUYUv855SF_8LR6uYu8vEYPY6VwXDkOV7GrhLjHmqPdHawNCI7sL8VudLOlXI6oy7PDWc8inUcxVwJh8eWXSxLDMFPbsLum
+.netflix.com	TRUE	/	TRUE	1811399216	NetflixId	ct%3DBgjHlOvcAxKEBN48kw9jfydNEyZ7bnPmQYRzYC7GOSeME1o3WjYlFyMin6HbSFyPtsFwYt-Tlxn6jZWz8LUD3hwsRAbARgEwu9BtqtzMTDsoGK_pF-X2B6BlylI49s0erniTHyzqGq2BYRmDibHU-PkBEFL8gjICk-7yNThL1RgtpKsESGX3IwsCKojxbdRoG9Y_dlii7KbaC-nZelanuz_ceQTOcTcj99lV73glSdLR_KKaMefdOyYE9Z3Xmq_CWzTSXBRLXOnXZqQTvYXFTJu1NJnvT77djMziE36pS7d979LOqw_bvCQlOx7nXLAg6v5JfTRGoPKxEhWPLRzr4CpWLjR1faqi1BR_RoVfi51GIE3719kH8G5DjlB4Nb2spdSnfQ_4FPb93TXlsi_XUV3YhQlQGvvKKe4HFeikIHLqo14L7qyHpM0MRTMrRStzsw_kH56_xB-jQdSB-TZCRGvmtc7s2R3GnZanFnQFWQ6QAm3zy0x_VBMBOq5SEcTlxXrU0b-Yxi8jUyMhXFIoGX-PUxWTC21N02IZk1HcEZ3Q7BNBM8T93bGOmz00moesLs_1BG542XAqzR_gjZLNPqRgw8pOZOUsgTsUWOnNNwENEzoEjtfUva1biwooRGMqu2rn6t5gzSee4zG7Nmj_CDdQ9nf4vpEVkGoELT7RwhOrIzZUnsfmctAzurS7dBgGIg4KDCHXiP9TiGsPUKfQvg..%26ch%3DAQEAEAABABS5xVQkt97HngPhZOyivoyYgXyuZKHeA0c.%26v%3D3%26pg%3DCJXD3FBWCVHG5COZTHVCK2HCM4
+.netflix.com	TRUE	/	TRUE	1811399216	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTluTBNTdpTR3iooJ3j4CU2Npamj73RMO0.%26dt%3D1779863218905
+.netflix.com	TRUE	/	FALSE	1811436412	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+18%3A46%3A52+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae106c23-3501-43af-bd33-c2bc3a7c776e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SK%3BPV&prevHadToken=0&isDntEnabled=0

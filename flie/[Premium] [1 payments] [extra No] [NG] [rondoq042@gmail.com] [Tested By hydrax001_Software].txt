@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: NG
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: ₦8,500
+– Extra Member: No
+– Profiles: Juvo Streams 1
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794916333	nfvdid	BQFmAAEBEN83akhYyX-g3SGdBrIflrxgySJdYlclf8fHMHzDML0Ulj3tbUnX-wPg7dThCVJo7CZBTxvipZh4AWboZK4IzL0Xngs9lrmbZCPOezXL1mdHKnAUu96mIHx2LRG-6tSdUUDZW2ggXsj8FEbor3x6Ycqz
+.netflix.com	TRUE	/	FALSE	1796401613	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+17%3A26%3A53+GMT%2B0100+(West+Africa+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d057e053-fc6e-4491-9b6c-3547d3998747&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797009383	NetflixId	ct%3DBgjHlOvcAxLvA9wQyBoWOFc8yFaACTgMIsLWOTJb-q7xShfDQ-HyB35_FifIig_-LFuD8hJHK6nzoS17P6WxGlWic-SpdqCr55STX9fVfnj4qJDoMsWJczoM8ff0WGaXT51TZl63y96Cr0QaFO4BZEPhB321W51GdxEvfPkKSOrHZs3XTjYDxY5owY9Uwi1Hi3mOdHoLYgiHi10Zar3Gdu93kMeb-6s4xbPuPZxwqVQkIdTbv5YZyKD6ZCNp6y-0X4o6hBwD3xSoKsqcLkGUbd3DksfYASUtaGK3X4Llv4ULazYZrq2P0t6cPCdeawuuZsv9EXRfCOq_qHM5-ghkNM9PwHWHS6OxIRX2YPN0gE3Qt8TMAjbO1VbEapmIAHyaa2GPX-8aQmJiv-oNBmr4WjlH9sylNvd_9qpkbOd7ltzolIPu_3qZ-5FS5uaVQQVtFhY1vAJO5ZrkZDbAQTVfoQ968T3HDhr81T5U9FHK8QiC6EiLKsbiedbhnvLf1t9QATh6qAbs39G658iGxSVwcc5g9UqDI-lmuEUAsw4Wezl3zPRGf_Y-CSyhn7Kp9pTbr1aekfmAC24XyBoItA0fTnq42oi6KuYuVe1l3yfhddl8s0qRFUW_Qx02x6EbCzVZGWv_HRC5wFbOyPCxm3QNIflxHLJ0qlctvBgGIg4KDDzRaclCYC1hyhzGQA..%26ch%3DAQEAEAABABTdDC2sxqNAca0KYmtVCnkiSho0NOkHASk.%26v%3D3%26pg%3DSUTYJLET2JGIZGLGCDKNTV7G7Q
+.netflix.com	TRUE	/	TRUE	1797009383	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSB7RTFcbgs9n34tG0GvNx9XhIexkpzHjk.%26dt%3D1765473389744

@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: KW
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: $17.99
+– Extra Member: No
+– Profiles: for B Bug B only!
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1803478999	NetflixId	ct%3DBgjHlOvcAxLvA6D9-kmFIl634kjSEa5C8hfB0WR5YT1enl3-MNRnm0I94LUAiB0ERK7KyECvyWM-7VsyKxiJhnZQHAknWv-_DFaTdtAN4p0Mtr7E15GpCixKemfToecbyAxZfH_tOtYJx2zGZxb39qZx0hRcsdYivmRPfabhPaIE4tZ7laVY3eOP408w-VgmmXOABJ769jx1IBt2j3ugaE4LV1Y2EzAJgYazHwGePprLTiChZfWlK394-ANYsZbvNsj2rJ4W0tZd24slIQw3o1tsGVXPcBFRyfH3zdvFZ_FqfxRUrQfQTTDSadG6sqCXU-hUuyfK8XJAHasMZ-ziMuacaTkQOuyL3djE_z8_VgFXiIayBevK2Czq3oFFX8YGze-vOmM_VowbfPX-PHIM7YIpGANNrbGyojhdtLnZQ15WO_vppQpFMmoG9YU1oDVuqEUN0G3ZT9Du59t0QyHm1U8k3y0ht78CrvSwaxlmYcuHwmEMJ5jVZRaroL_avJbriAkYGAfvuVkupyb7O6d-KdojI0WebyjIuO7uGc2xwOKJQdtc_JFrl8q8Go-EjOLGm4VkZf8Rg9z6t1A3y39utbdETU4INmyVyrCloXYhL_Sge15GepSyWJvNzGaLe49bY7KyxYd8NkZKbF5t2dFEcvCB8HhCJZ473RgGIg4KDNcgRyyYqu2MJjX0GA..%26ch%3DAQEAEAABABS5GFP5EzJP4RqPctbX5nYhkn5_2O6AAqI.%26v%3D3%26pg%3DRFW5QQ55QRA6HIEWMNLYJKDGDI
+.netflix.com	TRUE	/	FALSE	1803479003	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+24+2026+19%3A53%3A23+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18524504-3379-4ea1-af25-b23c82c85b01&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803478999	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoj2Tr9omxx_borEn6ls9TFVMGiorY7_w.%26dt%3D1771942935936

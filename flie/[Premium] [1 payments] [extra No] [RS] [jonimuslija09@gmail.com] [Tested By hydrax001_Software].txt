@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: RS
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: 10,99 EUR
+– Extra Member: No
+– Profiles: Chop
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1786798793	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6PwWU6kzoyuOIV7cAUSSmNl3M6_LXtSs.%26dt%3D1755262814863
+.netflix.com	TRUE	/	FALSE	1786798839	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+15+2025+15%3A00%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3c16ecfb-87de-4faf-8880-8e1ce53c5b20&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1786798793	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AofFBrKdEd_WGhEeAB3sGYbbJYYShilTixihxbLUrAga0wgNZFs2bT5GvjIlXNRvNr1g6YDUbLIFhRmoa4IKTfoi6aP2JKQVes8Pe37mCjVaw-41bDWJkhvPXmWR1ItT776Znd66ToIIfAvN2nvskMHBYO2Pea_rx8oO-WCj8zjypqZg5jdBFH3y79K8WbWvwtl2g81I8dGymIMxIoojYqUlxc5txSMZmL3hIJnFBE2Lh-W4RR2zZjkomsLkmQ80lPB51gg1U4a0TRhaHSLsEB4o5zkWHPezvXe8b0df3uzDj_hqUSpAGkOrCft1aV8Vpz_m2UsNINX8KpIiCJDts-cD43_trM4iOUERK3jZjyr0cP7cRHu1hxKSL6ohN2VRedf2FI_EJPPF7p1tPEtWFvXaPche-pbmzCVEPDjgTgHpmG_4g3O_jo-K0reF3m2LTX09qdPUjjYiyAXYrTz1VrCjrGcHPGVjyECbiXtfoCPxOPjtFsVcGAYiDgoMGPDOzIEqETjSLcvQ%26pg%3D3PI2NQQJTVDPFKTQG3KSGFG5EA%26ch%3DAQEAEAABABSYsrqBNtH-cRP3MaNmdQnE4sAMpINqQTA.
+.netflix.com	TRUE	/	FALSE	1786798787	nfvdid	BQFmAAEBEPvt5FUfmDhbuItmsbJg7GhgO0d4k5EZZFWKCApFff49ZX2w3x0QMVo6fREhsYTUSNZuumivCV2LNyp3-mMrAtfdlZ9PZ1KjHDX36RU0nQTfA2arkpf_0M2eexqrgHkiQvRJ-O7FwvLuYLPmyGT5k3-6

@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: NG
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: ₦8,500
+– Extra Member: No
+– Profiles: Christian Chukwuebuka Machi
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791634944	nfvdid	BQFmAAEBEDfBSRvJTUX31jD-qvMTVepgxkGMKCy4Bz_d-21dXMz-tXYznwrQVTNKnXzo5oTXf_5Yz1gCkw98xRLWWMlxpfQO0YT3oQUy6S5qywQhf7l1EVCTXfyEvHA6rOX-ZermojpQKcM5YpxGHezRx5uqPM9r
+.netflix.com	TRUE	/	TRUE	1791635449	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA5ga6O1PMpLIkQcwKYXbLiwdXnxCzy_9SB1FrGq1cnDcMR6MuUC1kdHt0VDNxxV3UkYVb8iBl33BU5cg9-b3A2Jz92rhcqSLtSTWTnQqZ_m-YD7Zyjx46-OMsVK5wx6VkzkLCdcXejlS7Ha5TbwTjMhQ8kQP_jfkUZwnpHgHYfHEmYwDEpcldb46KMwuAIygmOp775gJi5vefw_ZZ03RdlgdvxLLuUwU1xiY6VLGA3OGhvCRf9Bb8nUQeVk3U24VrYKfdQhkpZ_TbWWcaHsSky1qJ0v6zXChlKUscfPzDMyAjCHSynfFcw9KBQ34LdbuuYRf0w43dARH4WobldbcA2YOKtSRvqNT2RkHyAc7Rtw_CusJcLdVIugZ8QI__F8alHMJYbgI-hC_cVhXFOeM3Jwt9EiwIKruvN15ICfwl-NTD73TH544Hf9N_p6EutdzL7Rf4BHqpd39GoXRAzZ1aTptikfchyQ_9VsyrmdIk3EDsxMLo29JhQ4C1CHCsvgHjoRchTN0alZalIDhW79jIDpePxgGIg4KDM9JcujYGIh57pU9tw..%26pg%3DCFFBN4MG6RAZLCDQBRGHDSBOFM%26ch%3DAQEAEAABABSBaQPsuNwo3FBA5EQXBJ7f9O5TCHfv1MY.
+.netflix.com	TRUE	/	TRUE	1791635449	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTU5aps2rS6R3qawJ2DZndwf6CEVQmduEY.%26dt%3D1760099450018
+.netflix.com	TRUE	/	FALSE	1791635495	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+10+2025+13%3A31%3A35+GMT%2B0100+(West+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=282a65a0-3618-47c0-bbf4-e0bc9698c25b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

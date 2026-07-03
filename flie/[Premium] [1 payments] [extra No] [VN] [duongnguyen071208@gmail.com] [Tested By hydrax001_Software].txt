@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: VN
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: 273,000 ₫
+– Extra Member: No
+– Profiles: Duong's PC
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797942392	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA8xKkGkq_qHfgMhKGjGVxNuu231eC__i0THon6dVM9jrWX-DSMG4O9smOEpRGAkFf9ewy6c1flHpHHUsu9tOEXjOXBk1nM6DTG_O_47sBixcgiYDKo8JolKoQsFkxePboXkMmd8_h8R_7ItNZgHeCnetUBalrOch1E_d25RwXjSqbmTeOffPY4m7VIlxVCTkRngOGAIJKeRGoI2SDFvTwu2Knr7SkfJiUIIV6NiwlfzEyIcPq5VM3KJakvWm_mj3PSdVe9TLiB69CrV14t0tlEm9QZn1HBfx-GoTP62ulUi4EGMwsk5QRO35y8c2vRpfUykSfXE8HYrLRXX4lCADEoc47s90bz32a4lkKWAqZBv3S1s-YJKMkP-HDcd6Y47YX6Mfi8GUIIj248iHdAi4r_HioydYyyQfviDrWoQ9jDzkX9zTSQLVug8Ps2_3PBfEKc79QUvbDirMFJQDYn0oivBKL0nZNjmgfmgtD3NWg_ygksG5LXGEvCR4s_St1WVVzA1ep2XeIRgGIg4KDLphi81pjkMEyrNMBg..%26pg%3DIW5JZEDJIJAMTLFH3AU3WUP6ZI%26ch%3DAQEAEAABABShxE22QiKHFctUNPXlbWUjFJhJ2mEpKAY.
+.netflix.com	TRUE	/	FALSE	1797942393	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+19%3A26%3A33+GMT%2B0700+(Indochina+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dbed282c-ef96-4e09-b171-11edd754ab31&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797942392	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTczEscTVsxCKSmB17-5lUe7gbzCBU_bYA.%26dt%3D1766406392308
+.netflix.com	TRUE	/	FALSE	1797942392	nfvdid	BQFmAAEBEIqrzQ8D7EwEodQkeCGopDtgfbOGFiZAmzOwrD1FlsbU0tZsEvazElCC8_FEiYQSncc5aWQsC5N2_fwmrd4t1Ay4wUMMmClifF8zIMgoVvOsQMLHn6NtjOACH6CqhFoAwqEVJoiXJtzqia2Z-LXCK9yZ

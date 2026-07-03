@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: SA
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Extra Member: No
+– Profiles: Nive on top
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785605544	nfvdid	BQFmAAEBEOP12pbhOW-4z-JAAKgWoNFgJDBt2SvkEJneozWvPVrKPU1gqeWD9ZuTcXwKMidwgwBKVZQ3uCuiw3S4a-m0WewSSgzS0AocWgbjTsd3FAc6_MnWUFlKBBIqCs_2AUtLROOzqaiV86Am5cp8610igVXU
+.netflix.com	TRUE	/	FALSE	1785605544	NetflixId	ct%3DBgjHlOvcAxKDBHida597WVKF61m4V9XBbOrg39IqQet-oMM-ldDwfG9pLrBBJ8jBoFUeC6SBlHRzfd-TftZG6fSWHSDH60nUldUvqWCmquPHeAULlyKlQ_y7vadAPrwSUVRXrQOcimej6ATNaz5wwjCiG5cTNCJc-QofqRaBWZ6ULpeM-zLDGB-OsEu0ZUAhpqFvzVqpfT-doNAQ-Sfi3E6JANOQV20Aslsl8UsyHe87jfsFy_xTSYOIq4aplV4pxZDGp5Ik85yo9wcZz0hUFruwtr4yHmSJA8BcySpglF8uVjlOXsU9hdY4f8gy8uhJzkHQvBY4dcYCCqE-l00kFnXao5m-LUuf4BnxTr7cFoC-_mBYzJyklQnEaWyLtoAFFPD5NrgwgCqRnijVnlJ7L7W-jjw23HHQLKCAtcOv4LRRv8D7aEw4czmjD6jVEVVH9ZOLP9PMG10d7vie9dkY0RRFcogBi0Bi2zek7TZehMk8OQEVdGvp17KUjNPQr33G66Sd8VVaC1dcfFjDaa5OGz8CS6ZUtwEEulY9e3pZ5Rq6ZKD_jJWAnFgjNpvGWvfGCHMBXpUBJQ-WJ7qrNUwTK7tnxhkAs867N5cFCmJPuNeT0Gldz0KqxsYZmnAf4Hs6T8FYo3ovBkB13uqT2gGKVn7c44fpRHbnUGf7LV_RSUk3oMxo26A2vqswZIDZGAYiDgoMg22JTBwZCycrrCgn%26ch%3DAQEAEAABABSMDMUfFuUYtwTDgNsFx3SjyfjvhQWiOrY.%26v%3D3%26pg%3DNHUHVBOCH5FERFVKN7IYEOQYKE
+.netflix.com	TRUE	/	FALSE	1785605544	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+10%3A00%3A40+GMT%2B0300+(%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=24f50888-1d2b-42d4-85e2-781d02b15655&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780901980302&AwaitingReconsent=false&fclco=&intType=3&geolocation=SA%3B01
+.netflix.com	TRUE	/	FALSE	1785605544	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9wnnMUZNibx6aBZryNy2czmCirgEv2WU.%26dt%3D1781420438252

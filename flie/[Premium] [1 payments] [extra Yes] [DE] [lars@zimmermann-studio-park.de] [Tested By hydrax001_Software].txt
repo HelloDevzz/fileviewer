@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: DE
+– Plan: Premium
+– Payment: PAYPAL
+– Quality: UHD
+– Streams: 4
+– Price: €19,99
+– Extra Member: Yes
+– Profiles: Larsgdssssssssssssssssss
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807394787	nfvdid	BQFmAAEBEEw2Ll_Yv7VouzbXSTF2o95gQKFslMiBQDM00EaE-U7Fpi9nhd9pgZvAG5JLr4TuQGCNIUbSDvpywAxZoHG-OyxzVG2fvQ5HitGy7E59SkJhr0p-TCLuPBNgTwfuTWxeN4BebjsjChgbi3C21BB8H28p
+.netflix.com	TRUE	/	TRUE	1809707421	NetflixId	ct%3DBgjHlOvcAxK9Ax2NAQwzo3A0MZp3M_nxcJQ24VW1PZKGEmmsHwPYPGkFkvYh5wS6m7Jc6KvbOqjrfLO2ofFgIgey94dejV2bY4sY-XTwohZ1miMCY-ROqJXhETToPgl9GUR3P1rPG-tiUKDncuKNtLejIdfhjx8oj0jHcy806xe2Pt1o2F25-vEZBfn11mNnH-E3Ge5Y1kHBUgxB90LXvKqhR6g-dwR6mXpCQLFVQkXPNErlKjIzVRlISlhrhGI9CxD7wdy_TRk48eF8KXixuDsSf3jx3QbI9etrEJKO6PKO3xA4nvlFomxygFVtosSxhJnMd6Jv1YrR0DzbepkJSt5-7ZDN9zq7eNsXwpOJBVJszFr0COCLMUjIjTclzp2-FK7AktxemBNZZl448AbQJlxL99pTfROe7kuMYr60wWd7wIopLzS-McODlmxON_JPQpEuO9G9Q9p0YteI-rdxm0pNwQtUQweJhoIcIyKVKzJSbm2I5SgkpKpkz8lxFtELL1MDH_ARAUk-2uhMFwZrUsuxaVv1WS8bKRgp-MUgZ2Dfbom4V0HpVbpTSK1QcaYWGATcpbuE5ZgUtxVLPLiYuaqORduIc0sYBiIOCgzdWUs38ophYPoTF7o.%26ch%3DAQEAEAABABTs2MEvazuqHqQwJ4XxjRQskUzb9PrZp4w.%26v%3D3%26pg%3DVZBKAAHMHBBDJMU5RTUGYQNAJE
+.netflix.com	TRUE	/	FALSE	1809707422	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A30%3A22+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a49535f0-374e-4c2c-87ab-8fac9205a309&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1775858784723&geolocation=DE%3BSH&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809707421	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrNeaMLDFplmJ446sapzjhQkIZaNV6iy4.%26dt%3D1778171420399

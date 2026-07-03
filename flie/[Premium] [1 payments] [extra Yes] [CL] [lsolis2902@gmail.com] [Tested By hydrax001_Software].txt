@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: CL
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: CLP 12,990
+– Extra Member: Yes
+– Profiles: Liliana
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806539632	nfvdid	BQFmAAEBEARLb8vpYkz_cQQLJ6ef3AtgP_lqg97tPOgIpV118iwOFHmnCGrk-EAKdWt2mPnyrO5m5QEBiun0rAStZXyA42Zjv28FF4CIn-vkksVRZ_VJzM6th0VgcZz0nyNS5mIQP7tbbA_sv7K33Ofy5WtmX2Ma
+.netflix.com	TRUE	/	TRUE	1810785807	NetflixId	ct%3DBgjHlOvcAxKEBDoEz9IddgS_8ee87iCsYp51DKlgpFOOV_DzKH5--QRFl4RG4hYSN2d0mgMqk0LUwKC9B6zOCvcClGkk7OGSU7YLtEy7DzsE-HkCkLmokcm-22V0pAFjCoVouEakdCqMKyEvnW9O2I4mY0rE1MIw5mR5LasCeQcpexDQAnmbhTXWxZGqAaI0xz2DBSeUmQH0AnXR9zND1_NPyzTzmp9lEix7iJfgGN7CUeMmfdFMA54XlHmsanciZ6gJtyW8kd_mQ76oNXIYOwowh83HEZgeVDC9QRR1pXOC9boZ9Btb8FBTqjyaZDVGvix7o6nDXnro56o2ant0LMv1wIY0FMPoNcD5v2KlE05urIMAPbSfW-h-a-BKrNR3ChnvXTYFFn6VhXTwFlUE_0BNPPZUB1U0OjNRtOmN8vFIOelBmOxMi9fY-jEFvkYMMFI6VvnZM_SxVrDPazRZsfmMQM7iSUk3O8zg7RUpEqwuTc1OnfYZr-EdIayi3u-Lnxm-woFiaJio00CZrCsUzMMelYehEEsXfkBCwNjPd3X2zZPXK29H4cy2M2my9Li0uJU97Az1cFeQCztFxE63e9nGNuvnh40krlmJIXUJtECeAnBVbNNw6bN1lZsRBjRRYFZbcrF3gfupXfSp4cyj5pcS15o127dSuYhpkbHdqiI_j8bRhekbTxLtvR4HIhgGIg4KDP5ZoWkI2A53pDj6qw..%26ch%3DAQEAEAABABTJJDtNrsiyrMZyiQISrP36BDrYMW58UoU.%26v%3D3%26pg%3DINPV6TWMCZGTZGQG4T52OBBQTU
+.netflix.com	TRUE	/	FALSE	1810785810	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+00%3A03%3A30+GMT-0400+(Chile+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb7f4ca6-03fa-4bc6-b41f-3f3ea757b265&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810785807	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFxIXIPfwemdfxkDTxzNwkbTv8uqOSdWs.%26dt%3D1779249930087

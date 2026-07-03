@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: SA
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Extra Member: No
+– Profiles: BASSAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788662256	nfvdid	BQFmAAEBEEaIenM10rHGl_K9R5YfNlVguzYdM1PcplDlcNxy0TQ8VdeQXgQsLUtoNYpjhqzjd9R3YMIWmfna4WmcvOUO7oolXCcUNCLwngbuvCTEOTjUcqfAapaqne9Cj9Tr3gJkr5dOL1O7dgDAUYSQdr-OZ_mx
+.netflix.com	TRUE	/	TRUE	1806030105	NetflixId	ct%3DBgjHlOvcAxKHBLtFOcUbYWwzdXjEl2qbOqGdpt0llMCO8j9eozmle2c7Z-NVpr4Svc3Go938Lx8Zs31Yw9D5LtG0G86twtCqUqNInEHta5j7pGGaSRbqTXnXHt0O4RSsXAwxWWKxDXQglPuLOyTQE98s2SVQQkDrayGyrFRwtIVXaJpriVu3O1QwRE2f4GguOeSj4Oism__HB2El5e54u27CMa1xyECzi75kPPMAwz1jNLZ-74LFGrSZploCsvAUXGCHJUhu9-KtAY_K_89UMH2V-mNChSRresfYcN7dcPcGpRHVEAwBXlWl7HZ868pKWvAjndV2afe-Acod38cmeYuusrXpOoywMn_4riceAeshCZb0rMOE3ofPo3DmUKVSzi4o7fu8z3lPJ2yvt6D0NtsK1K2KoeBMqq6YGnQ_xKw7T1kVe4HoW1pSNuh0TCc1pu20JiQxbL1mJNmWsRwHp-wHQjW8bOVGAF6beIT4sLE9GbUX0CssrFsZwIEs_pgBljJMSZDImLfZOb0Sc0smNCnn_xcpsvypRG9roczBlHUL0ONcSFjbCDtsybhDrPS-Osx8cPcYshQhOrN19rzEOm8BNW4sfR_deYeXPYJkDN3MCI7mYzKJlyyBKfYrTdY4rfhB7Xa05As2EXMiBx-QiqoicPSeE5pG1oYz_VdczV-JGSVgMhF5EXO8RZNr4OtLuxgGIg4KDFqqNA0xU7N9oTqJ7Q..%26ch%3DAQEAEAABABTHnbd1LEDdMdLdFyb9nwpMjiOvwyNqW2o.%26v%3D3%26pg%3DUJI3ITY7QNBYRPBEQZJVCBPRYY
+.netflix.com	TRUE	/	FALSE	1806030107	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+06%3A01%3A47+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc4ed0e7-086c-49b4-af0b-b7c1829370a1&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806030105	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSqUQMMGIIxzA-NhCygrhNCJJw6bSGZzbY.%26dt%3D1774494105199

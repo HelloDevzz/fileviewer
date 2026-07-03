@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: ID
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Extra Member: No
+– Profiles: Wawa
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1786026164	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0Anz2ORk4fs0rDdOCRxEhcJRPrPsa31gT5xP4BNpVWCdXS6vWRktAnjue-6j1ubdhe85GTZMzfw-4iAhseyyKxcIS1yK58AUHAeCJEkz7EgETgpCx01L09G33HkHJYiQtxAHNPON0z77mXlpqZJPkmfhPx-Pr6KgCpPQERv6p3Zsl6PavWgiPYuNlIo7aqgK6vpi7xHt3iEPQixgO5uk2Yu-KMfJ5D3W-Z-ZYtxw1tFMf_c_5WOMncKviTqvVem9-KvlSb9X-aOzz74Vmu1BFY97DmFj6q8lYbztxTJABcCt4y238H2bUsVAsPPkb0XL1QByTE1mSzfZFTpgEdQOIEqwZ9SoH84gOMiLLeG4gCML5vlOti5M5_JYUy6E1-7-exKdKZ9w68SjpAwskJMyretSCItOtLLnIc3XNVbWEUQKJVcA_Ei69oBR9rNz4QgzTfRJnqRYaCvA42Sw2Yo_vXpIskeWyTP-lhGOlhWhWtq3VqWI53xgGIg4KDPsHmwiEYueGCR6Gtw..%26pg%3DYL4WSXVIVNAGDPLLUS63RDV74U%26ch%3DAQEAEAABABSGxp6oqPY5py5l0Y0kJC1nzZqg2VNn-zo.
+.netflix.com	TRUE	/	FALSE	1786026167	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+06+2025+21%3A22%3A47+GMT%2B0700+(Waktu+Indochina)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3892023a-cccd-40d2-a1d0-b0596b50be80&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1786026164	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSj_CW-o-WsuXYAARNtK1SzpCyb9t1yGks.%26dt%3D1754490164461

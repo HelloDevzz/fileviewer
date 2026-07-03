@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: CH
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: CHF 29.90
+– Extra Member: Yes
+– Profiles: GUTS
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785399440	nfvdid	BQFmAAEBEKfCZvlxe16rMeoJ1H3mu8lgAk4vb_7q4NA2T6TGnTqRBwg9pALZtwhYM6ky3eDD_cCQPCVgAH0KjQnvxpt6mcnxiiPip9l_zzR4FR73otK4blgpGvte3Z8q98KihvzNQwbfqxUpsRoTTSU3qIFCOkb3
+.netflix.com	TRUE	/	FALSE	1785399440	NetflixId	ct%3DBgjHlOvcAxKFBFB_j20NZAFlfbkjPXJ7w25luSqC1OuU3L_2YLXLKKqA-oqxsFsBlKN6li4WFw_AQOwNkWOM6fjBGlDBvGUiazxWWCW8_GHNmtFBIHru7mmkQweHZM1HLcGb5Xu2v-oPxxf4f7Y4mLCJnCcNprQna60Sf6vhswwTOWWF10hnQJaUNRHCJxd_PEgjgIxSXP0jqpyb6btV8H9SdbOXTzDlkrXWX_ucqAs6RhOIiv6l1rpmmKhLjBbT319fkS6-rYAAj1NA-AxkViw9vLYcEOnoG2o1t4wWw1kTRJHNeuloRLrUdPOaXj37PEYI_u695NTbEkMgkAc_L4b_zPCxiXKXFgNQ6U-QIJlGn_waj9CxY7K0D2PNMr7KCAXFZyz92eUcuh_ehDDiiSmr1yxT-pE4Pj6MTyJV2ZQt0tUF7A9E-jgMWPG6lbpOATuJNJwdtPB8LwKZzCsVJg6IQM3wZsIewvnlBgljRO5kIu1LCRnnUy2u1ZNGpPUETlwx0-TnIrBWMCj6mRytdUSlX6l-sBIpKfBKPchkObzfaJ5Lwkm2IckPw3kCas1yTGqgvO7wVPmn8KR5KZ9qC9X1hhb5tNhtE8S5WXSsSB5c6WHOKP0aJteHxX5G26Q34w5nW4JL5EpR2tltyqCoFGTlDdbek_SZtB1loes2nGDEwP5Qn_bXGeaUcbbpOF8YBiIOCgwG93MfB2l4G7Vv6KQ.%26ch%3DAQEAEAABABRnvaQX5RT2wor1C3a3VmyHbgyogUOvPB0.%26v%3D3%26pg%3D6HWRKLI7XBGL5CDN57OFEZOLRA
+.netflix.com	TRUE	/	FALSE	1785399440	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+00%3A07%3A36+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f2f61ef-5ef3-4a71-8d18-abd6c25715b9&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775425231602&geolocation=CH%3BBS&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785399440	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREnrrxVc48EGu5VOlPsVJf_hbUiv_vDMI.%26dt%3D1779574055581

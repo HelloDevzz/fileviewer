@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: ES
+– Plan: Premium
+– Payment: TELEFONICA_SPAIN_BILLED
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Extra Member: Yes
+– Profiles: albabernalsanchezmafe
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808694407	nfvdid	BQFmAAEBEJxWkVOUJXUqVYuLMQIhzqdg9W_wKQDpHKkdboENSPurCeKpj1ROldzU8KpcAL2ufYBIiwYpBFOkddOHUR4jE7F9y9EvPYPN67UIACAZB6lVSNI3x7BI_vvNyS7VuxaTpCmAVfY36rF5YldZtPoL37mE
+.netflix.com	TRUE	/	TRUE	1813527491	NetflixId	ct%3DBgjHlOvcAxKLBMcI1p6XVjiFs_K6ZKmO2oDUBFiG02p-LpOAVe1hoO70SPGlPU6YU80QLVwbQ_7yDpIUL0T3jWeLqiznEdTwBjO3VQATAs3QNGdT851PKhQLSmuWpBzsSm2zILO8prS8bOuzXk2h42pcBnGxglrPgl-HVTgJ_kuru8w2_4rOSjToCcJuVGoHpTma_mkdEnrm91Gs-LWP4pVZ6s7eSd4ks2gclwpYRW3odPDPjsz0tRs5INVMScxhBDx7bFLFH5dxZv2vL1RA7_HyVMMGmlxXOYY7MW_zCskMrwYgO9t01DoRrdRYBOxLFHhH3xmwsURQLIqfdDuUqYihE-IEb2UiRXgVrndvgAjACvzIIaiQkDRY42ir04hkIr1tqLIRLIGs3ISUyl-aXvwK0cvwmh5KeCeWSzuFgTb6R0u0g7ahEZrb2A5Rge9VBGhfhsbut86_LjmxAYyJgbl7Q-jxKlbh9UA_m4nhcz7lWCt5pCLTwcdPZk4WWa2ItZDChBBbkvfqsnfBbmi9tKYgdQRZcVCvfIHXMBAfhCF4fGqojFvQj4OlckaCKm-tzrxPvy9Gp9rgeq6An9KJ5AroVaCMTF85FGMtSdfYkAer_rJb_OgkPfborBTKdIEkYko_lw4gp2fHHVRb2tcFQU3dxrnnG0aua8i5kCwnPPxFn-cati35C5bEpl4Ud_QYHH91NAwYBiIOCgzs-ClDjbgytO-9n4w.%26ch%3DAQEAEAABABRL9Rjd1J3iGAGyVtIz4-xN3PiOVRUCgMw.%26v%3D3%26pg%3DRCZSAH4Q7BBHRBG75JH3TEWOVU
+.netflix.com	TRUE	/	FALSE	1813527491	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+20+2026+23%3A38%3A11+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=39e445c3-4488-42de-ae38-3b529f831707&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777158325201&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1813527491	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ98yvjYzo0TA3_XF1ModPsGQ7rjmq_xtk.%26dt%3D1781991492638

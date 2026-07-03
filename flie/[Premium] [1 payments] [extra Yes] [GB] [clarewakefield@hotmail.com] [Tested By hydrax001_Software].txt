@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: GB
+– Plan: Premium
+– Payment: PAYPAL
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Extra Member: Yes
+– Profiles: Clare Wakefield
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803463585	nfvdid	BQFmAAEBEHrezy3kImYTo9r60Ia5cW9ginh6UHP4LtRo4vq8o39u-OandwhDFaB1V_u_mDujZ9qtqIRT7ABzPw_9tijP_oom1k2v1RL0p3Pa3_arxrPaAUxXXv4WkMk8sAhWGvbvqCFinrwhTu2jBcb2VwdqMGdE
+.netflix.com	TRUE	/	FALSE	1810108036	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+08%3A47%3A16+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=324b1e2d-a137-45ab-abeb-7ffaef44d8a8&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&crTime=1771927594761&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810720157	NetflixId	ct%3DBgjHlOvcAxK2A9io6P8OjBLUBVCM0zY4Lbd3xGdTtrKYUUVSoVcTz7T_Ps0sQQtLzj-Tsf6SXNqS8MKxlKJtBwyWyW9jqVloFEvmyt8hAx5duUtLJ7kyF4_1HiRdFI5y1PFVkH6fhEPboT2ZeNmsHiKBOhnfGLr88tmO8JlcOJctL48eC1PrEH57oO8nJiVcraRi0zBCYgAx4Xl8oBL4segYbyR7Fs8-VGbDglkA-WAk13CXRwA13cBM_tN4PlaQRPhVr4LxaOaR9wrpGJ4CLICU-8mvXhFGE0HY-QAVwY1z-bmtiEFA4MvLWvQLV9UcaVyjSzTpjTPVt5YZKMhWexvBMo-7O8x2W6M4vPYNp44Fv7LZ91fNsozU13K6b5XNlUeUsl4CvOKwHS2Vrf8DgtuKhyNGeUXrAsd6rzSmH5nudp2Pozw81wWdyKDeSxFwHFqFpAaxpt_BoC7WJyjXEa4eIA8vY5VJ8FnRZrbWsU3u63Gv9JVO5VaU0n34CQzlidisqj1hrdCVma0vYoeSDZA3RLASNaoPRxES_i5p_PZKNwQTx_oGGrIuxje3lz7wfq7yRFSR38N8B4_RG2jrHRgGIg4KDCPuLSP1rcANaVqJ8w..%26ch%3DAQEAEAABABTpmjkzHeIMmHQvGxrokx85AE-LQ-6ywwc.%26v%3D3%26pg%3DH4CSCST4NJGSHDNVQ6IXJ5XOFI
+.netflix.com	TRUE	/	TRUE	1810720157	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHjHbSoRORVkiB-zQsu05oiQ-vMBLV1-g.%26dt%3D1779184157739

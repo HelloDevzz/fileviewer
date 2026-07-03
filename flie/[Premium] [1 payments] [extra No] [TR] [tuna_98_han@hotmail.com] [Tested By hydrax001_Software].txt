@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: TR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Extra Member: No
+– Profiles: Tunahan
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795007619	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA4xU513AHGyx6lJgy5diQMBYXtnVm8AKn2vdR7Fbj6Y6-6Blz-TYCvGWTIptkPDbPQq1hRXHvIW6a-de7V4DUPQh32a5wwwVvEXOLtKtyLtStsslDBfLpombH_KuqyC-FXTUneyZABLtijRhYi80p6E2dr4tAbhNK9YfTg7aexspPKYIx2EiG38y2yvt5VegWIXooIjnNMUx4SMvYjoP6TvEUC_qyEaFDgfPkJHmN4FyYZxUWb1dXxQiUlf6gT1sum30ZsnM4KeK9opud1zKT_2fDYW5xFVYGoF_FIyvxUuS02pqObcfCCMtEhsL0il-HYz6PcBIjjHoQ129Y4YkPd4JpkPQuzhH2Yh6NF0PLbYuN1Y1kncozMF8gbJ4R67s-NXJVW-67g5yEMkkg-08-51tyA97LQPnqm-hUUt40Xp_G5eDNDdn9xytmW2h-mA0l_kWWQrGmdM_7pgBSU0ztiSHqRdp-22tnXITMG_z_fxu5JrIr_y5PlzuoZi7G3i8bGn6VOopTyv2tcwYBiIOCgyM6vRDTp-co50V8Nc.%26pg%3DEML5L4ATLNG4VKSGIIC2XZDL6M%26ch%3DAQEAEAABABTXblyzvJlzfK9q2UwPEr8cnm4hScD0NQU.
+.netflix.com	TRUE	/	FALSE	1795007622	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+18+2025+16%3A13%3A42+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e14fbe69-f49e-42eb-b489-6c3647b2f551&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795007619	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQg9szHt7yrhHmFaWPViRCEvZK4Z_DVa2Y.%26dt%3D1763471618603
+.netflix.com	TRUE	/	FALSE	1795007619	nfvdid	BQFmAAEBEEju7UEPHZG4Ico4HAn4TqVgLHq2hIoVdxGbuLuhRjJEjyQw0mZFqQ3j6cQOtgtBkv28xAVycTu42skTGW0lkWVu_4qbp8lTiC2rhtsgwiQvXjBMlxYun1126njL0lEGELmTgElvsvhvb-bsJTvGSb6O

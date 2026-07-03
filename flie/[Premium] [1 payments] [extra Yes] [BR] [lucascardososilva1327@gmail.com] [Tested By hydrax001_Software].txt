@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59,90
+– Extra Member: Yes
+– Profiles: Lucas Cardoso
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789671611	nfvdid	BQFmAAEBELWKDOZY2hX1kbuNueV9vxxg5c4PqJWQ3SLo6iBJTtZ8KFkEKToLI6pTpvv0ykJIV6oyACO3TPapsNm8LS_J6A18vzqBsi1Kq8Vv-aJhJ5p8Fhz7KK3OzvkX6q0Z9eYzYElebBt_gSiovjiQF4PzUGOE
+.netflix.com	TRUE	/	FALSE	1796669383	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+15%3A49%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76b616d0-8c29-4f2f-a1c4-5a41d975bc48&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796669381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSi7zE0EYxxFsAvCubFIL-IhZv9tw1NnsE.%26dt%3D1765133381472
+.netflix.com	TRUE	/	TRUE	1796669381	NetflixId	ct%3DBgjHlOvcAxLzA3CEa44R3pNP-znZjOQVsLDWzZG7QeAR-SPXHbghTu1QmeaGCG5l01E7ztWk6VXKT-mgxo_IaAgLWfOvL84qxRLK_XLopV6DGskU736WR__Jm3XTg5PfN2tY3mWwNhLAcK8levcWHnhQLNL3t36cA71vF3gzZWmfp-6CuR9U0GYLUZ2lDGzGBRjMCzy04PwrHctXPH2dZz8A95Oa0nLKRzbxLZMMVRyTygcq9osONzo-v4Fp9Bf0V-rX9M_YYDyVeDuOCsqAu_MSIWMwEyzZt6Q5Es6HWz30tDM2kzdfxA8JMLG0830vhwgL35WHhbDQZQQpYzJ0btqVA9bRBbLTuCAmukXdH8tfIWY8e18Bc-f4DHF9uHPPOubz_3Tm56cT4ixYZXl0tdI3_g2wm5XNi02cxnZiNAvfHvQDs1RFcmsOqSw54vlvni3B1ynYFsCFNXUwrmaUgI93Pm-t14G7Hc_41fVbLcxzs0APdX91UrV9T9QF4UGH5eT9y5Dw5HgFmEmAwEHcHmGLcHZCaTsOc-5YN7FkT-fIOLDi3aAUwkgGRTukmUbr9n-vvkADHZ6pkawtjcJ2t3zVPuoqwdXW2VU0o2AQeQV_QWgk5kUZC431XRq1sD2e37D56PCLdjZV_OfW3ApoObgqSPJDPsCyrlulLhwYBiIOCgzub3M2maZAtgxfwVk.%26ch%3DAQEAEAABABS8_xJJzjeZuu22G3-oO8cZEwV80_xC5Kg.%26v%3D3%26pg%3DXX2FF47IQJF7DG2ADI3Q2JHJ6Y

@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: FR
+– Plan: Premium
+– Payment: PAYPAL
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Extra Member: Yes
+– Profiles: Pigeonfou
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	2707754805	nfvdid	BQFmAAEBEBo_6rqengQ6Thm40wlcmO9gPRwgAS1Ne6uSm94ITTtxbhPr3gThT2rGpaSldjbqrD8-Kq3iFLfMLoY6H_kQ1HhKgqAu-_i4_imLNp4SwS4gTjVsTPQWkNH-7NlHGpZZ3gWAdypcNt5xRuBNu-fwjVeV
+.netflix.com	TRUE	/	FALSE	2187249976	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+23%3A02%3A27+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=04da4032-2da7-4117-bb58-87fcf6d8e5d3&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3B&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	4157451377	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4IpcywZab5cXO5drBQr5zmUPHWu2sj94.%26dt%3D1772212748728
+.netflix.com	TRUE	/	TRUE	4157451379	NetflixId	ct%3DBgjHlOvcAxLsA87M_6OEjHTfOe5daJRJj04COD_u92vKTKIYvHuywXVS-4zljxJLMxKwEkX97KNsXfs8g3csvu2C7fC2KK8W_wBGtJ9wkapumhDyMdYUqTTxlWZFIuZgU-lSkf1YO2BPuS9J68qYPZ8qtvVc7hCiiVhW7ZEmqJR_JO-qnI0ATomW8QzAdi47zmK-k5fRaQA1e1MmsRn6_wM8gv_KiV_wHR7-2K57-CbDtTPeYZlCW69ZxtKxqBkVo5WZq2W-GCDnjzgQE3MNhbo75n-WlT4DH3Polslkmn0PVTR7ViQGbAIyi5LqYrhsEnSH-3ZRsqAH0WCpW-t9IdgzSb9mbGuDMvMnshZiHwbygE62rLRnkMw2FDnIMVRu03vb1fkeBxnjBxRRA6H7PRCoUqf-O3YDORgnfIoAM417KPZYjBV4y-_OJi0970VyGsnO8tRjNvVff4S_oVH7uX-W8_hZOZDnzAALRA9wuI8Bkeg0oxCsJTFcpWqV7opH_OJ-RyUWOwn1ucdLm4s_NOr2Cy3gSYHqnFC864d3loZ_gmLGG780NwCPYeV2esqZx4YgJabbaZ3JsyFa-yhgwPydYIE_icp9S4JkqUqG4psl5WwasOVUaE57JRGdLsW0crZWktj_Sms_K5EVM21FXwNQp4eN5hgGIg4KDKaVm5E07V9_EGP3aQ..%26ch%3DAQEAEAABABQnXleyDyt1eU3-F_4ZuhX1qLHx3duOY4A.%26v%3D3%26pg%3DUFNFPZQQIFCVZLMEGK7HLEDF4I

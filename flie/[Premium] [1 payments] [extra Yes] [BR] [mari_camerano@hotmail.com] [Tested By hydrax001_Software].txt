@@ -1,0 +1,18 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: NET_BILLED
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Extra Member: Yes
+– Profiles: A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804727306	NetflixId	ct%3DBgjHlOvcAxKNBHYTPtMDnpjY3kkfnYJPrplwTQauwmZ2L69PM75qXy8QCzAzs8ylsOq3GEWziLfqNM-ZQNF8Gl5Mry85X5vb2JUiuCluLzn2R3WwRcwGk0I-O2ZwpUWDIw9Qx2ctOY3DIEhte6s5HamJiW91U6xgEocs3CcgQHNa3gIrxELG3IwfttqfYbxKykWBxBfn1SUWUENLF7YssB2MedKa8jTnvmsLJlWYpQAK4beQ0gvqoOFD2PAuttXKcbulcYagZ3tQJ8DZRCwp6_ify8jGmst-by-WZGp-FUJRvHz9teaOfi9TdZDn47viabGoLZ0E16IoN_tgr2X_NE7YXYapFPHJfEoFZyksi-YewYpmwv5JRpW-ZsmXln4qyqOrIlHRil9aT4t-UWQWXh78Oks8wYT9b-hDnIXlaz2fA-D9pToWjh7NF9GhYi50dFo76AsMKSc_Yq9lonObIKGcsNmCtL536ps4w2dWbDBUdFH5Yblo79zGZXOudQklZ-6SrtfCxx4OVOjsb0P7ylFgx3CDxGvelMl11_bg95zh-rtNFHZzG8C1Zbq2S6t8LkahA-8ZC7BPvEdy8XRKBEx3fvyjxtGXxtFbYIA7rtMO2yMPB9BtSpBkbjSqAXfAgArMEEevqU4CNbeONLwzixNgYSlMOMFnTmUwXhrKjQ8bAIpwaSbLCZ2VFjw5IwN48Kw9Yz5AdBgGIg4KDJKTrsyd553ORhcv3w..%26ch%3DAQEAEAABABRhwh0xUlc07ZCLtFoE_YqMlgZzIBr0fJ8.%26v%3D3%26pg%3DBEAGFKA6FJGAPBJM37S33KUSCU
+.netflix.com	TRUE	/	TRUE	1804727306	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTewkUAbNmrMrcXVzC2peYZnaF4p9ceNc0.%26dt%3D1773191305152

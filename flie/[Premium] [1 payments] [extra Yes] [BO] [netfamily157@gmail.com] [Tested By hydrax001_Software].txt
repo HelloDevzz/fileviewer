@@ -1,0 +1,19 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BO
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: $7.99
+– Extra Member: Yes
+– Profiles: 1 vi
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802492619	nfvdid	BQFmAAEBEJDDVZs1rGSFBB-EszRuChFgcEGWAbqVb29AM0DQSg5NUu6GTI_0xegb63rVI05piQylygVcgjhYvTg8nhPtjkbfom97pOIKeiweJU4vmPPnY3z_aaQVkZuUMVjTF-BFQost95zWnx_baM9P6f8OiAN6
+.netflix.com	TRUE	/	TRUE	1802665698	NetflixId	ct%3DBgjHlOvcAxLmA9QFtTrtFKsWNas6KGekLY4qaxlBKzdABQsP57gLKAcyuCVi-bKrE-JDQydCdJTl_Sn8BvPKA-DDv6zXa8VGmR5X-H6QvP289ShRNa6kbuWo8_DIaWIjZzQwy-tuIjKGVcdtF5ImYQozejxQZJq8NaPVFAooZ-NeYcQ4rErADzKHDdWF3t-xaM3iJ1tlyebCZ007zSyeqYQzmDmjgWqpi1qN_1bq7pbC8LcyaktNdd2O6oqIpKrcl5OlDb1dPLaESvKEH-oqLQKCoHZLQde6jfwgAFmwrsG7_cMLl95BKeaOzhL3s2cotbaUV3z6D5-ryq6juba5x4VJ2pMYFyVxMtlWRzTpVeybNDNDLFzCa6mvUx0jZac-OdtUqxKppE0H2Di2w7zyyo-ceMFQU5Zm4FsF8VAzsGA0pK5L4-Fa22MIwjbme-F1G4IeylXtWgCop30jMbjk8Y_sJTBDrrGewEHlA34MwyqI8E46_GVxxi5xl4IQswGkClgC1B7FaDJxnBiuy1_sdMLUKYvc59kGdfddZN1jTrW2DEreXKDS8Sisq3XSDlzeb3pPE9lSGQM07wGm9Q2q8NsBCG4eRMEmqYKxo-iKyw8Aw0AcM6dKcdzqqQ17LY7I0XZro7Evyi0_dxP8IrjmdhgGIg4KDFXVx9dql-JgBc6Kaw..%26ch%3DAQEAEAABABRMbS6fJoFIQL8hH4_M68dPbIfbJjjaABY.%26v%3D3%26pg%3D7OJY4ISWCRDI3ODPOAKCRA3Z5Q
+.netflix.com	TRUE	/	FALSE	1811808479	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+17%3A07%3A59+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53d635d6-1b77-4ca5-b235-5d99eccaa079&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

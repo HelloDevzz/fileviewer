@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: GB
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Extra Member: Yes
+– Profiles: H4RSH
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799185323	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AtTVbVx6IRkEKSj9qPrMRgF_X0fbEYi6EHCiFPfmSaZ0BmbrvHM3ArCS5ZhaV04ljsgrhs0tNb_k5yAUtFsY-KozpGzzDQQ-a746DYXuk2AGtIzXCeol914JwOLGXCh2N5TXaSD1jZlFfTEc1NeXDpuyFmL4QcyY83QRxwKFcqrwIryo5uOYJ-BlDvFaVZ470bsm0tsjXVUIc7T42ihkeQsWcMrlyd4-ArUSHxLKe1zNLjmK7i1ojgsHI0gDYbH0iguFIG-P8d8xx4btSJRT7XMIbKgUf405RUU3RrwmIc7Ily3CHGc8MFPTor9gB6YvFpICfsJC7Zr57_Ulpb2HZnwhK4f5GIE3dWOI3ePwPDVZt3yfRdc1JyLzGvQhsEjhJHOAJwbqPw_Wn360fcEskjmMnLrsz2kjenUoLwZXN1SzeFNU6lPNhh1wp9UlwQe95rQrJDL-ooaipypc1ZrDyEhGeEEqGgQkIjSCtw0wqCcA-iPEbKTxdED_GAYiDgoMIUrvprsdCZEbNEce%26pg%3DJ6XUQ2CWPRECFMZ45WTFQFL6WE%26ch%3DAQEAEAABABSBft0PsJJDLGOF7v4zfEJ_HWHWP2v-_qU.
+.netflix.com	TRUE	/	TRUE	1799185323	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4b9-sl5vvTPYNeFO1YuegJDhC3x2Y56E.%26dt%3D1767649323193
+.netflix.com	TRUE	/	FALSE	1799185319	nfvdid	BQFmAAEBEFXWKayUbpium14b6Ka8gDJg8tvHBc6kThruzD72NI0IkU2syRezx1gJo5fm0i4fUJKUT_BHpxaeLVtWV2bACE-08vToZGZ4oPVmIJz5aJDOxuKDowdyRPs9heAjz5aPW0ZAHKhxFMcd-3fiC4V3cI3k
+.netflix.com	TRUE	/	FALSE	1799185829	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+21%3A50%3A29+GMT%2B0000+(Coordinated+Universal+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26835422-76c1-4029-8650-dc09dbd91217&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false

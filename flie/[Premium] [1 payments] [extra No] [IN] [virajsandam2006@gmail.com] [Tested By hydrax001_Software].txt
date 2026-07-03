@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Payment: UPI
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Extra Member: No
+– Profiles: virajsandam2006
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788714779	nfvdid	BQFmAAEBEFtgwWKPHrI0zbME5zuSPPVgF4obd9T7Z5W6roawSD9cA0dyCtR3k8LuPSrbHVQi9A-jrFeL_G0lx87DO0982iKzrLqRky_n080sywEkzbGMjBBJY2nuXN6-b79ba3_TxZDOeoxyXsPHENYAt3RsQ7Zu
+.netflix.com	TRUE	/	TRUE	1808593188	NetflixId	ct%3DBgjHlOvcAxKABCm-QxCUf1qfod9UiFPW9aV9w5SkT-tJ9cOCVuW8sGL4Qgteqbdg73OhdTkqLF2Cdx0iOnf9y41NipAOuV4Am98JysY0QFo7K454iWjoqnQWlyjNV03a2e8zoH5rLwsGb0-MAPQbSBKcCRRYPVi1FJv6ay9jSUbFct1T8gUhWKf7CdNAGDcDeu6Y1ULCNElzEG05ib0gIp0nZel2hcZ2fCRT6r83sWOi-4mtMSH_IB3jutY9rcgy5IL2U2KsZOo72jE1y0waPvCCJIbXsuyRX59pq_n_UNUf2ND7DfFHF52G2Q65s0YS4HMENow_8J4WoymwFZJd5e1nIs-g6sR2CHaEI9w6aRu1kQ0c0tH9H-c3PNEld8vSI-hM7Im7d16WZSQYlwmGmzgNg2rwpGdMDo8VpavabzieACb4adp0tPmLAi9gTkkEmn6vPjEFYomrjSyJ6IztncWOCzqgekcJ7kQadzqNL_razvLvo23E5OlR0Kq2RzQISxQHqin-GwAhxQtpLsjbTzbjaFeU85oZueq8icRXlJVReyTNZ7F9Uwacg2RPRMAb_XUyhs4QfQ_hKboyTvboJqqVrRvXzPFeMpwnfoHdp2f6e3IVfhHSvaoHxtBmDcPh0g_rlhT-5A5Cuhx4vRaLYpZO6TAFjYh0isBJUdF_hZ3N8jNGpPkc-l1bGAYiDgoMpWHRJi5nJPbPUrhk%26ch%3DAQEAEAABABT145xKJcERJe_xrnHUSUV6Kob4z2sp2NE.%26v%3D3%26pg%3DCR5N65WS2JG2BEPLHS2CNNDAIA
+.netflix.com	TRUE	/	TRUE	1808593188	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzLYaB4XKH8EsNVjpi_pAVIbFy1_CEAH0.%26dt%3D1777057195768
+.netflix.com	TRUE	/	FALSE	1808593193	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+00%3A29%3A53+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af49b471-ef0d-4d3c-a0b6-fe69d0974a6f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: JM
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Extra Member: No
+– Profiles: Adann
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792787139	nfvdid	BQFmAAEBEO3e4dtcHC46dLQfvnwZ2cxgTjdxxafLDqbyc9IQ-QHNQgK5rzwQGoA-87rA7DPK64w-UIV3rnZLOrUUUReIvAGYWcGLab2W8jjCkdoRv7LeToaFD07kVtfshI8R-xzvVcCdRZoAMg7rZmxdk4OkkJez
+.netflix.com	TRUE	/	TRUE	1809011469	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA9vlwuAIrR1Pf4nvEkEsP8aXdxHfIL4VjYAPyqK8zynN7GwKAdcLlt_jajl6pL-LTerH7EuHRfpNEqT90ud_IIRMhykhEP0cjzxQ2pAiWt_mxZyZ4MUIeVrk3rVFtyWrcPR8iWSPab2mP9INo-Ash126aGb5h04bltjtilJC_zJKXsIlWFEIqt4q_rMN1i4dFCFh48a5A_kbkfGJDGNJ6O5Ewc6S_2G-vxqUVrIg8VN7e2ZUI-yBd2pa0MmRQW9jtMeCPajBbMQsHXnWTkHMmJER5o7pCeXkchLhU5hoSggKl0KJWttqqVnh-keajDpzWj9rPbzoUFzN7h-N3l8gJTi3hvx4FfYeFuILaydwhwsQix9DM0vbT8CVIfvuj9BNksFMHXQ2e_1iZ-4VkZFaePg1wq3HrWGpsIRGFQHJuCqxN-8jtRbn-jmytVDvfiPKTQdcB7ru2cBMouVfQxQxlC6RSx5rep35NydCEW8X3RZrXsQ5nhsorkhQ6OQDu1Kr2liT3TmNqPtarG0q6L46T8i4QtPm9on4rRgGIg4KDGHt4EDFy9nfrQsPPQ..%26pg%3DPM6F5EQWBZB3BNPGLOBR2I6W7Y%26ch%3DAQEAEAABABS2Dl-CNHiMkNNOiLHuxHpWh1HWdjkWric.
+.netflix.com	TRUE	/	FALSE	1809011470	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+10%3A11%3A10+GMT-0500+(Colombia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9d0ec01-7808-465f-a01d-fd4adbc8eaa5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809011469	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0t-x83Al57_Qy-WPKYrMTvJ4M919fBdU.%26dt%3D1777475468574

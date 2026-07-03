@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: FR
+– Plan: Premium
+– Payment: PAYPAL
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Extra Member: Yes
+– Profiles: Lucas
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812753906	nfvdid	BQFmAAEBEJ4l-SD89A1BWXzfTYeNRMFgkHSE6tupdKk2OWaW3H8TozLoTIK0-WMASXeFbwfh9wGEzAcrAu9XgO_IvXneYXwNvXzg0bBa7QAey8sSxiQJm6riiWhmBpI-RtjmZi61uyG6f0gDd6p8HlNVyWrArORS
+.netflix.com	TRUE	/	TRUE	1813842462	NetflixId	ct%3DBgjHlOvcAxKvA4PufDC31a_VjEf5hfiL9dGLgMvufmY3aNIsCOED0aBqzr1hvogfz-myamsyRAuO90Se8EvQ91GtvWK50W3vQ5CQ0ECfCRQQMSwMzn44slkGynPp-xnBEtDnEMGkAUf8HfcCJAk4FmAPyH0w458y5jmRxEhEjI_hTYG0fV89xgh05emgWTjo-X7pJnI1ElJ_jXLrtTq_6jFTUsIf7XsRRDaRT06QKrN22cUqLcT3zaTJXNqG1Rur6iZXq285X__9H0PA-ng6E9qLAsBjkIRcdbc7r5hFlsEYmVW1vxtX5Hp4SWBZHnBNPP7SxXLPQcz01CFKSuO53kMAzTwfm2pPCXMcwqGo-Q6AEIsa0C6_IyAgHcrD2XKMpvvYqhBa1rywKfEdf02fcuy0bsQ9T53Aj5IUMD6F8lelNdHO4pl-RH377EKAVWdQBmQFPdt_MtV47zSYpa4pfhvhMNl1qzcDYJNOteqwoYSoFRXIoF3AQBf65eSOmFvf2Vv3XoYEoOJk0lgygTN_zznzeAFsnUKaM8g_XOFsiLvNuouM2ABvl82EDpjqEmO_3RV34FqqDxKCGAYiDgoMPRDiG1kBz6MDb4nv%26ch%3DAQEAEAABABTYY7dGOoHUZC5CN06Sna9psdJPjEhCOGo.%26v%3D3%26pg%3DIZR4FM4REJCBJHVY4J7AZH47XA
+.netflix.com	TRUE	/	TRUE	1813842462	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSwP2cuV_omliSNEIDgTDaVV3fvkLe3XDY.%26dt%3D1782306461558
+.netflix.com	TRUE	/	FALSE	1813879610	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+25+2026+01%3A26%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=21d8351b-de38-455d-9a2c-d0153aefef56&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1781217884379&geolocation=FR%3BCVL&AwaitingReconsent=false

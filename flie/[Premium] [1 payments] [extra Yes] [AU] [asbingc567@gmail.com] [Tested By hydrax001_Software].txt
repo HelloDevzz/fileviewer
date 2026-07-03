@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: AU
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: AU$28,99
+– Extra Member: Yes
+– Profiles: ASBIN
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795525444	nfvdid	BQFmAAEBEAI1udkY23argsyW-G9jzvpgyng80IYEmZHTi2J1nix5nKV9HYiFTCMbGq9m2OnVPjolUKJ5tuxHqPKJigRlyck3YZ1Liv21AT6kvLkv8LEFXo7_W76AssECfLY4HSo6sUWYtOwVjdheWtfg6RnZdMq3
+.netflix.com	TRUE	/	TRUE	1804103647	NetflixId	ct%3DBgjHlOvcAxLnAxhkQFQOX_7qLr3-V09WMAPkXSA9CLR2JKkK0qmaq6BF3tP27yrYnkQZ_embteRA0Wi-_ybPA-V4X_izgmzJ0XAlknPqYllJyjTgdWL7WGH_i0nRPfEn1Ft2wcuzkbkktPBXrKqsAR-Pt1Gwvp2D2qlBlSJ60yas6kanB-VE-UutEYpJLGd4-nBGR8Vry4M8lpeY5gEcSlJDoJ73moJ35pVIAvhgLlFUEJ1RlQCfGiwOengQgLgKqXzJgLk9mAf61gmUAPk2hLEwjsMivAmCm0cP9s0ibkH7wkNk7C0NlAceqeyPRobksOuPmp26fZl7W9Hkw0sfqsZ48CRyLhxavle8Pr2gNfhQj3HhcQFjYwvtUZu-cJ6Z5N8g4BwGAv0vym-xE2cK-4pnLxYXUlZ-_PFOMbw9Twmph1bxGfaki4OK3VnB2t-RziYorftQu54kCuCj-2pWWJIeTmV0jk3KYoU_SbFCUAmzAwogCQAKaQXpex2Oh_q0Vjmwz_NoWiBow_DDVuSf1UpTVMVEAoAxBZ4jnb52SdGu14XiJrWMW7YARIIZkQzQme2h97qLnBfy1YXcNNfap-DEkXDow1b8mRN8e9B9YnKm7ElgMZ_VEENmBfL_WVPYI7AEhnF5io9XEXaFYqzajQMYBiIOCgyLY6Mh-eB46JE5y8E.%26ch%3DAQEAEAABABTfkLAuzQEAUueLIEdOMHSlYi6l0KVgwng.%26v%3D3%26pg%3DHCE3HSC4QBBXJFOR5X7RUX7ZWA
+.netflix.com	TRUE	/	TRUE	1804103647	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS18U4tHw7sdkjFWsCX5ePns1PKxEkaTo0.%26dt%3D1772567648553
+.netflix.com	TRUE	/	FALSE	1804103683	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+19%3A54%3A43+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=335c6b18-6659-499f-b1fd-b1c5b88b9b00&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B15

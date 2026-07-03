@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Payment: UPI
+– Quality: UHD
+– Streams: 4
+– Price: 649 INR
+– Extra Member: No
+– Profiles: P2
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794672307	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA3GKOqyIaO3BoegTaE3lw-GjgVWX_Wpn5r3pVzao_PGvrAZr2m4cBeZfHn-jRUtJMGHkglk8CbTpI9w78pQIRD1RSYQegm8QClAkYySLOQb0RyHl_OztNbVHj0ghL214AW0e0W4aztFWGmvGKjbAqEUqmDwe0UyKHYOZMAGGzDCzVF9Ejl6LClZOpModlhscq07W3rdycgqPrXelxR52cRuDTIf5_Y8LVG3hJsdwzjsHlzpSOQj-_LG4D04X64oFjKCyb88L3NsWZN18AO7YhXfd8_AgG3H9OSneaATCV0xheoud3dxhnZP1Yub8c1YUGtIu0aTNIlYldQpRDCCMyNa1Eo_oZSucB5hwdzXlRpLeaY6oiq3qqha_YYTd0J3ivXtLSgC8PJhsl0f6kURdG9bhq4AfdVPXOc0OzyiJohdeyieBc5RRwIF7pC0CJFrmM7oKZC6GrZ4Ew2yb-nUAJbFMWVOtYMjAUNkJ2BNN3_CJn4XotGaMLDvqbeG5JBvRKqkHXoixUHz_wHUYBiIOCgzginIm8sjDX9vetA8.%26pg%3DA3EQJ5XILVEAHDV4YY7VA4WEF4%26ch%3DAQEAEAABABSiBAJKOyomYPr9FuZgjO-vEDly1IWmXR0.
+.netflix.com	TRUE	/	TRUE	1794672307	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvpu_frtHnXjok9IQ0MWnXKCsBgjXr3x0.%26dt%3D1763136307260
+.netflix.com	TRUE	/	FALSE	1794672307	nfvdid	BQFmAAEBEJR7-8u-I0mNQcBw8h9DSm1gWsQaSmzcgf_WB8znLlv4mWlFVK5hfrVBLalQ0Nb1fxcXpZHGRMDSvVl7SmRCqeUV9EJo0tJCEtP5CH-Lch4cCIJvRC2992XepTfPRW7BZFIVxuWUwNNjd0pYuDlO4MTu
+.netflix.com	TRUE	/	FALSE	1794674089	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+14+2025+22%3A04%3A49+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d76a9c7-5d38-4942-bcc7-6ff2b528738a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

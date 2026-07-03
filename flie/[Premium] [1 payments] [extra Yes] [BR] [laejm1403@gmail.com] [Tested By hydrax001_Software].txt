@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BR
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Extra Member: Yes
+– Profiles: Ligia
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800483446	nfvdid	BQFmAAEBEPEuLmfn11yz3iAnd69DAkZgoQuVLIcsOyMvkpCbnV9M9SU8LREwsCzLmJIF0ef-QVLCaNpfpQjZAz1LYkSQk8eNGZzdScoKnA7q6HN4I1HRv_H8PDuJpvAb6QUZAxJAwbRks1fFeVEMEhrAHSv6WWv8
+.netflix.com	TRUE	/	TRUE	1811202151	NetflixId	ct%3DBgjHlOvcAxKCBLLIfbLnRpSx1ux6kV4YuRR16R1gBF1Twdl2DZ2UnGGgBQozoDg-FQtZ3hpkijZglsGiLdOaLexsDx29Ix0rFmFrjAphZKQhaiDLZFIjVwOlApn5Lw9pbfjEia0KZ0FcTzuhUF0sZKQYIfc_er6JWToO-_iQ2Tbcm-xCpf46OoOKyD7x6U7I4kTPHg2mu0sBs3buHLtXjheIrOl7syzuQEnPnl9EfVQDF1dkaUiN8HxJsipH3CbS_0XkdGxNSsDQBWkqAEhsYpCvB6s2mpIwlidWiHZBVadfaVGWxPKJZV5lRc3Pt5HmCCanPcKoYUS49aKssLKA63ep838WQQ1Yy17suD4Rgro2ly5Q4jO7rQ8sdMwuw3fBZKmV6rHvp8StsYvPeOvJHjKNR-lAbg8IF9OJxRZhXM_tSp7jM-Ukk2itgExFGTxfCZdkFs_QyO86mmyR8SGHVEP215JRrWSibyKWil8ggIDiaIgU508tsopN5FSLYAYddUHxu9ZD6GjdKNjPm0znBPYXhkYIV3Rj8_-pEZPkwtNWSTpEfoI3vzdknn4-WaHQ4Tiny9IMkvr-vQVwXuF6h8BHC2xntprbN6InfBTCcnjjIffxfrsRxJsnIiBsMbMd9llIPc6yAXDVsS92XaklplWtGeJc3X3rJ203gZOy30fNVNCJm5CGpp_yq0UYBiIOCgwIQ1RyJSFsZoG3HB4.%26ch%3DAQEAEAABABQbxcomaBnANtwRCptNIyUh-hH8tx5nEgg.%26v%3D3%26pg%3DXCZ6FBLIJRHHFOYJ7GXPASR7GA
+.netflix.com	TRUE	/	TRUE	1811202151	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQEUB4xYX_4SF23_FoRhG8SolhwwhOE_o.%26dt%3D1779666193134
+.netflix.com	TRUE	/	FALSE	1811202152	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+20%3A42%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5d4eb59-f7dd-45c6-b67a-0166b8cdf357&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR&prevHadToken=0&isDntEnabled=0

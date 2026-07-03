@@ -1,0 +1,20 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: CL
+– Plan: Premium
+– Payment: CC
+– Quality: UHD
+– Streams: 4
+– Price: CLP 12.990
+– Extra Member: Yes
+– Profiles: Aniisita
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806326551	nfvdid	BQFmAAEBEO0fB6qSENKBqar062psaIRghIrI9ONOJFX63pqtqWsMtxQKsYMcsCSnxfN99TPUXA_8QSs6lE71AAuE14z4mvhoMpi1OJ8V0kQ2PIKATsmBlQa1ZHsxB8P3RN_4jVFi5pynd1O8LM_jLrwqH9QA_3wu
+.netflix.com	TRUE	/	FALSE	1806349993	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+16%3A53%3A13+GMT-0300+(hora+de+verano+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06c40719-3ac2-431f-a287-8d0ca423422f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1774790404324&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810751312	NetflixId	ct%3DBgjHlOvcAxK3A0ymeebY_Bf4C61jdlXlwrHwS605GVikba7T-29LtXRTP4MoCw937mscu2LHZp9_Nt9UN1HQGgW_i1FcU5Dd_HoliOfU1Q9JbIrxS_ipziW4mPpInU6V8iXi7Nm-HapQJlRKdafYlo4swekYicjeh5qELiAyaxl8b6ZcveyXm35QCdJ9uMN8GVMxLNwiAlA2sBt-iis1JNs1tfoPGe2kRblSI_pE3juiIGoBRsn0lyplnyTl40cXfPMyr_25t9Tf3pZq5bh_l_DRXasNpXURAKWeCCkooMF1i8W2TWj9oKHtIYiMGEKK0aoWN0Q2f6RWCb6gR8dSJv9PbnhsxaxjWVLyPy--7213lH8AJn6T_zJVJohIRhzzqfZLkF2LOQTdzc9joDBSz_XHdV_JvHN4QtuCzwcQ9GUUqPjdBmLDa9Xj0NR-wsBuY1Vh64CJ45zxTUrc7Z4TmWYVNguhHu_LYyzsnUf2Xz9SxhkaIWiRcZ8SuSzhREmyLS4YIyEcghrIbAbOgSau5tjGxJ09LU9b7nbxAR5XoTHFzwVCQrjNpbK5pLFo_9FBkNvpMIEEBWdh1LPdYj8rBo4YBiIOCgzDdgyKiiTyadyFqQo.%26ch%3DAQEAEAABABSG6hDsUmorCzrUwfY7_fn8mLaiI-hIme4.%26v%3D3%26pg%3DNOP7YN3FBZHW3G7BJRQJCXI4DY
+.netflix.com	TRUE	/	TRUE	1810751312	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhPQEXhPxuZOINqmaO8J2yIcJ3v66SQeI.%26dt%3D1779215302720
