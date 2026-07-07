@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: VN
 – Plan: Premium
-– Payment: MOBILE_WALLET
-– Quality: UHD
 – Streams: 4
-– Price: 273.000 ₫
-– Extra Member: No
-– Profiles: Đỗ Hoàng Nam
+– Price: 273,000 ₫
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

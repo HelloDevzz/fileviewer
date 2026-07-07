@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: PK
 – Plan: Premium
-– Payment: CC
-– Quality: UHD
 – Streams: 4
 – Price: Rs 1,100
-– Extra Member: No
-– Profiles: Hassan
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

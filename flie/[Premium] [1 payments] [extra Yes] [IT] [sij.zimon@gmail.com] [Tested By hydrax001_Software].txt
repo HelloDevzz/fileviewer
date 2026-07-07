@@ -1,0 +1,14 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IT
+– Plan: Premium
+– Streams: 4
+– Price: EUR 19.99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800380158	NetflixId	ct%3DBgjHlOvcAxK5A_zO7ikRaTWNJK39IkRypaAOjlc_d8HdfjMh-oHdlTI6mfhU_a19I0InrJggguP0kQygd_Fr1NfHy96UKfckV11pOoIzFQMXZjOo2X2InwAAcEW2q3MvM9XwU0WaghfMoj5TH7l1Ofne8TTUtLHvEiFzHmPnKW-ky9jfR7TxR-aFnpYnUOD3ZFu2SnET03IwFWB_ezG8oRxBwXLAFt8mPGI9LVLXsvvezEuCELZF4CZJ6of9pSnsO1dAizYB4ywPhcrlAB8Wd17tHj2vNRw4qkZjEOz4g8IAnAIthL7OSmmhvrDTjWsrJt12aEzK2qBp8OTGxrKGHV2xefDpq4kgFXc699h9wtiYknFoxK2-ktA8OvXwtk2oOe-Hxp1m2syZqWeohC_9a65q3SFQ_rpuCMRoZZT-Y0kesez_4fhNFRgPe5es1GVs08yL_y2I0y1ZSBFe_7wuZSGA9chpkVJ6sLACtVfmFpFhoPtYdcAlrkiCCIMuiPG3v4uEi2aHk-sBNEJaOX_5zb7RBrmEDKIz8L08rcZhT8NoIW_D2_VIAthef_M2RMCSVsofdzMuWlpggqr-ouorHV8hzxgGIg4KDLfBvqiAw3GAjCEU4A..%26ch%3DAQEAEAABABTuUCtw6yOEr4NtraZs5pAAySr4CyfPEjM.%26v%3D3%26pg%3D4QFKLWWNR5ACLMR25VS35PPIAU
+.netflix.com	TRUE	/	TRUE	1800380158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSiVplFnlVozgzT1QKj70jIci5BPRj_TA.%26dt%3D1768844094370

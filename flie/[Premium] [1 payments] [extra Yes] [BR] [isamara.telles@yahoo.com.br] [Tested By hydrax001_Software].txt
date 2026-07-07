@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: BR
 – Plan: Premium
-– Payment: CC
-– Quality: UHD
 – Streams: 4
-– Price: R$59.90
-– Extra Member: Yes
-– Profiles: Patricia
+– Price: BRL 59.90
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

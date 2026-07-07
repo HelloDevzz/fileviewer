@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: US
+– Plan: Premium
+– Streams: 4
+– Price: US$26,99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806932592	nfvdid	BQFmAAEBEKQsJawRZBwkAyaMsYcGynhg7qtkXG2dGoLJiWVOQmiymWg1bBKT5IfgdlJmoAx5qGqbsiUGnkm_1fOWCIhhxnIA352vT-Ehd-QJCWOd_uGVswsp6eBOeHfsRzDg6J1keLYm1YYBqLOeQ8ys_5r9dZSG
+.netflix.com	TRUE	/	TRUE	1808138462	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgfHbe7ljSKDvvY8_VTekdE4cYD2zDVZE.%26dt%3D1776602461447
+.netflix.com	TRUE	/	TRUE	1808138462	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA-p4SQ321EX1h8-lt7i9w4CaN0fIkUHt10VgNLrB8Pqt5NhFYsLmJpkp7cMUcakW_SN-lm7MeBkfLzaX2MlaYN1HUG1QkGEuMfkCOoAYMuCtjbyfe7Gu7xBRpQz8Zg34BNzwpBJuV6Dvcs9dyv1pFPcTb-rlvoDMM47aLQwKZSUMnt2JhND3avJSq6esZoUaXw0pwL4Q16vN1qcZjL4c16AA3W9FqOvVWWOySOyA9x0tTcBUTIO6880Yff75guTzFocNk3WpNZLlswT9IF9JYbWMxDpC_MuNgsMrGQmtg6JDPFZODY6w68NMG3--5hyrU6sW9La2-Xze1fl3Xn_W8udXVsSsPeiox-Q0ov39bxGihZ8AOPWlcnwODWFfUaPEC_kDfrI24yRTkFkUdct33Pu7KL0fKYakW--uHFLYbQxsO_BJ_kKtl8arropwwnSfZ4uoq2SiniC307Mlw6TDLoskBtG_ijdAjXCJHgUGz9r99lgzSVzXeSqQvLGxq8UA-V5S8jTISK9TK0Re9qa3zRgGIg4KDEP2PD4--EH6aKCwXg..%26pg%3DMCMEBJZQERHQDFY6PLIXG74GRA%26ch%3DAQEAEAABABQTn1vLocjxfBAGU2I9QH_Ggq4KJLQJbSk.
+.netflix.com	TRUE	/	FALSE	1808138716	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+19%3A45%3A16+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe9590ad-bedf-44c1-8916-f3b0f4d420c0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775395757277&AwaitingReconsent=false

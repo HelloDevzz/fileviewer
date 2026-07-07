@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: PL
+– Plan: Premium
+– Streams: 4
+– Price: 75 zł
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793633521	nfvdid	BQFmAAEBEC-iVItbz6DtNXRTIldwT_1gm1Evm4ikXL2_vKuUu1pd6l-5LartzmoSqZZEbMZZmNnVuR0dvJm7kf_cq2gyLWIFZS4hdQ6p55zwRzHixICSM0Kq2Y3M-JobX6NwELb3zCCDfu2osXCUCtXtpO1KzHsL
+.netflix.com	TRUE	/	FALSE	1798838513	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+22%3A21%3A53+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=0fbc77ea-aea0-414e-a58c-789916b395e7&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=PL%3B12&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1798871565	NetflixId	ct%3DBgjHlOvcAxLaA-8JwURQNoxi1gg63iCO4SsjgKGsG1PalQAND1R7TjWJcj84FDrYJwoxbFUAlF3Av9LIlIQ9ELgsjVxIXIk9WqSlO325bnVTWBwNZ8HXPgACpd5TwC913JJqk9J2KRle6Ue_vgg8mdppjACMqVJUm-99b7CNLIJze_3c1djnx3kL4tBa05HgV1B5Z_t_tB8j7ygx1rgJymQu2yjEbhf8uI80ToL9JtQ4PgmQW7mYhpbPXuAzbTOqnn3N38_2QHITfGmJ00MeqfUFLGVsCdGMlZP7XeDXZe_ROVnk_AzPl5pQ8JJzXH38Uol7ZZvd8rIYci1eo3AovaAQJZJ0QC3BE1E1diux-9UOAnnHja00NyBxpfLxswFZpuVOENCjpXtif9qm4fUXNVThrtBhOmbQ6pcXStXXNUXLufm9BxITp1DS2LGZjmAwWJ_gr7p2JsANu_vTt6fSjnDpMFqeKZBlAKJiyPqPgPJBbmfcurzk0ZllyNhPvjBIiwTtzZonNAYvd4XevKbLuuc8N17nWzpcfpuFfH2xAPENIQ4QtQJBZoTKp3I3dlaO4SUNRHQxNL6U4qU9nUOlVZOccwohC8VGBYtYBjceGYwOWfMKMxZHevLxZVZhHd5SLgCiwRgGIg4KDKhxPcuZamDqK99VPQ..%26ch%3DAQEAEAABABSgxPnP6xuQO2qZFZ4gFIFUvUaFKT84UWc.%26v%3D3%26pg%3DVEQCO744PNHXHOZGWTQGVYGOEI
+.netflix.com	TRUE	/	TRUE	1798871565	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZGg80dwll9q4y8RfQnIHzywN2-MY9upk.%26dt%3D1767335567117

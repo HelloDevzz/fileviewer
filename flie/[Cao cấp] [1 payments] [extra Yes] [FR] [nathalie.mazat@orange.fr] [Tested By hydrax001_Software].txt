@@ -1,0 +1,15 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: FR
+– Plan: Cao cấp
+– Streams: 4
+– Price: 21,99 €
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1788897395	NetflixId	ct%3DBgjHlOvcAxLOA7zYrH2OgFI6EzJUTdDcmNUBR4Lm-QfroGf1k-SK31-MuQKrvlxXtHU0jebNx3LgOEgO0ta5H34__c1wpA9Zauvup1hAUppeUGgWwxXDm_4N3EeHycWpqh0lmML9SUat8rrhYMFN96iRdLusaLhUKLZQEblptP4NtK8npcX-KK43GWkW9rCgJxVYWlaN6GzChgPeSzAJDH2IJnXX2Q4DGdep_KGt2saPR729RHmE0v5KLwBHxaYctE1bAFP1GIbLY5vJkLLruxz9xOnczn9-xyQTsIpHIbLA_PHPGXpnjzk7l2zItvMojDy1s6OvwnIswfHTa1mhGBorCOiTHa5fjlukytPJx9wT21RAXSIGnby3m5Aln-M-OhMw5jJnFiC4f_BrrXYj9ZTNUp0jcy3emn_MWm9IHlsagmy7PpnqglStuKJJ_d9Jkkd5VavxabU5k_OEj0-qcOihcDv1mmtfEkM0xC9oXWlEUfW4aX1Q4h4taZQZ8zdUW7muGAPlzVc9Thll-09RrpjcmJZIG3DZ_C4LfEWkgR9ZB5MFHseeijI6smh-s4QEvelb3OVN_QGX0p_NRetUgKFzlMXmcFRTsWMgbkxkZ2opJGuP_BoMUxgGIg4KDGjWk2JYWlaz1qKL9w..%26ch%3DAQEAEAABABSflAht0eXnPTwFNUpbFgpAVrm3tYqxFKQ.%26v%3D3%26pg%3DDTQBO7Z3QBFXTOBOVDLR4HVHJM
+.netflix.com	TRUE	/	FALSE	1788897392	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+08+2025+21%3A56%3A32+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6039ad7c-20a9-43f9-9c74-68fa7b646a05&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788897395	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMvpewctFCHoQ24PblA5OisOrES9fNQlU.%26dt%3D1757361396821

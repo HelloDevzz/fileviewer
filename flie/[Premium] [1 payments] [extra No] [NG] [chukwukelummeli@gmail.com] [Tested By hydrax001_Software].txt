@@ -1,0 +1,15 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: NG
+– Plan: Premium
+– Streams: 4
+– Price: ₦8,500
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793919814	nfvdid	BQFmAAEBEGjaxcunoxjZ7-wLyYuL6IZgn55t_V7s2QOIXsJ2sW_3azhEHekjY2CFOspc93aBYJQjKSATjnnX6R_FwG8dAn9wRMWJ6a7aNrLrg3Spiy5hYMLgGH7cJkQBz0MmSgeWpodOh796wRduiBcSAbyl3eWk
+.netflix.com	TRUE	/	TRUE	1803974546	NetflixId	ct%3DBgjHlOvcAxLgAwFS7s2SW8qikDEQp6evatMbxDu5-OaOAn0J5N4sr3Z08BJEGUHO51p7R79nJMcyslMsRm0yZBcqGSSNmmycqXJSBthHrPiOSioNrMW1cVKBY5F-BfJ3B-p93shgfGaC-SUlhgsAtquYwElYndWjBtz4qgO7N0dNu6m8xUnmTvPaW2fhLTfrOiLE5f63aeeVRdUwmzjc1ET8M9kLW7FrLeRedvGwwQIbpQQE6ddu7-mpyd_jCbSb_isCC-FRBHAHcquDuQISX8GzpliOUQKdSzY3dPvnRoizE2cGv86as6uqWP4mKC-U02lCq4IzFn9l8FIRoEBSaKgX-6ItgXLUnw5MAuua81kEB2s9Kne9Ld5e1H4hEh8IxkXIeWqAvvkBddkQfii3ZFmMzeS5DJknOYQXft81hs3HDp0QFbfVMngbJ56oWBrM-Ky0JVWyr0Ql-_5gicivpJb2LhdPS0cj7BaGytFsWq31CHJlcH6vzPD49uEqLCQCEaBfVckB9G9MM-yPg9FgDIEtOEVTzHgno91sSLfVa3VFvGDuDwIb1gUCNmlqisZf8MswSeVmlXLrz9h8RcJKc_ZR-FVjx3EqWJFkn_PxO_gCWabjdkxza9Jr0dLihTpqub5U-ic-DlsZ0hgGIg4KDDdp7zxO9S7a_wpIoA..%26ch%3DAQEAEAABABSEKfteSISeo3-UJjlh1sUT7Io9RFM4_rA.%26v%3D3%26pg%3D4WULA7MAGJCLPKI5DICVSQYGJQ
+.netflix.com	TRUE	/	FALSE	1803974552	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+09%3A02%3A32+GMT%2B0100+(West+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea2b44f2-f123-4684-bde2-a38b69563529&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

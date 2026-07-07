@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: DE
+– Plan: Premium
+– Streams: 4
+– Price: €19.99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805141385	nfvdid	BQFmAAEBEJQqsh9oQDh4AiGdEe3O-R5g6lUfvVbuNdMSuZq-Cun1cbv1uMLOjBhHZRJosBtLFvX-wOfRR8-yqsNtZB3wH2SZ0zw5fkanD6yH6qzPR4BCvkczv52xo3qpuilSArVWwfz7VcfdYBX7UfIIoYFpz3ED
+.netflix.com	TRUE	/	TRUE	1812237136	NetflixId	ct%3DBgjHlOvcAxK0A5VSeHMlBjbZnoQJa86DpvTj4CNJ5Sl7CxQdfG7J20VDHc0HxKvNO_p66ULNDtgMjmRbzIajNHXA0sQ9EV7bEK4SlHs-VJoaoftGVWXmHwd7PXpLkpODeicX0-Mfsm1atWkp6mbBpowKHPpvVifq4qX137dm7_lsc50kXzk4P1554tjZGnS2GrgHT--rT6poFEP3IvzqgwRjcT0bgc79CbrBoa0FSOHvRfLHhUXtyfxRjXBpvgUChJQU8NQcTXuS-61Ogp9BMtjL0FFXUtMnZb-yQgk3198uxi1cAfB1_dMH-rRBQteFgYyxVVZ6AfdV3sVAyjEPxcD2sx4HxX9PRI18HFqEsFiHVUmzNK4uR3R3Ji6zghEUlLdFBF29sYS8VkDT5wn4IesSkfl5dS52aFaUa0uQy6QkazTRfzjekvd42V5MDU06M9Mu61PpSHCU7bXpSqEcuhVrgdP0jwsaY5u3UTnq_7PjEIoFYAB7qbZOmL5zp8Z3PA1VKGB4Zy6f0PQSFW1fuYabvXlJMSEAToYoOVlTtnFlorDXHBh8blWNpbcAyMVUnBIPjWaMpjG6rWfleAoYBiIOCgy1YFxUpNfrDuqpcGA.%26ch%3DAQEAEAABABSxqkubKF_uo82WkOzwbIZXBlBs2mt7J2A.%26v%3D3%26pg%3DO2RDESLX5JHW3GFHHZO7AF2X2E
+.netflix.com	TRUE	/	TRUE	1812237136	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIVai6hA8j2aTFS4d6qD0QNQMoWgd2LxM.%26dt%3D1780701135816
+.netflix.com	TRUE	/	FALSE	1812240329	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+02%3A05%3A29+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9fd040a3-2559-4ca7-a186-1c7a00de2554&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1773605306921&geolocation=DE%3BBE&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: RO
+– Plan: Premium
+– Streams: 4
+– Price: €13,99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796493552	nfvdid	BQFmAAEBEGfmxw1PI2yTm6zKx8aCF_BgMvL8sNxw2YxNqklFUPcyaFmBYgdbb37186Jni39wGR24wPksd1OGE0j5yfoD5bH3NLslOsjONYdvhboTRhCV2kvjMwH9fDdWwI7PAkbFbT2glDduA1nDArGOkyY3OLEJ
+.netflix.com	TRUE	/	TRUE	1798811173	NetflixId	ct%3DBgjHlOvcAxLsA6irY1DqzjccWlL9L34ikU7rEibN6FuUod9UtkAL6PX3Gp6NCWlAgd1Nqw9C8gEikFsFMEDFVTPdZhADtJ5NSF8VwT7_-dovnUPUBux5bIDPc0rYg9QJ0jAoIX0YBQkkucCDsnJqj1Rj-9r5Y0iOJQ0m7DcLouWR9Dip-TbCfQL6E4s3XPXpiuCnagACKrzA-AamKk8myUCGet8xTPvEEq84WNazZCvXVK_UwkyuNN6dIaDQoi63hmXN-wQBJyTebR8GwV6IfkO44PY2TGtV12ymfwg9oxRGHDLVhh5UBtymudIV7QwNHIxxRJXVcuSINFj2OcAzMPl86WOXcGu936VqEfrYiX939SuhB_czbiMW1Kx4td8APpPWPFdfYeMDJYJNGZaB2iEyiypO7MPsYcvfSGShVp36JwJcD1XP0Ss86FYdZ453yqMUQ6sFJT4eMBmDbwLA2tKckJY8TM5Aa-xo3XjatBvmfE-gy6ttdndQRuOlqkXO28wPnI5XrnNLp8bWz_zCa5KZ0BgfiAoFX9E8gPU1LhN1HJfuG5aZOU2Ow67PkwoTA0oDmccW4VM7ED60w6F03eFCWHifhCS-6SNYP0UIhsnzCyEGjQzWFQ2L8LMgckd8FmoLi8PwPpoQFfUHfOLEH8XuDwg_qRgGIg4KDCqkewIQsxy8VQLu3g..%26ch%3DAQEAEAABABTuHxlo89ro--rh8REBivQKzSZK8xBDyrU.%26v%3D3%26pg%3DFZRWIYQ3DBBWHHIJANHYGOAZBY
+.netflix.com	TRUE	/	TRUE	1798811173	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDepwNFpGo0XeFXF0q0DF2GI_02XZxsAY.%26dt%3D1767275170882
+.netflix.com	TRUE	/	FALSE	1798831668	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+21%3A27%3A48+GMT%2B0200+(Eastern+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c89ce37a-2a2c-48a8-b35f-6e45e8cdb385&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=RO%3BTM&AwaitingReconsent=false

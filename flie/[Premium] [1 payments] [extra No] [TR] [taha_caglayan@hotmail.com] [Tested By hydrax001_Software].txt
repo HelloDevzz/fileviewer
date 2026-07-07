@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: TR
 – Plan: Premium
-– Payment: CC
-– Quality: UHD
 – Streams: 4
 – Price: 379.99 TL
-– Extra Member: No
-– Profiles: kimsin
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

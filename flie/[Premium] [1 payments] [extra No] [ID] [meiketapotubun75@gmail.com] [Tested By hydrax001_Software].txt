@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: ID
 – Plan: Premium
-– Payment: MOBILE_WALLET
-– Quality: UHD
 – Streams: 4
 – Price: IDR 186,000
-– Extra Member: No
-– Profiles: Alaz
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

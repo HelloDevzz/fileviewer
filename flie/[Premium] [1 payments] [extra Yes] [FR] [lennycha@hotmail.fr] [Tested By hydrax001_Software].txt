@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: FR
+– Plan: Premium
+– Streams: 4
+– Price: EUR 21.99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810571365	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA6rIK2m4F_bkM8B6g8obOf5bP42Imjd08PYSBxrkH_InQYpOFYbUJ1JwNowlnvevdvhu9XetLFWayNhrfDRDnC2KHEmw021KVmT3-CcS1bNWIK86FpNWzp_O-kdi73cNquz5GNHPS8uj5zbtHocku1tpGsSVFSx0M0rvMJY3vrYqvhwJtLA7UCWeRs0YRuiX1OxddAcRLO1_7d7_eWK0MvL84rEx9PDtjKqqFF5BGPm2FiE_erTxUteftARvDEWN6EQapRfHEez0qTnnR3twWkT5Whnqam7nY1VCuRYhFnJ04UxHWHlUEAffy9nsfc8HSYylkZqhlk5ezDE-tOPPumTgA0KhvuXw1-irlSJfMhKR4LfVvSFrfsZl6CcKNi-u9i3ZKRlv_iDAjfVIVEaWz0bzOrMnZczkWzrq6Uf4zitmZ0MJN9ln8fuKtWHrmsFCOREL4c5GQOjdxzKWuFcPaLS65h4FUhEz2Le0F5BKBtyMKOT-tP96TezifR3DZyi659MQcD11TLZJmrHfZ_dUEOjALzIzM6P80LKg7hgGIg4KDJ9kISkbSwT7yeTO5A..%26pg%3D44RXKKBMENGY5IDKH752PC4G4A%26ch%3DAQEAEAABABTIHTKB_FHqQaE1hCc4FzAx7J_XT7_Nets.
+.netflix.com	TRUE	/	TRUE	1810571365	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKkVWr8LpJM08B0V_ILLxCCi31LmVDOT8.%26dt%3D1779035365153
+.netflix.com	TRUE	/	FALSE	1810571360	nfvdid	BQFmAAEBEM81T8N1fRQEbvC4ktkJueJgNpNxXArrUL5ZDNisIIGaVtm1AtpqrTfnbDZO9v8SbUGIy7D2KlAMhrlzP_YEWjDLSgJAys2--OMtw0eFhWclCBJ-dbrFaNIl3b-h_StJt2XvUe07MJJuisVh7_Q8PblR
+.netflix.com	TRUE	/	FALSE	1810571565	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+18%3A32%3A45+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=30b41449-01d0-4ae2-bc60-d97097eb1a7e&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1777325111151&geolocation=FR%3BIDF&AwaitingReconsent=false

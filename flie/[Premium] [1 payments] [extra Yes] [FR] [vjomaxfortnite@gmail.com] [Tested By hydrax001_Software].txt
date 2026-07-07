@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: FR
 – Plan: Premium
-– Payment: PAYPAL
-– Quality: UHD
 – Streams: 4
-– Price: €21,99
-– Extra Member: Yes
-– Profiles: checho
+– Price: €21.99
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

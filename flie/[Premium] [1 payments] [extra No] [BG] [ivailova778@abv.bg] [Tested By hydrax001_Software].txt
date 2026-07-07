@@ -1,0 +1,15 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: BG
+– Plan: Premium
+– Streams: 4
+– Price: EUR 10,99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802885469	nfvdid	BQFmAAEBEPDKd_Pf2U7Vj5PAizFZWFBgNCaSSeS56V9gQfH37UE7t9DLDzHNZXCEbYvBx73iYrhuTwmrGYs9FBBtHdEGDcxO2ijn6nB5I2E2eWmwOX5PQJnyMmiC3v9lxkaEbTdxy8aapvyuQmTBjOusQZvfW4AM
+.netflix.com	TRUE	/	TRUE	1809611277	NetflixId	ct%3DBgjHlOvcAxKxA-o77rMQczu6KzC7tidce1xWs-EOkzni3Exf6q7xG2PsKxy0eFI0qmscikge51VYnvswbcKhvjZXopbyVWFvJNGgm_kw-uYUMKkdOJTm3Ra8zanT_T96P4lDnUlgsWBNHXFIZVGrLkJdz4-G14eGiaTGXpZNiGnU9xD-bvh3oI6BIPlm-VsDmzRtvhzWoLv4hEOTRnufqD4PXtHa-1KDpiVEMaLV5qNgPqWac_7JHlczcbcqdfJQU9ppap1_AzBkLVsTROxQc_t_F0ki8IrA2EqQ7V5Emgm9vTvFB4O6095geOQIZL4Gp-9xHj85VJsJnWjEShWlI1OOU--JRhq6vMwotPnwezIBEho6_nBlZG1sAOrmKCSLR-0UQ-KvieHoxiGpC-sGyYHNvC_CDimtHLKoT0gGcZoMmxgeXcOV2quO53uxzCtTr9qqrIEYeuQ9u-qxQfB5K2Ei-ZrjiodUaExnj62h10q4ctAj_nS7NIaVFvbuJk7mVXQHYI4umsmYhNdUpN0MdQnemaPYUQezlp994IJB4q_Ngy0TUQjcUsfP5uu9Dl2F-Zi2ehqFMlxexNwYBiIOCgxKmfFIRr-xnU7hVLE.%26ch%3DAQEAEAABABT70jVWFq2FowGFtGFuwIIN8HFLDo42tHY.%26v%3D3%26pg%3D4TPLKWHTNRFJLHOHDMOO6RVLME
+.netflix.com	TRUE	/	FALSE	1809611274	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+16%3A47%3A54+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70cf0093-fbb3-4bf9-be03-dcbcd1630a87&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1771349128495&AwaitingReconsent=false&intType=3&geolocation=BG%3B16&prevHadToken=0&isDntEnabled=0

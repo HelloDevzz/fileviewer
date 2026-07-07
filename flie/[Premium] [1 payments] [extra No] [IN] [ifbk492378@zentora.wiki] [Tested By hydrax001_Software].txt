@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: IN
 – Plan: Premium
-– Payment: UPI
-– Quality: UHD
 – Streams: 4
 – Price: ₹649
-– Extra Member: No
-– Profiles: SAHIL
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

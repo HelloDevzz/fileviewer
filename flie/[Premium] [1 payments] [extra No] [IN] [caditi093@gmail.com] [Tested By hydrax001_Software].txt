@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Streams: 4
+– Price: N/A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807208267	nfvdid	BQFmAAEBEEt09Y4XkYO1JCTtU-5oeJxg1ej-Ddx3kc1upcdnXuK64s1s2voxah_xmnGMkyz760rm1Uv8wG0BavcDc73IxEMMC-n89xsQ5UAW9a7hx7Q8cMqipsPmNplkFKC3s_dhfb_qE1bxfkkQ11dMZamYTnZv
+.netflix.com	TRUE	/	TRUE	1810556313	NetflixId	ct%3DBgjHlOvcAxLLAxs6F8HRY_Polpcub7B1Z5e3xGSZprCs2OKkXuTnrP2IuyUNU_VGrgJSOTg7elDCoHQ5lIVuvV3xMACEUx8z0KfwLgQnNFnAgz68bY7M9g5tdzJogs_W2XWMh6mG6Nmb5wJr51Fw0bp3WjZzluM5jJBbLfo6SEah_pg7veC1vvoBCMZQrFvbrmCucwVDhu1gCkhvZCYRWT0yWmLAwGXhhTCV1_oN5oxwADE92LMCJov6HU10x9qLtXGfjtm3ywqfwqaeiWfec0g3Q5bgO6nn4R0tgdU7wDFUqYfG83ZQXtzTF1m5782wA_qEuRaGV_-iavvNrTqm16s8qp9wC0A4MZlLUmZmJB0-RY8faLg4e7nLJdNFM-6cwIGON3fzi8Ir9B81XEphH9dXM7wHK0CasUAEbcPxEnYfgii5ps3TW-HRqbcWoOHqpeCOezbMW8bAyyIAgD5mlum1uRXtiOi6884fMhShU4_YhYa1yix2rPxSWYWcB9spBOfM_PuRzHIzNJflio0BmT-BloPuirhTNPCirGtDGVrgibxZ0JUBczYB4b60W0GGJxMH8Lz-M1J59sn1jEIA4v2CG1V3uJJGfXYmWKNDZKiWvwahtRgGIg4KDJWCCnem2ylqQ-JvXw..%26ch%3DAQEAEAABABSGsHUSaWONKK7XEN38AiqzFt4grgkEXyw.%26v%3D3%26pg%3DKMBBMVSZARF27MUUBAYOPH6IR4
+.netflix.com	TRUE	/	FALSE	1810556315	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+17%3A48%3A35+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c80e49d7-d37d-4d27-9261-a5004669d640&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810556313	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1IthWy9-AkSGz_LFGg1S2v6wPYus3HS0.%26dt%3D1779020310570

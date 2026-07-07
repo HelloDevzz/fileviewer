@@ -5,12 +5,8 @@ VERSION: V2.0.1
 ═════════════════════════════════
 – Country: BR
 – Plan: Premium
-– Payment: DIRECT_DEBIT
-– Quality: UHD
 – Streams: 4
-– Price: 59,90 R$
-– Extra Member: Yes
-– Profiles: 67
+– Price: BRL 59.90
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 
