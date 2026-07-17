@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: IN
+– Plan: Premium
+– Streams: 4
+– Price: ₹649
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811070116	nfvdid	BQFmAAEBEN96RakGEnPCH0_cRmo_kDJg-Q9FAvAUv0FO9lynLoL2U4EmmL-1Ar_RjugMGJQbT5LIQXB_6kxIrgyah8X6uorN5Fw7E9p2MWigXNKQIMAJ0KmKG3Kjc3IcNYVegjUhoJlT_isqtD9_fmq9yuYHq7vw
+.netflix.com	TRUE	/	TRUE	1815414610	NetflixId	ct%3DBgjHlOvcAxKOBEOxAaczVuvlf3Ho5Nr0wlSq9rweSlSIzDe6eu9OU3ih3PwW1Px53Z0waCN6vMSkGjPY84f9OmzU0g-NGhFf9zk3TwFO-q-1_RBB-k09uOYfAQj5qrABuD4ljz92l7OTDV_U74uobwjDkiExed-V5IkVzB-kpp6B9Vos19VmP3ml-1YSTfKvj6prKs-FrYI9TXwstbvAOd1TNvCA7MfRM7dwsnxeONCaTjmklpxurxs8GaGVyDBD84mPOmsx8h4h7zVSEFBoTLko8aLrRehmbrcf3m3gJ0HOJgKOYq18p3-aYSJJcNL7SLI5DXjtkc3qY1JaqDZxzMvSt9yiyMORDL_in1Q9JeKC7qj_Z1rnQ7SudnSB60S4_bTicJIlJbYe9bLN6mF7SorQrAoWiDJl8lcf4REm9FMxld8D7FHIZlD9_trN5h8KK7nQX5RJQe7c7gpY52z360Wr-xTW8MeiUJPERcdyZKWPEd_3yQyTsGVktTz2AGbHCIJbeisMfN9F3tMpPOQjjuifZwptYKUJknl6COGtwT4maT0TNbipo9-fxJH76PjnZ8jp068eYKklspcGFdPenGWMyicTiqSavqEyAYnZ2qmG6og0g5Rqce5Igc0qeumzzyE_WKsvUaTBLa45kb294ZUezxXTyRMeT1NBwLidQPNXOsMfw4_Qt28qSfpNLbZzCIf0oyoADhAYBiIOCgyYCE2DIhn4VyF4HPo.%26ch%3DAQEAEAABABSDh1ya4e__7sSEzd1REIy6YeP2EwRTzWM.%26v%3D3%26pg%3DXSG3GXPKLNBZRMBPRXCY2CKGAA
+.netflix.com	TRUE	/	FALSE	1815414613	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+12+2026+23%3A20%3A13+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de681d50-fc8e-4e72-9f4e-eccabeaee1fe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1815414610	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJoRfwqC-cu9DPb_Ko_vG9jW6fqIO8QEc.%26dt%3D1783878609697

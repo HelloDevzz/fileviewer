@@ -6,7 +6,7 @@ VERSION: V2.0.1
 – Country: FR
 – Plan: Premium
 – Streams: 4
-– Price: EUR 21,99
+– Price: EUR 21.99
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 
