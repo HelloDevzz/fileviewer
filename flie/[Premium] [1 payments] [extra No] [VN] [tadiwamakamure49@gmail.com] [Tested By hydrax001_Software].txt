@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: VN
+– Plan: Premium
+– Streams: 4
+– Price: 273,000 ₫
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1815283504	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQeZ81EOxnlOpR--mIpRsMt1obwrGsCq9Y.%26dt%3D1783747504238
+.netflix.com	TRUE	/	FALSE	1815283504	nfvdid	BQFmAAEBEF_4ifx_Wq6H7fsVH_oHAS9gISWzVO4o5ToDI24IYIEe6wx6J9saoeQOubwDjzx7eaDUdLRKSowQdEPT7DJGElJa2tOzA6UcEEdeH3_KeyRc9-9uTnWPgs3Pa81gXi4MCAPLZVoi-6cwWVDCHTk-Yse_
+.netflix.com	TRUE	/	TRUE	1815283504	NetflixId	ct%3DBgjHlOvcAxK1A8d2HzZHTCht64YK_ka6K1mVbvqpvo2ugTPL7azBNAA4qfp142qapCkAh7qRZDFJLJYZ6jBWfbxKbvubMfpVL0g5mz5USPfOoiWwy-D0aSJE3nMoaidm2FPGfjmNg09xoichjt-pBZ4sH3DtkgjudYSOBUeobqtGK4NTLzxsVC8mtrnn_ZJn8PZ_C1WbDA6mTNQ4jFt9X4qz9CU3xrlF9nyQ_cLutuloczZpJkdWk04H-gO9W_a9EjdxFVFoJHHSEY4TvGWD0OY8GqUrwtw1MYyFt1-GvBPIxuOhg_7-nhBHUHBnSKhiWHTg5L88qih5d5kY83jFKFK6U4gr5GoLiI79FyuFK1fTDv5pUs6LaDw-b7yIceWHIhVoHolAoA7J3fGe9Cx2VTdPeympJNIyhQruWT2Z5R3vgeTf0s93h2pnxUIag5qU2wPDtCbKdWqhSamRMmPfA7jCch80jmciuT-z43syYSXYEX8tkkQu7g6flP3Z_boxcXPW1q07nw0iTA-e-gotfGyJ55v_GYWqau_P-1A8yrCgnXKgwuIS_gEvEcHDJ98s9RbZVpt8Fq5LM3kTxV9gGAYiDgoMYp1Koe5JGi03pfug%26ch%3DAQEAEAABABStxFZdRid5kgglc5unMFGVtvx5txjex7M.%26v%3D3%26pg%3D5D5X2UYDAFHAZE7V4RSD23WSXI
+.netflix.com	TRUE	/	FALSE	1815309703	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+11+2026+19%3A41%3A43+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=17469c22-ea90-4f2c-b788-6c56581d353d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777532645086&AwaitingReconsent=false&geolocation=VN%3B07

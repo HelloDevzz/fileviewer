@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: AU
+– Plan: Premium
+– Streams: 4
+– Price: $28.99
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803030327	nfvdid	BQFmAAEBEAKD4fw20p-rBgb9NGADo-JgZHqivrrBsB66eEjO-WiKgURafSQuyfTTY5PkbeL3WS3Ze3Jq6mCUMlx_fK4rThwUZa59NAix1RRInXDOQQ0tLBuzTFdfUUF_c_xCBZNszhQmE1q-r7db3DRgrmddabnV
+.netflix.com	TRUE	/	TRUE	1813324153	NetflixId	ct%3DBgjHlOvcAxK8AzGeUnpe6mnZa6NkyUrJ6dIE6b3yFbW1biv2V0OUoTp1IJxr3Pb9Lyvq0p78-mTPv6Jxd4qRu1S0UhJqn6jgsTebqxl1ZpG_kgDtXHXhHfbCambZAoU7RAgR1cuGzVI6-AhtuVBziMfTjdglfvextJEGHg2CXlfbeXOVag4mqB8J814yktP3GVNGP3Fs0UErccN9wixQW28TUG2oG6UVc-Jiaid8LdLm0CcPSLiYesm964YG-XdRCmnhHdwNr-e1kFFz4NBG-ZVni3tRjjg3VFmDR-nhNZn3J1c0Qxi89-FKuwB9JflnnKIa42TEW29SLXEeNLviodPUErCuBbFyISd-r7TpmCoVxuBOt9BsF31WEgb_u83Nld0EjVckHDv7t4Cyz1nF1gBct1E_v9SHl2IjxRf1ERhJDUN7nTIvBzwSsA1jQNKjlEIB7ifpxwh7eWGBcB7T2rJrk46gY60ELyRcNpEYZBb2RSe2VFgjFU8GfehlVivDQsAnA_QmjISHW5rFK5v9Pbjrk_JzQHKkklOrNpU1pmB1_RAtaNPCVHxJEoHMuNOPH9v-vqYibtabI3Pxh0nUsipFYkqo9RgGIg4KDO2inxAXzUUezeJ9yg..%26ch%3DAQEAEAABABRLCwL2BfUNn2mMZnvXR9V0-jIu4loYf_k.%26v%3D3%26pg%3DZDN3VU42HZB6XC5KR5C5VABATM
+.netflix.com	TRUE	/	FALSE	1813324153	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+18+2026+23%3A09%3A13+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=619f5a28-9338-4b66-a6f1-a88a88f59451&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771494327430&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813324153	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_DBZ7hd2e8TS9sio_d-hZAfiDrJh7oCs.%26dt%3D1781788153813

@@ -4,7 +4,7 @@ SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
 – Country: IT
-– Plan: Premium
+– Plan: พรีเมียม
 – Streams: 4
 – Price: EUR 19.99
 – Admin: @hydrax001

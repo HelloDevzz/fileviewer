@@ -4,9 +4,9 @@ SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
 – Country: IN
-– Plan: Premium
+– Plan: Cao cấp
 – Streams: 4
-– Price: INR 649
+– Price: 649 INR
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 

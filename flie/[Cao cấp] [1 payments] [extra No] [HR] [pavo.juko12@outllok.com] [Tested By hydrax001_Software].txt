@@ -1,0 +1,16 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Country: HR
+– Plan: Cao cấp
+– Streams: 4
+– Price: 12,99 EUR
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794854210	nfvdid	BQFmAAEBEFg4LZvaWebicna-R1_AO3VgD7kmuKUJhNWXemUsiRPGnyqeFdC_dzqPGoIg9h9DuYwhjKgNMDm9Eef1cI9Rs_ukJilkkHPLS5fladfe0MWZjDoNkZD985wMnoagB-GFirqj7T2DA0CuhP5WtksCaPwQ
+.netflix.com	TRUE	/	FALSE	1799176238	OptanonConsent	isIABGlobal=false&datestamp=Mon+Jan+05+2026+20%3A10%3A38+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202510.2.0&consentId=bb26a3f0-4e35-4a74-ace8-a2babd917d43&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=HR%3B17&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1799201403	NetflixId	ct%3DBgjHlOvcAxLpAwjZUPaw_MvbF4xAECj4B8it3XtW07fL_NYIz_jy8RU84Lr9qU6e_ZXzWQR6gLK3z61wJk4jj5WP1Xp3yDV9mibU3jUJcEWZid74ii4C5oiHfrGUai9dPN1OvwCR1ld5kJ67jGzHwUTDrMe7-LB8UMtuwHyiIFB_VBsR2Krby8TqksljZ4OE74NvVSh6UWWxtJuOZLWnI8X0LSLPJAKraTSJ2TTkHKpGJq8V77flhc_29qwhQE3Gv38xdDVQJK87r6SF-taZKyeyvuPIzDikqeBLcoUwP1KNyI6j1ER4ZmnTLx0_Kn_TptPjes8STUD71qx5G_d23bZUYJa_ZE61QaXWRppNNd9n7yDfUuk9SXIlX0HJfKdTB_PjsrYHI0_Rju4HLTRjjILMN1p_ZOsEZQ74_A5YmVx3xzx_cz6t0Bpfxd92f0cEDgEzzAH4Fotafv--XcYkP_nVFBTETu9wjwoL8UfdTkNlHIqtxrl8-kvp70h198HfScMYcdeH-k7i2_5OW4uIfDAzVe8hZCITw6Bvp3V2mE3lZfEA2Witxc-Rgw_6Fls2ziVV9n5qGl-ZbwR4uO5tyTQojbS38lVwofTeMI3-PRaXyOL4T-x38OqRq91uau4Drtlfs-r3Y7Sd_uNf911mUnOIeRgGIg4KDAqGGh5MasH3Q7H6Ww..%26ch%3DAQEAEAABABRe7ihXSly_p8m1IHiGEniq-98AA7lOHn8.%26v%3D3%26pg%3DOPQSBWZXLZGX5IFSNGV6O6PVCE
+.netflix.com	TRUE	/	TRUE	1799201403	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTmUhRBxc3FTPYmfQJaZeEbkdJsdfjs0qw.%26dt%3D1767665403318
